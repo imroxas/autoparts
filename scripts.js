@@ -18,44 +18,66 @@ document.addEventListener('DOMContentLoaded', () => {
     // Cargar datos al iniciar
     loadData();
 
-    async function loadData() {
+        async function loadData() {
         try {
-            // Cargar datos desde GitHub (ajusta las rutas según tu repositorio)
             const [parts, oems, compats] = await Promise.all([
-                fetchData('datos/parts.json'),
+                fetchCSV('datos/parts.csv'),
                 fetchCSV('datos/oems.csv'),
                 fetchCSV('datos/compatibilidades.csv')
             ]);
-
+    
+            // Procesar partes
+            const processedParts = parts.map(part => {
+                return {
+                    id: part.id_parte,
+                    nombre: part.title,
+                    categoria: part.categoria.toLowerCase(),
+                    eje: part.eje,
+                    materiales: obtenerMateriales(part),
+                    ancho: parseFloat(part.ancho) || null,
+                    alto: parseFloat(part.alto) || null,
+                    espesor: parseFloat(part.espesor) || null,
+                    diametro: parseFloat(part.diametro) || null, // Para discos/tambores
+                    altura_interna: parseFloat(part.altura_interna) || null, // Para tambores
+                    imagen: `imgs/${part.imagen}`
+                };
+            });
+    
             // Combinar datos
-            fullData = parts.map(part => ({
+            fullData = processedParts.map(part => ({
                 ...part,
                 oems: oems.filter(oem => oem.id_parte === part.id),
                 compatibilidades: compats.filter(comp => comp.id_parte === part.id)
             }));
-
+    
             initSearch();
         } catch (error) {
             showError('Error cargando datos: ' + error.message);
         }
     }
-
-    async function fetchData(url) {
-        const response = await fetch(url);
-        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-        return await response.json();
+    
+    // Función para obtener materiales
+    function obtenerMateriales(part) {
+        const materiales = [];
+        if (part.semimetalica === 'true') materiales.push({ tipo: 'Semi-metálico' });
+        if (part.ceramica === 'true') materiales.push({ tipo: 'Cerámica' });
+        if (part.low_metal === 'true') materiales.push({ tipo: 'Low metal' });
+        return materiales;
     }
-
+    
+    // Modificar la función fetchCSV para convertir valores
     async function fetchCSV(url) {
-        const response = await fetch(url);
-        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+        const response = await fetch(`${GITHUB_BASE_URL}${url}`);
+        if (!response.ok) throw new Error(`Error HTTP! estado: ${response.status}`);
         const csv = await response.text();
         return csvToJson(csv);
     }
-
+    
+    // Actualizar función csvToJson para manejar valores
     function csvToJson(csv) {
         const lines = csv.split('\n').filter(line => line.trim() !== '');
         const headers = lines[0].split(',').map(h => h.trim());
+        
         return lines.slice(1).map(line => {
             const values = line.split(',');
             return headers.reduce((obj, header, index) => {

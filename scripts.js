@@ -121,6 +121,10 @@ document.addEventListener('DOMContentLoaded', () => {
         partNumberElem.textContent = part.id;
         materialElem.textContent = part.materiales.map(m => m.tipo).join(', ');
         axisElem.textContent = part.eje || '-';
+
+        // Mostrar título y categoría (si agregaste los nuevos <td>)
+        document.getElementById('partTitle').textContent = part.nombre;
+        document.getElementById('category').textContent = part.categoria;
         
         // Manejar diferentes categorías
         const measures = {

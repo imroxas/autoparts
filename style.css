@@ -200,3 +200,25 @@ h2 {
     margin-top: 2rem;
     color: var(--color-primary);
 }
+
+/* Mensajes de estado */
+.status-message {
+    padding: 1rem;
+    text-align: center;
+    display: none;
+    font-weight: bold;
+    margin: 1rem 0;
+    border-radius: 4px;
+}
+
+.status-message.success {
+    color: #28a745; /* Verde */
+    background-color: #d4edda; /* Fondo verde claro */
+    border: 1px solid #c3e6cb;
+}
+
+.status-message.error {
+    color: #dc3545; /* Rojo */
+    background-color: #f8d7da; /* Fondo rojo claro */
+    border: 1px solid #f5c6cb;
+}

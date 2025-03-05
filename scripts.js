@@ -9,6 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.querySelector('.search-input');
     const statusMessage = document.getElementById('statusMessage');
     const partNumberElem = document.getElementById('partNumber');
+    const partTitleElem = document.getElementById('partTitle');
+    const categoryElem = document.getElementById('category');
     const materialElem = document.getElementById('material');
     const axisElem = document.getElementById('axis');
     const heightElem = document.getElementById('height');
@@ -164,6 +166,8 @@ document.addEventListener('DOMContentLoaded', () => {
     function clearResults() {
         productImageElem.style.backgroundImage = '';
         partNumberElem.textContent = '-';
+        partTitleElem.textContent = '-'; 
+        categoryElem.textContent = '-';
         materialElem.textContent = '-';
         axisElem.textContent = '-';
         widthElem.textContent = '-';

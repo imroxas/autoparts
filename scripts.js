@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Añadir la constante GITHUB_BASE_URL (¡CAMBIAR POR TU REPOSITORIO!)
-    const GITHUB_BASE_URL = 'https://raw.githubusercontent.com/davidrzuluaga/matsumoto/main/';
+    const GITHUB_BASE_URL = 'https://raw.githubusercontent.com/imroxas/autoparts/main/';
     
     // Resto de variables
     let fullData = [];

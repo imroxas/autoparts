@@ -1,0 +1,103 @@
+<!-- search.html -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Búsqueda</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <nav class="navbar-s">
+        <div class="container flex-container">
+            <a href="index.html" class="logo-link">
+                <img src="icons/logo-bk.svg" alt="Matsumoto Logo" class="logo">
+            </a>
+            <!-- Puedes eliminar el botón de "Cargar Excel" si no lo necesitas -->
+        </div>
+    </nav>
+
+    <nav class="breadcrumb-container" aria-label="Navegación">
+        <div class="container">
+            <div class="breadcrumb">
+                <a href="index.html" class="breadcrumb-link">Inicio</a> » Búsqueda por OEM
+            </div>
+        </div>
+    </nav>
+
+    <div class="main-container container">
+        <input type="text" class="search-input" placeholder="Ingrese código OEM o ID de pieza">
+        <div class="status-message" id="statusMessage"></div>
+        <div class="product-container">
+            <div class="product-image" id="productImage"></div>
+            <table class="specs-table">
+                <tr>
+                    <td>Número de parte</td>
+                    <td id="partNumber">-</td>
+                </tr>
+                <tr>
+                    <td>Materiales Disponibles</td>
+                    <td id="material">-</td>
+                </tr>
+                <!-- Agregamos aquí el campo Eje -->
+                <tr>
+                    <td>Eje</td>
+                    <td id="axis">-</td>
+                </tr>
+                <tr>
+                    <td>Ancho (mm)</td>
+                    <td id="width">-</td>
+                </tr>
+                <tr>
+                    <td>Alto (mm)</td>
+                    <td id="height">-</td>
+                </tr>
+                <tr>
+                    <td>Espesor (mm)</td>
+                    <td id="thickness">-</td>
+                </tr>
+                <!-- Eliminamos el campo "Fabricante" -->
+                <!-- Puedes agregar más filas si necesitas mostrar más datos -->
+            </table>
+        </div>
+
+        <!-- Nueva sección para OEMs relacionados -->
+        <h2>OEMs Relacionados</h2>
+        <table class="related-oems-table">
+            <thead>
+                <tr>
+                    <th>Número OEM</th>
+                    <th>Marca</th>
+                </tr>
+            </thead>
+            <tbody id="relatedOemsBody">
+                <!-- Contenido dinámico -->
+            </tbody>
+        </table>
+
+        <!-- Nueva sección para Compatibilidades -->
+        <h2>Compatibilidades</h2>
+        <table class="compatibilities-table">
+            <thead>
+                <tr>
+                    <th>Marca</th>
+                    <th>Modelo</th>
+                    <th>Motor</th>
+                    <th>Años</th>
+                </tr>
+            </thead>
+            <tbody id="compatibilitiesBody">
+                <!-- Contenido dinámico -->
+            </tbody>
+        </table>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p>Avenida Providencia 1650, Providencia. Santiago RM ▼ +56 9 4051 6108</p>
+        </div>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>

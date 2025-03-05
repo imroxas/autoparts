@@ -1,0 +1,202 @@
+:root {
+    --max-width: 1220px;
+    --color-primary: #222;
+    --color-secondary: #900;
+    --color-background: #f7f7f7;
+    --color-text: #777;
+    --color-border: #ddd;
+    --transition: 0.2s ease;
+}
+
+/* ===== RESET Y ESTILOS BASE ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    width: 100%;
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* ===== COMPONENTES REUTILIZABLES ===== */
+/* Navbars */
+.navbar, .navbar-s {
+    padding: 1rem 0;
+}
+
+.navbar { background: var(--color-background); }
+.navbar-s { background: var(--color-primary); }
+
+.logo {
+    width: 225px;
+    height: auto;
+    transition: opacity 0.3s var(--transition);
+}
+
+.logo:hover { opacity: 0.8; }
+
+[class*="navbar"] .flex-container {
+    gap: 1rem;
+}
+
+/* Botones */
+.search-btn, .excel-btn {
+    padding: 0.5rem 1rem;
+    color: white;
+    background-color: var(--color-primary);
+    border: 1px solid var(--color-border);
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background var(--transition);
+}
+
+.search-btn:hover { background: var(--color-secondary); }
+
+
+.excel-btn:hover {
+    background: var(--color-secondary);
+    border-color: var(--color-secondary);
+}
+
+/* Breadcrumb */
+.breadcrumb-container {
+    border-bottom: 1px solid var(--color-border);
+}
+
+.breadcrumb {
+    color: var(--color-text);
+    padding: 1rem 0;
+}
+
+.breadcrumb-link {
+    color: var(--color-text);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.breadcrumb-link:hover { color: var(--color-primary); }
+
+/* Formularios */
+.search-input {
+    width: 100%;
+    padding: 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 3px;
+    margin: 1rem 0;
+}
+
+/* Contenedor de producto */
+.product-container {
+    display: flex;
+    grid-template-columns: 344px 1fr;
+    gap: 2rem;
+    margin: 1rem 0;
+}
+
+.product-image {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid var(--color-border);
+    border-radius: 3px;
+}
+
+/* Tabla */
+.specs-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.specs-table td {
+    padding: 0.8rem;
+    color: var(--color-text);
+    border-bottom: 1px solid var(--color-border);
+}
+
+/* Mensajes de estado */
+.status-message {
+    color: var(--color-secondary);
+    padding: 1rem;
+    text-align: center;
+    display: none;
+}
+
+/* ===== PÁGINA ESPECÍFICA ===== */
+.main-content {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+    
+    .logo {
+        width: 180px;
+    }
+    
+    .search-input {
+        margin: 0.5rem 0;
+    }
+}
+
+/* ===== FOOTER ===== */
+.footer {
+    background: var(--color-background);
+    color: var(--color-text);
+    padding: 2rem 0;
+    text-align: center;
+    margin-top: auto;
+}
+
+/* Ajustes para la imagen del producto */
+.product-image {
+    width: 100%;
+    height: 300px; /* Puedes ajustar este valor */
+    border: 1px solid var(--color-border);
+    border-radius: 3px;
+    background-color: #fff;
+}
+
+/* Estilos para las nuevas tablas */
+.related-oems-table, .compatibilities-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+}
+
+.related-oems-table th, .related-oems-table td,
+.compatibilities-table th, .compatibilities-table td {
+    border: 1px solid var(--color-border);
+    padding: 0.8rem;
+    text-align: left;
+}
+
+.related-oems-table th, .compatibilities-table th {
+    background-color: var(--color-background);
+    font-weight: bold;
+}
+
+h2 {
+    margin-top: 2rem;
+    color: var(--color-primary);
+}

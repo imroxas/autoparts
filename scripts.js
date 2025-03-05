@@ -1,5 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Eliminar el código mockeado y usar datos reales
+    // Añadir la constante GITHUB_BASE_URL (¡CAMBIAR POR TU REPOSITORIO!)
+    const GITHUB_BASE_URL = 'https://raw.githubusercontent.com/davidrzuluaga/matsumoto/main/';
+    
+    // Resto de variables
     let fullData = [];
     
     // Referencias a elementos del DOM

@@ -1,0 +1,63 @@
+[
+    {
+        "id": "M1049",
+        "nombre": "M1049/M1109 - Pastillas de Freno Cerámica Delanteras Nissan Qashqai, Xtrail",
+        "categoria": "pastilla",
+        "eje": "Delantero",
+        "materiales": [
+            {"tipo": "Semi-metálico"},
+            {"tipo": "Cerámica"},
+            {"tipo": "Low metal"}
+        ],
+        "ancho": 141.9,
+        "alto": 58.6,
+        "espesor": 16.8,
+        "imagen": "imgs/M1049.svg"
+    },
+
+    {
+        "id": "MB000",
+        "nombre": "Balatas / Patines de Freno Chevrolet Aveo Sedan 200*35 (2009-2016)",
+        "categoria": "balata",
+        "eje": "Trasero",
+        "materiales": [
+            {"tipo": "Semi-metálico"}
+        ],
+        "diametro": 200,
+        "ancho": 36,
+        "imagen": "imgs/MB000.svg"
+    },
+
+    {
+        "id": "MD026",
+        "nombre": "MD026 Disco de Freno Delantero Citroen C3 Aircross, C3 Picass, C4 Elysse, Ds3",
+        "categoria": "disco",
+        "eje": "Delantero",
+        "materiales": [
+            {"tipo": "acerado"}
+        ],
+        "diametro": 266,
+        "alto": 34,
+        "espesor": 22,
+        "diametro_centrado": 66,
+        "taladros": "5 / 6",
+        "tipo": "ventilado",
+        "imagen": "imgs/MD026.svg"
+    },
+
+    {
+        "id": "MT000",
+        "nombre": "MT000 Tambor de Freno Trasero Suzuki  Swift 1.3 (2009-2011)",
+        "categoria": "tambor",
+        "eje": "Trasero",
+        "materiales": [
+            {"tipo": "acerado"}
+        ],
+        "diametro": 238,
+        "alto": 81.5,
+        "altura_interna": 40.5,
+        "diametro_centrado": 57.9,
+        "taladros": "4 / 6",
+        "imagen": "imgs/MT000.svg"
+    }
+]

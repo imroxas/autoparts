@@ -72,19 +72,22 @@ document.addEventListener('DOMContentLoaded', () => {
     function handleSearch(e) {
         const query = e.target.value.trim().toUpperCase();
         clearResults();
-
-        if (!query) return;
-
+    
+        if (!query) {
+            showStatus('Ingrese un término de búsqueda', 'info');
+            return;
+        }
+    
         const foundPart = fullData.find(part => 
             part.id.toUpperCase() === query || 
             part.oems.some(oem => oem.numero_oem.toUpperCase() === query)
         );
-
+    
         if (foundPart) {
             displayPartData(foundPart);
-            showStatus('Resultados encontrados', 'success');
+            showStatus('Resultados encontrados', 'success'); // Mensaje en verde
         } else {
-            showStatus('No se encontraron resultados', 'error');
+            showStatus('No se encontraron resultados', 'error'); // Mensaje en rojo
         }
     }
 

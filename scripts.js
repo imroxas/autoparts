@@ -126,6 +126,10 @@ document.addEventListener('DOMContentLoaded', () => {
         categoryElem.textContent = part.categoria;
         materialElem.textContent = part.materiales.map(m => m.tipo).join(', ');
         axisElem.textContent = part.eje || '-';
+        diameterElem.textContent = part.diametro || '-';
+        centeredDiameterElem.textContent = part.diametro_centrado || '-';
+        holesElem.textContent = part.taladros || '-';
+        internalHeightElem.textContent = part.altura_interna || '-';
     
         // Obtener todos los campos de especificaciones
         const specRows = document.querySelectorAll('.specs-table tr[data-category]');

@@ -48,6 +48,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     espesor: parseFloat(part.espesor) || null,
                     diametro: parseFloat(part.diametro) || null, // Para discos/tambores
                     altura_interna: parseFloat(part.altura_interna) || null, // Para tambores
+                    diametro_centrado: parseFloat(part.diametro_centrado) || null,
+                    taladros: part.taladros || '-',
+                    altura_interna: parseFloat(part.altura_interna) || null
                     imagen: `imgs/${part.imagen}`
                 };
             });

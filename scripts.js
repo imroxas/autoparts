@@ -200,12 +200,11 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 document.querySelector('.search-input')?.addEventListener('input', function(e) {
-    // Eliminar espacios y guiones usando una expresión regular
+    const originalValue = this.value;
     this.value = this.value.replace(/[\s-]/g, '');
     
-    // Opcional: Mostrar feedback visual al usuario
-    if(/[\s-]/.test(e.data)) {
-        this.style.borderColor = '#dc3545';
-        setTimeout(() => this.style.borderColor = '#ddd', 1000);
+    if(this.value !== originalValue) {
+        this.classList.add('invalid');
+        setTimeout(() => this.classList.remove('invalid'), 1000);
     }
 });

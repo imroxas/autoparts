@@ -197,4 +197,12 @@ document.addEventListener('DOMContentLoaded', () => {
         statusMessage.className = 'status-message error';
         statusMessage.style.display = 'block';
     }
+document.querySelector('.search-input')?.addEventListener('input', function(e) {
+    const originalValue = this.value;
+    this.value = this.value.replace(/[\s-]/g, '');
+    
+    if(this.value !== originalValue) {
+        this.classList.add('invalid');
+        setTimeout(() => this.classList.remove('invalid'), 1000);
+    }
 });

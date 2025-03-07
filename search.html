@@ -32,42 +32,56 @@
         <div class="product-container">
             <div class="product-image" id="productImage"></div>
             <table class="specs-table">
-                <tr>
-                    <td>Número de parte</td>
-                    <td id="partNumber">-</td>
-                </tr>
-                <tr>
-                    <td>Nombre</td> <!-- Nuevo campo para el título -->
-                    <td id="partTitle">-</td>
-                </tr>
-                <tr>
-                    <td>Categoría</td> <!-- Si quieres mostrar la categoría -->
-                    <td id="category">-</td>
-                </tr>
-                <tr>
-                    <td>Materiales Disponibles</td>
-                    <td id="material">-</td>
-                </tr>
-                <!-- Agregamos aquí el campo Eje -->
-                <tr>
-                    <td>Eje</td>
-                    <td id="axis">-</td>
-                </tr>
-                <tr>
-                    <td>Ancho (mm)</td>
-                    <td id="width">-</td>
-                </tr>
-                <tr>
-                    <td>Alto (mm)</td>
-                    <td id="height">-</td>
-                </tr>
-                <tr>
-                    <td>Espesor (mm)</td>
-                    <td id="thickness">-</td>
-                </tr>
-                <!-- Eliminamos el campo "Fabricante" -->
-                <!-- Puedes agregar más filas si necesitas mostrar más datos -->
-            </table>
+    <tr data-category="all">
+        <td>Número de parte</td>
+        <td id="partNumber">-</td>
+    </tr>
+    <tr data-category="all">
+        <td>Nombre</td>
+        <td id="partTitle">-</td>
+    </tr>
+    <tr data-category="all">
+        <td>Categoría</td>
+        <td id="category">-</td>
+    </tr>
+    <tr data-category="all">
+        <td>Materiales</td>
+        <td id="material">-</td>
+    </tr>
+    <tr data-category="all">
+        <td>Eje</td>
+        <td id="axis">-</td>
+    </tr>
+    <!-- Campos específicos por categoría -->
+    <tr data-category="pastilla,balata">
+        <td>Ancho (mm)</td>
+        <td id="width">-</td>
+    </tr>
+    <tr data-category="pastilla,disco,tambor">
+        <td>Alto (mm)</td>
+        <td id="height">-</td>
+    </tr>
+    <tr data-category="pastilla,disco">
+        <td>Espesor (mm)</td>
+        <td id="thickness">-</td>
+    </tr>
+    <tr data-category="balata,disco,tambor">
+        <td>Diámetro (mm)</td>
+        <td id="diameter">-</td>
+    </tr>
+    <tr data-category="disco,tambor">
+        <td>Diámetro centrado (mm)</td>
+        <td id="centeredDiameter">-</td>
+    </tr>
+    <tr data-category="disco,tambor">
+        <td>Taladros</td>
+        <td id="holes">-</td>
+    </tr>
+    <tr data-category="tambor">
+        <td>Altura interna (mm)</td>
+        <td id="internalHeight">-</td>
+    </tr>
+</table>
         </div>
 
         <!-- Nueva sección para Compatibilidades -->

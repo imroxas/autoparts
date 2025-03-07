@@ -196,23 +196,7 @@ document.addEventListener('DOMContentLoaded', () => {
             </tr>
         `).join('');
     }
-
-const specsContainer = document.getElementById('specsContainer');
-
-function displayPartData(part) {
-    // Mostrar contenedor
-    specsContainer.classList.add('visible');
-    
-    // ... resto de tu código actual ...
-}
-
-function clearResults() {
-    // Ocultar contenedor
-    specsContainer.classList.remove('visible');
-    
-    // ... resto de tu código actual ...
-}
-    
+   
     function clearResults() {
         productImageElem.style.backgroundImage = '';
         partNumberElem.textContent = '-';
@@ -258,3 +242,19 @@ document.querySelector('.search-input')?.addEventListener('input', function(e) {
         setTimeout(() => this.classList.remove('invalid'), 1000);
     }
 });
+
+const specsContainer = document.getElementById('specsContainer');
+
+function displayPartData(part) {
+    // Mostrar contenedor
+    specsContainer.classList.add('visible');
+    
+    // ... resto de tu código actual ...
+}
+
+function clearResults() {
+    // Ocultar contenedor
+    specsContainer.classList.remove('visible');
+    
+    // ... resto de tu código actual ...
+}

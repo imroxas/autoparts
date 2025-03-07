@@ -105,7 +105,7 @@ body {
 
 /* Contenedor de producto */
 .product-container {
-    display: flex;
+    display: grid;
     grid-template-columns: 344px 1fr;
     gap: 2rem;
     margin: 1rem 0;
@@ -156,6 +156,23 @@ body {
     
     .search-input {
         margin: 0.5rem 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .product-container {
+        grid-template-columns: 1fr; /* 1 columna en móvil */
+        gap: 1rem;
+    }
+    
+    .product-image {
+        height: 200px; /* Altura fija para móvil */
+        order: -1; /* Asegura que la imagen quede arriba */
+    }
+
+    .specs-table {
+        width: 100%;
+        overflow-x: auto; /* Scroll horizontal si la tabla es muy ancha */
     }
 }
 

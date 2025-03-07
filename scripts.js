@@ -119,30 +119,50 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function displayPartData(part) {
-        // Mostrar imagen
-        productImageElem.style.backgroundImage = `url(${part.imagen})`;
-        
-        // Mostrar datos principales
-        partNumberElem.textContent = part.id;
-        materialElem.textContent = part.materiales.map(m => m.tipo).join(', ');
-        axisElem.textContent = part.eje || '-';
+    // Mostrar campos comunes
+    productImageElem.style.backgroundImage = `url(${part.imagen})`;
+    partNumberElem.textContent = part.id;
+    partTitleElem.textContent = part.nombre;
+    categoryElem.textContent = part.categoria;
+    materialElem.textContent = part.materiales.map(m => m.tipo).join(', ');
+    axisElem.textContent = part.eje || '-';
 
-        // Mostrar título y categoría (si agregaste los nuevos <td>)
-        document.getElementById('partTitle').textContent = part.nombre;
-        document.getElementById('category').textContent = part.categoria;
-        
-        // Manejar diferentes categorías
-        const measures = {
-            pastilla: { width: part.ancho, height: part.alto, thickness: part.espesor },
-            balata: { width: part.ancho, height: part.diametro, thickness: '-' },
-            disco: { width: part.alto, height: part.diametro, thickness: part.espesor },
-            tambor: { width: part.alto, height: part.diametro, thickness: part.altura_interna }
-        };
-        
-        const { width, height, thickness } = measures[part.categoria] || {};
-        widthElem.textContent = width || '-';
-        heightElem.textContent = height || '-';
-        thicknessElem.textContent = thickness || '-';
+    // Obtener todos los campos de especificaciones
+    const specRows = document.querySelectorAll('.specs-table tr[data-category]');
+    
+    // Ocultar todos los campos primero
+    specRows.forEach(row => row.style.display = 'none');
+
+    // Mostrar campos relevantes según categoría
+    specRows.forEach(row => {
+        const categories = row.dataset.category.split(',');
+        if (categories.includes(part.categoria) || categories.includes('all')) {
+            row.style.display = '';
+            
+            // Llenar datos específicos
+            const fieldId = row.querySelector('td:last-child').id;
+            switch(fieldId) {
+                case 'width':
+                    row.querySelector('td:last-child').textContent = part.ancho || '-';
+                    break;
+                case 'height':
+                    row.querySelector('td:last-child').textContent = part.alto || '-';
+                    break;
+                case 'thickness':
+                    row.querySelector('td:last-child').textContent = part.espesor || '-';
+                    break;
+                case 'diameter':
+                    row.querySelector('td:last-child').textContent = part.diametro || '-';
+                    break;
+                case 'centeredDiameter':
+                    row.querySelector('td:last-child').textContent = part.diametro_centrado || '-';
+                    break;
+                case 'holes':
+                    row.querySelector('td:last-child').textContent = part.taladros || '-';
+                    break;
+                case 'internalHeight':
+                    row.querySelector('td:last-child').textContent = part.altura_interna || '-';
+                    break;
 
         // Mostrar OEMs
         relatedOemsBody.innerHTML = part.oems.map(oem => `

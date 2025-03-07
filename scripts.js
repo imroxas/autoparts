@@ -125,8 +125,11 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    const specsContainer = document.getElementById('specsContainer');
+    
     function displayPartData(part) {
         // Mostrar campos comunes
+        specsContainer.classList.add('visible');
         productImageElem.style.backgroundImage = `url(${part.imagen})`;
         partNumberElem.textContent = part.id;
         partTitleElem.textContent = part.nombre;
@@ -198,6 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
    
     function clearResults() {
+        specsContainer.classList.remove('visible');
         productImageElem.style.backgroundImage = '';
         partNumberElem.textContent = '-';
         partTitleElem.textContent = '-'; 
@@ -242,19 +246,3 @@ document.querySelector('.search-input')?.addEventListener('input', function(e) {
         setTimeout(() => this.classList.remove('invalid'), 1000);
     }
 });
-
-const specsContainer = document.getElementById('specsContainer');
-
-function displayPartData(part) {
-    // Mostrar contenedor
-    specsContainer.classList.add('visible');
-    
-    // ... resto de tu código actual ...
-}
-
-function clearResults() {
-    // Ocultar contenedor
-    specsContainer.classList.remove('visible');
-    
-    // ... resto de tu código actual ...
-}

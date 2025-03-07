@@ -19,6 +19,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const productImageElem = document.getElementById('productImage');
     const relatedOemsBody = document.getElementById('relatedOemsBody');
     const compatibilitiesBody = document.getElementById('compatibilitiesBody');
+    const diameterElem = document.getElementById('diameter');
+    const centeredDiameterElem = document.getElementById('centeredDiameter');
+    const holesElem = document.getElementById('holes');
+    const internalHeightElem = document.getElementById('internalHeight');
 
     // Cargar datos al iniciar
     loadData();

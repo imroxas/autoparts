@@ -197,6 +197,22 @@ document.addEventListener('DOMContentLoaded', () => {
         `).join('');
     }
 
+const specsContainer = document.getElementById('specsContainer');
+
+function displayPartData(part) {
+    // Mostrar contenedor
+    specsContainer.classList.add('visible');
+    
+    // ... resto de tu código actual ...
+}
+
+function clearResults() {
+    // Ocultar contenedor
+    specsContainer.classList.remove('visible');
+    
+    // ... resto de tu código actual ...
+}
+    
     function clearResults() {
         productImageElem.style.backgroundImage = '';
         partNumberElem.textContent = '-';

@@ -130,6 +130,14 @@ body {
     border-radius: 3px;
 }
 
+#productImage {
+    display: none; /* Ocultar por defecto */
+}
+
+#productImage.visible {
+    display: block;
+}
+
 /* Tabla */
 .specs-table {
     width: 100%;

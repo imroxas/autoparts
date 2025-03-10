@@ -233,6 +233,7 @@ body {
 }
 
 .related-oems-table th, .compatibilities-table th {
+    color: var(--color-primary);
     background-color: var(--color-background);
     font-weight: bold;
 }

@@ -247,7 +247,7 @@ h2 {
 
 /* Mensajes de estado */
 .status-message {
-    padding: 1rem;
+    padding: 8px 1rem;
     text-align: center;
     display: none;
     font-weight: bold;

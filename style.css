@@ -256,7 +256,7 @@ h2 {
 }
 
 .status-message.info {
-    color: var(--color-primary); /* #333 */
+    color: var(--color-text); /* #777 */
     background-color: none;
 }
 

@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', () => {
         clearResults();
     
         if (!query) {
-            showStatus('Ingrese un término de búsqueda', 'info');
+            showStatus('Ingrese número de parte', 'info');
             return;
         }
     

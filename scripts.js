@@ -233,11 +233,12 @@ document.addEventListener('DOMContentLoaded', () => {
         };
     }
 
-    function showStatus(message, type) {
-        statusMessage.textContent = message;
-        statusMessage.className = `status-message ${type}`;
-        statusMessage.style.display = 'block';
-    }
+    function showStatus(message, type = 'info') {
+        const statusElement = document.getElementById('statusMessage');
+        statusElement.textContent = message;
+        statusElement.className = `status-message ${type}`;
+        statusElement.style.display = 'block';
+}
 
     function showError(message) {
         console.error(message);

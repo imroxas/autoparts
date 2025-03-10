@@ -1,6 +1,6 @@
 :root {
     --max-width: 1220px;
-    --color-primary: #222;
+    --color-primary: #333;
     --color-secondary: #900;
     --color-background: #f7f7f7;
     --color-text: #777;
@@ -219,6 +219,7 @@ body {
 
 /* Estilos para las nuevas tablas */
 .related-oems-table, .compatibilities-table {
+    color: #777;
     width: 100%;
     border-collapse: collapse;
     margin-top: 2rem;
@@ -227,7 +228,7 @@ body {
 .related-oems-table th, .related-oems-table td,
 .compatibilities-table th, .compatibilities-table td {
     border: 1px solid var(--color-border);
-    padding: 0.8rem;
+    padding: 6px 0.8rem;
     text-align: left;
 }
 

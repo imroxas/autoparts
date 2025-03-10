@@ -1,517 +1,517 @@
 id_parte,title,categoria,eje,ancho,alto,espesor,diametro,diametro_centrado,taladros,altura_interna,semimetalica,ceramica,low_metal,imagen
-M1049,M1049/M1109 - Pastillas de Freno Cerámica Delanteras Nissan Qashqai Xtrail,pastilla,DELANTERO,141.9,58.6,16.8,,,,,true,true,true,M1049.svg
-M1013,M1013/M859 - Pastillas de Freno Semi-metálica Trasera Volkswagen 5N0698451,pastilla,TRASERO,105.3,55.9,17.1,,,,,true,true,false,M1013.svg
-M1022,M1022 - Pastillas de Freno Ceramica Delantera Audi - Volkswagen,pastilla,DELANTERO,118.9,69.5,19.6,,,,,false,true,false,M1022.svg
-M1034,M1034 - Pastillas de Freno Ceramica Delantera Peugeot - Citroen,pastilla,DELANTERO,162.35,66.8,18.5,,,,,false,true,false,M1034.svg
-M1037,M1037 Pastillas de Freno Cerámica Delantera Grat Wall Wingle / Changan Hunter / 3501150XK00XB,pastilla,DELANTERO,167.3,54.3,16.1,,,,,true,true,true,M1037.svg
-M1038,M1038 - Pastillas de Freno Ceramica Delantera Chery,pastilla,DELANTERO,118 & 110,48.6,15,,,,,false,true,false,M1038.svg
-M1039,M1039/M1055/M757 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,131.6,59.9,16.9,,,,,true,true,true,M1039.svg
-M1040,M1040-Pastillas de Frenos Cerámicas Delanteras Para Mitsubishi Charriot (1998-2003),pastilla,DELANTERO,156.8,53.5,15.5,,,,,false,true,false,M1040.svg
-M1044,M1044/M1146 - Pastilla de Freno Cerámica Traseras Toyota Corolla,pastilla,TRASERO,99,42,14,,,,,true,true,true,M1044.svg
-M1050,M1050 / M1268 -  Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,136.5,56.3,16.5,,,,,false,true,false,M1050.svg
-M1052,M1052 - Pastillas de Freno Cerámica  Delanteras Ford  Mazda  Suzuki,pastilla,DELANTERO,125.6,51.7,17,,,,,true,true,true,M1052.svg
-M1053,M1053 - Pastillas de Freno Cerámica Delanteras para Citroen Peugeot,pastilla,DELANTERO,155.2,64.7 & 57.7,18.5,,,,,true,true,true,M1053.svg
-M1056,M1056 - Pastillas de Freno Ceramica Delantera Dodge Chrysler,pastilla,DELANTERO,214.2,71.8,20.7,,,,,false,true,false,M1056.svg
-M1064,M1064 - Pastillas de Freno Cerámica Delanteras para Citroen Peugeot MG,pastilla,DELANTERO,155.1,66.6,19,,,,,false,true,false,M1064.svg
-M1070,M1070 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,148,60.3,18.8,,,,,true,true,false,M1070.svg
-M1071,M1071 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,116.6,42.8,16.2,,,,,true,true,false,M1071.svg
-M1072,M1072 - Pastillas de Freno Cerámica Traseras Para Kia,pastilla,TRASERO,100.5,44,15,,,,,true,true,false,M1072.svg
-M1073,M1073 - Pastilla de Freno Cerámica Delanteras Toyota Hilux,pastilla,DELANTERO,143.5,67.6,17,,,,,true,true,true,M1073.svg
-M1078,M1078 - Pastillas de Freno Cerámica Delanteras Chevrolet N300 / N400 / Audi  80 90 100 200 - Chery Tiggo 2,pastilla,DELANTERO,119.3,69.6,16,,,,,true,true,true,M1078.svg
-M1086/M946,M1086 /M946 - Pastillas de Freno Ceramica Traseras Dodge Chrysler,pastilla,TRASERO,109.7,69.1,15.5,,,,,false,true,false,M1086.svg
-M1087,M1087 - Pastillas de Freno Ceramica Delantera Ford,pastilla,DELANTERO,162.4,54.5,17.4,,,,,false,true,false,M1087.svg
-M1090,M1090 - Pastillas de Freno Cerámica Traseras Nissan - Suzuki,pastilla,TRASERO,105.5,38.2,14,,,,,true,true,true,M1090.svg
-M1091,M1091 - Pastillas de Freno Cerámica Delanteras Ford  F-150 (2010-2020),pastilla,DELANTERO,194.3,69 & 68,18,,,,,false,true,true,M1091.svg
-M1104,M1104 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,142.1,66.7,19.1,,,,,false,true,false,M1104.svg
-M1106,M1106 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,137.8,46.2,16.6,,,,,false,true,false,M1106.svg
-M1111/M1400,M1111/M1400 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,157.7,58.7,18,,,,,false,true,false,M1111.svg
-M1112,M1112 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,113,49.4,15.2,,,,,false,true,false,M1112.svg
-M1114,M1114 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,132.8,59.9,17.2,,,,,true,true,false,M1114.svg
-M1115,M1115 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,129.8,56.5,17.7,,,,,false,true,false,M1115.svg
-M1116/M1117/M1125/M1172/M1173,M1116/M1117/M1125/M1172/M1173 - Pastillas de Freno Cerámica Traseras Para Nissan  Kia,pastilla,TRASERO,99.9,40.9,15.7,,,,,true,true,true,M1116.svg
-M1119/M1121,M1119/M1121 - Pastillas de Freno Cerámica Traseras Hyundai  Santa Fe - Kia Sorento,pastilla,TRASERO,116.8,48.3,15.5,,,,,true,true,true,M1119.svg
-M1120,M1120 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,140.7,59.9,17.3,,,,,false,true,false,M1120.svg
-M1130,M1130 - Pastillas de Freno Cerámica Delanteras Volkswagen 5N0698151,pastilla,DELANTERO,155.1,71.9 & 66.6,20.1,,,,,true,true,false,M1130.svg
-M1148/M963,M1148/M963 - Pastillas de Freno Cerámica Delanteras para Volkswagen,pastilla,DELANTERO,131.6,77.3,16.5,,,,,true,true,false,M1148.svg
-M1152,M1152 - Pastillas de Freno Cerámica Delanteras Para Chevrolet / Maxus T60,pastilla,DELANTERO,152,60.5,16,,,,,false,true,true,M1152.svg
-M1153,M1153 - Pastillas de Freno Cerámica Delanteras Para Kia,pastilla,DELANTERO,157,61,17,,,,,false,true,false,M1153.svg
-M1154,M1154 - Pastillas de Freno Cerámica Traseras para Citroen Peugeot,pastilla,TRASERO,103.8,56,17.3,,,,,true,true,false,M1154.svg
-M1155,M1155 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,124,46,17.5,,,,,true,true,true,M1155.svg
-M1156,M1156 - Pastillas de Freno Cerámica Delanteras Chery   Arriz - Chery  Tiggo 4 / Tiggo 5,pastilla,DELANTERO,131.6,54.8,16.8,,,,,true,true,true,M1156.svg
-M1158,M1158 - Pastillas de Freno Cerámica Delanteras Kia  Rio 5 - Hyundai Accent IV,pastilla,DELANTERO,132.8,58.1,17.2,,,,,true,true,true,M1158.svg
-M1162,M1162 - Pastillas de Freno Cerámica Delanteras Para Kia,pastilla,DELANTERO,111,47.5,16.6,,,,,true,true,false,M1162.svg
-M1164,M1164 - Pastillas de Freno Ceramica Delantera Dodge Chrysler - Fiat - Alfa Romero,pastilla,DELANTERO,156.4 & 155.2,71.5 & 68.9,20,,,,,false,true,false,M1164.svg
-M1166,M1166 - Pastillas de Freno Ceramica Trasera Dodge Chrysler,pastilla,TRASERO,141.6 & 140.3,59.6 & 51.8,17,,,,,false,true,false,M1166.svg
-M1167,M1167 - Pastillas de Freno Cerámica Delanteras Dodge Chrysler,pastilla,DELANTERO,194.3 & 193.1,64.1,19,,,,,false,true,false,M1167.svg
-M1168,M1168 - Pastillas de Freno Cerámica Delanteras Para Toyota,pastilla,DELANTERO,150.7,65.4 & 62.5,19,,,,,false,true,false,M1168.svg
-M1169,M1169 - Pastillas de Freno Cerámica Traseras para Mercedes-Benz Renault,pastilla,TRASERO,95.4,44,15.9,,,,,true,true,false,M1169.svg
-M1171/M1158,M1171 / M1158 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,132.8,60,17.7,,,,,true,true,true,M1171.svg
-M1174,M1174 - Pastillas de Freno Cerámica Traseras Para Toyota,pastilla,TRASERO,108.8,49.9,16.5,,,,,false,true,false,M1174.svg
-M1175,M1175 - Pastillas de Freno Cerámica Delanteras Nissan  Versa March,pastilla,DELANTERO,138.5,49,13.9,,,,,true,true,true,M1175.svg
-M1176,M1176 - Pastillas de Freno Cerámica Traseras para Citroen Peugeot,pastilla,TRASERO,86.9,53,17,,,,,true,true,false,M1176.svg
-M1177,M1177 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,123,54.1,17.3,,,,,false,true,false,M1177.svg
-M1178/M1150,M1178/M1150 - Pastillas de Freno Cerámica Delanteras Para Ford / Volkswagen Amarok,pastilla,DELANTERO,164.8,66.8,18.8,,,,,true,true,true,M1178.svg
-M1180,M1180 - Pastillas de Freno Cerámica Delanteras para Renault Samsung,pastilla,DELANTERO,155,65 & 59,18,,,,,true,true,false,M1180.svg
-M1181,M1181 - Pastillas de Freno Cerámica Delanteras para MG,pastilla,DELANTERO,156.3 & 155,69.9 & 67.1,19.1,,,,,true,true,false,M1181.svg
-M1182,M1182 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,142.2,53.4,18,,,,,true,true,false,M1182.svg
-M1183,M1183 - Pastillas de Freno Cerámica Delanteras para MG,pastilla,DELANTERO,150,54.2 & 49.8,15.3,,,,,false,true,true,M1183.svg
-M1186,M1186 - Pastillas de Freno Cerámica Delanteras Volkswagen Gol / Voyage / Saveiro (2015 - ON) MG GT (2017 - ON),pastilla,DELANTERO,146,54,16.1,,,,,true,true,true,M1186.svg
-M1189,M1189 - Pastillas de Freno Cerámica Traseras Fiat,pastilla,TRASERO,95.6,43.9,13.7,,,,,false,true,false,M1189.svg
-M1190,M1190 - Pastillas de Freno Cerámica Delanteras para Renault MEGANE / 410A12582R,pastilla,DELANTERO,155,68 & 63,17.1,,,,,true,true,false,M1190.svg
-M775/M1191,M775 / M1191 - Pastillas de Freno Cerámica Traseras Renault,pastilla,TRASERO,123.1,52,16.5,,,,,false,true,false,M775.svg
-M1204,M1204 - Pastillas de Freno Cerámica Delanteras Para Hyundai,pastilla,DELANTERO,126.2,81.8,17,,,,,false,true,false,M1204.svg
-M1207,M1207 - Pastillas de Freno Cerámica Traseras Fiat Chevrolet Opel,pastilla,TRASERO,101.8,47.1,17.1,,,,,false,true,false,M1207.svg
-M1208,M1208 - Pastillas de Freno Cerámica Subaru XV Crosstrek,pastilla,DELANTERO,137.3,56.8,16.4,,,,,true,true,false,M1208.svg
-M1212,M1212 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,195.3,54.4,17.5,,,,,false,true,false,M1212.svg
-M1213,M1213 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,116.6,50,16.6,,,,,true,true,false,M1213.svg
-M1215,M1215 - Pastillas de Freno Cerámica Delanteras para Peugeot,pastilla,DELANTERO,155.1,60.3,17.3,,,,,true,true,false,M1215.svg
-M1217,M1217 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,121,37.2,14.8,,,,,false,true,false,M1217.svg
-M1218,M1218 - Pastillas de Freno Cerámica Delanteras para Citroen Peugeot,pastilla,DELANTERO,136.8,59.3,18.5,,,,,true,true,false,M1218.svg
-M1223,M1223 - Pastillas de Freno Cerámica Delanteras para Nissan Renault  Duster / 410608481R,pastilla,DELANTERO,116.4,52.5,17.3,,,,,true,true,false,M1223.svg
-M1228,M1228 - Pastillas de Freno Cerámica Delanteras Para Ford  Mazda,pastilla,DELANTERO,194.2,68,16.4,,,,,true,true,true,M1228.svg
-M1229,M1229 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,132,112,15,,,,,false,true,false,M1229.svg
-M1234,M1234 - Pastillas de Freno Cerámica Delanteras para Citroen Peugeot,pastilla,DELANTERO,180.2,75,17,,,,,true,true,false,M1234.svg
-M1235,M1235 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,180.1,61.5,18,,,,,false,true,true,M1235.svg
-M1236,M1236 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,116.6,55.1,16.5,,,,,false,true,false,M1236.svg
-M1239,M1239 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,148.8,54.1,16.6,,,,,false,true,true,M1239.svg
-M124,M124 - Pastillas de Freno Cerámica Delanteras para Ford  Kia,pastilla,DELANTERO,151.5,47.6,18,,,,,true,true,false,M124.svg
-M1240,M1240- Pastillas de Freno Ceramica Delanteras Mazda,pastilla,DELANTERO,140.4,59.5,15.5,,,,,false,true,false,M1240.svg
-M1242,M1242 - Pastillas de Freno Cerámica Traseras Chery   Arriz Tiggo 7,pastilla,TRASERO,100,39,15.6,,,,,false,true,false,M1242.svg
-M1248,M1248- Pastillas de Freno Cerámica Delanteras Nissan,pastilla,DELANTERO,168.7,58.2,16,,,,,false,true,false,M1248.svg
-M1249,M1249 - Pastillas de Freno Cerámica Delanteras Mazda  CX-5 (2012-2019),pastilla,DELANTERO,142,60.9,15.8,,,,,true,true,true,M1249.svg
-M1250,M1250 - Pastillas de Freno Cerámica Traseras Mazda  CX-5 CX-3,pastilla,TRASERO,104.7,43.1,14.4,,,,,false,true,true,M1250.svg
-M1253,M1253 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,123.2,51.9,16.4,,,,,false,true,false,M1253.svg
-M1258,M1258- Pastillas de Freno Cerámica Delanteras BYD - Geely,pastilla,DELANTERO,150.6,52.7,17.5,,,,,false,true,false,M1258.svg
-M1259,M1259- Pastillas de Freno Ceramica Trasera Mahindra,pastilla,TRASERO,95.2,42,16.5,,,,,false,true,false,M1259.svg
-M1260,M1260- Pastillas de Freno Ceramica Delantera Mahindra,pastilla,DELANTERO,158,60.6,17.6,,,,,false,true,false,M1260.svg
-M1262,M1262 - Pastillas de Freno Cerámica Delanteras Toyota,pastilla,DELANTERO,122.2,48.9,17.5,,,,,true,true,true,M1262.svg
-M1263,M1263- Pastillas de Freno Cerámica Delantera Toyota,pastilla,DELANTERO,134.4,63.4 & 57.1,18.7,,,,,false,true,false,M1263.svg
-M1270,M1270 - Pastillas de Freno Cerámica Traseras para Chagan Mazda Mitsubishi Peugeot,pastilla,TRASERO,101.6,44.4,14.3,,,,,true,true,true,M1270.svg
-M1274,M1274- Pastillas de Freno Cerámica Trasera BMW,pastilla,TRASERO,123.2,45.2 & 44.1,17.2,,,,,false,true,false,M1274.svg
-M1277,M1277- Pastillas de Freno Cerámica Delanteras Opel,pastilla,DELANTERO,123,53.3,17.3,,,,,false,true,false,M1277.svg
-M1280,M1280 - Pastillas de Freno Ceramica Traseras Nissan,pastilla,TRASERO,99.8,59.3,13.8,,,,,false,true,false,M1280.svg
-M1284,M1284 - Pastillas de Freno Cerámica Delanteras para Renault Symbol II / 410602396r,pastilla,DELANTERO,140.2,41.8 & 40,18,,,,,false,true,false,M1284.svg
-M1287,M1287 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,155.2 & 155.7,66.6 & 75.7,18.8,,,,,false,true,false,M1287.svg
-M1290,M1290 - Pastillas de Freno Ceramica Delanteras Dodge Chrysler - Mercedes Benz,pastilla,DELANTERO,194.3 & 193.1,64,19,,,,,false,true,false,M1290.svg
-M1294,M1294 - Pastillas de Freno Cerámica Delanteras Para Nissan,pastilla,DELANTERO,165.4,59.8,15.8,,,,,true,true,false,M1294.svg
-M1305,M1305 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,148,61.1,18.8,,,,,false,true,false,M1305.svg
-M1306,M1306 - Pastillas de Freno Cerámica Delanteras para Volkswagen  Audi,pastilla,DELANTERO,160,64.5,20.4,,,,,true,true,false,M1306.svg
-M1307,M1307 - Pastillas de Freno Cerámica Traseras para Audi Volkswagen,pastilla,TRASERO,123,61 & 56.2,16,,,,,true,true,false,M1307.svg
-M1309,M1309 - Pastillas de Freno Cerámica Delanteras para Renault,pastilla,DELANTERO,132.8,58.7,17.5,,,,,true,true,false,M1309.svg
-M131,M131 - Pastillas de Freno Cerámica Delanteras Para Ford  Kia,pastilla,DELANTERO,78.8,63.4,14.2,,,,,false,true,false,M131.svg
-M1310,M1310 Grand i10 (2011 - 2022),pastilla,DELANTERO,132.7,50.4,16.7,,,,,true,true,true,M1310.svg
-M1313,M1313 - Pastillas de Freno Cerámica Delanteras para Peugeot,pastilla,DELANTERO,147.9,63.3 & 58.2,18.5,,,,,true,true,false,M1313.svg
-M1314,M1314 - Pastillas de Freno Cerámica Traseras para Peugeot,pastilla,TRASERO,123,46.2 & 42,15,,,,,true,true,false,M1314.svg
-M1315,M1315 - Pastillas de Freno Cerámica Traseras para Citroen Great Wall Haval Peugeot,pastilla,TRASERO,99.1,53.4 & 50,17.5,,,,,true,true,true,M1315.svg
-M1322,M1322 - Pastillas de Freno Cerámica Traseras Mercedes Benz,pastilla,TRASERO,118.8,46.2,18.4,,,,,false,true,false,M1322.svg
-M1323,M1323 - Pastillas de Freno Cerámica Delanteras Chevrolet,pastilla,DELANTERO,189.7,92.9,16.2,,,,,false,true,false,M1323.svg
-M1324,M1324 - Pastillas de Freno Cerámica Delanteras Mazda,pastilla,DELANTERO,131.1,60,15.5,,,,,false,true,false,M1324.svg
-M1329,M1329 - Pastillas de Freno Cerámica Traseras Para Suzuki,pastilla,TRASERO,98.5,40,14.3,,,,,true,true,true,M1329.svg
-M1334,M1334 - Pastillas de Freno Cerámica Delanteras Renault  Kadjar Nissan Qashqai,pastilla,DELANTERO,141.6,59.2,16.5,,,,,true,true,true,M1334.svg
-M1335,M1335 - Pastillas de Freno Cerámica Traseras Nissan  Qashqai J11 - Renault Kadjar,pastilla,TRASERO,103.6,47.3 & 44.9,15.1,,,,,true,true,true,M1335.svg
-M1340,M1340 - Pastillas de Freno Cerámica Delanteras Nissan  NP300 - Renault Alaskan,pastilla,DELANTERO,165.7,54,16.8,,,,,true,true,true,M1340.svg
-M1345/M1339/M168,M1345/M1339/M168 - Pastillas de Freno Cerámica Delanteras Para Honda  Subaru,pastilla,DELANTERO,137.8,52.5,17.5,,,,,false,true,false,M1345.svg
-M1349,M1349 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,148.8,60.7,16.4,,,,,false,true,false,M1349.svg
-M1351,M1351 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,172,66.1,17,,,,,true,true,true,M1351.svg
-M1353,M1353 - Pastillas de Freno Cerámica Traseras para Peugeot Citroen,pastilla,TRASERO,105.8,51.9 & 55.4,17.7,,,,,true,true,false,M1353.svg
-M1354,M1354 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,140,55.1,16.3,,,,,true,true,true,M1354.svg
-M1357,M1357 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,136.9,55.6 & 58,18.5,,,,,true,true,true,M1357.svg
-M1359,M1359 - Pastillas de Freno Cerámica Delanteras Para Kia,pastilla,DELANTERO,161,60.5,16.7,,,,,false,true,false,M1359.svg
-M1361,M1361 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,140.6,61.1,16.8,,,,,true,true,true,M1361.svg
-M1362,M1362 - Pastillas de Freno Ceramica Delanteras Opel,pastilla,DELANTERO,155.3,52.5,17.1,,,,,false,true,false,M1362.svg
-M1363,M1363 - Pastillas de Freno Cerámica Traseras Mazda  CX-5 (2017-2019),pastilla,TRASERO,112.4,42.6,14.3,,,,,false,true,true,M1363.svg
-M1364,M1364 - Pastillas de Freno Cerámica Traseras Renault - Mazda,pastilla,TRASERO,104.2,47.2,15.4,,,,,false,true,false,M1364.svg
-M1366,M1366 - Pastillas de Freno Cerámica Traseras BMW,pastilla,TRASERO,71.8,88,17,,,,,false,true,false,M1366.svg
-M1370,M1370 - Pastillas de Freno Cerámica Delanteras SSangYong,pastilla,DELANTERO,133,58.4,17.4,,,,,false,true,false,M1370.svg
-M1376,M1376 - Pastillas de Freno Cerámica Delanteras Nissan  Xtrail (2015-2020),pastilla,DELANTERO,152,61.5,15.8,,,,,false,true,true,M1376.svg
-M1379,M1379 - Pastillas de Freno Cerámica Delanteras Mazda  New Mazda 3 Sedan x,pastilla,DELANTERO,142.1,55.6,15.8,,,,,true,true,true,M1379.svg
-M1381,M1381 Pastillas de Freno Ceramica Delantera Renault Clio (2012-2019),pastilla,DELANTERO,155,49,16.9,,,,,false,true,false,M1381.svg
-M1382,M1382 - Pastillas de Freno Cerámica Traseras Mazda / OEM B4Y02648ZB,pastilla,TRASERO,101.5,44.5,13.8,,,,,false,true,false,M1382.svg
-M1383,M1383 - Pastillas de Freno Cerámica Delanteras Renault,pastilla,DELANTERO,140.2,41.3 & 43.8,18,,,,,false,true,false,M1383.svg
-M1393,M1393 - Pastillas de Freno Cerámica  Delanteras Ford  Great Wall,pastilla,DELANTERO,193.2,64.6,19.1,,,,,false,true,false,M1393.svg
-M1394/M1288,M1394/M1288 - Pastillas de Freno Cerámica Traseras Para Ford  Great Wall,pastilla,TRASERO,123.2,53.2 & 48.4,15.9,,,,,true,true,false,M1394.svg
-M1398/M993,M1398/M993 - Pastillas de Freno Cerámica  Delanteras Para Honda,pastilla,DELANTERO,170,58,16.9,,,,,false,true,false,M1398.svg
-M1399,M1399 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,113.3,48.4,15.4,,,,,false,true,false,M1399.svg
-M1401,M1401 - Pastillas de Freno Cerámica Delanteras para Skoda Volkswagen,pastilla,DELANTERO,131,52.5,18,,,,,true,true,false,M1401.svg
-M1402,M1402 - Pastillas de Freno Cerámica Delanteras Opel,pastilla,DELANTERO,155.2,68 & 61.8,17.8,,,,,false,true,false,M1402.svg
-M1406,M1406 - Pastillas de Freno Cerámica Traseras para Citroen Fiat Peugeot,pastilla,TRASERO,137.1,48.8,18.7,,,,,true,true,false,M1406.svg
-M1407,M1407 Pastillas de Freno Ceramica Delantera Nissan New Versa (2021-2022),pastilla,DELANTERO,125.8,51.4,15.9,,,,,true,true,true,M1407.svg
-M1411,M1411 - Pastillas de Freno Cerámica Traseras Mazda  New Mazda 3 Sedan x / bay02643za,pastilla,TRASERO,104.2,43.4,15,,,,,false,true,true,M1411.svg
-M1418,M1418 - Pastillas de Freno Cerámica Delanteras Peugeot,pastilla,DELANTERO,180.2,69.5,17,,,,,false,true,false,M1418.svg
-M1419,M1419 - Pastillas de Freno Cerámica Traseras Peugeot,pastilla,TRASERO,113.9,53.5,16.5,,,,,false,true,false,M1419.svg
-M1420,M1420 - Pastillas de Freno Cerámica Traseras Dodge Chrysler - Fiat,pastilla,DELANTERO,141,63.3,20.1,,,,,false,true,false,M1420.svg
-M1421,M1421 - Pastillas de Freno Cerámica Traseras Dodge Chrysler - Fiat,pastilla,TRASERO,116,50,17,,,,,false,true,false,M1421.svg
-M1424,M1424 - Pastillas de Freno Cerámica Delanteras Dodge Chrysler,pastilla,DELANTERO,194.3 & 193.1,64,19,,,,,false,true,false,M1424.svg
-M1425,M1425 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,186,59,17,,,,,false,true,false,M1425.svg
-M1426,M1426 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,126.7,48,16.2,,,,,false,true,false,M1426.svg
-M1430,M1430 - Pastillas de Freno Cerámica Traseras Para Subaru,pastilla,TRASERO,123.2,52 & 48,14.5,,,,,true,true,true,M1430.svg
-M1431,M1431 Pastillas de Freno Ceramica Delantera Subaru,pastilla,DELANTERO,145.3,58.4,17,,,,,true,true,true,M1431.svg
-M1432,M1432 Pastillas de Freno Ceramica Delantera Jac S2 / S3 / J3,pastilla,DELANTERO,124.3,52.8,16,,,,,true,true,true,M1432.svg
-M1436,M1436 - Pastillas de Freno Cerámica Delanteras para Citroen Peugeot,pastilla,DELANTERO,133,60.2 & 52.5,18.8,,,,,true,true,false,M1436.svg
-M1437,M1437 - Pastillas de Freno Cerámica Delanteras para Volkswagen,pastilla,DELANTERO,192.9,75.1,18,,,,,true,true,false,M1437.svg
-M1443,M1443 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,117,45,17,,,,,false,true,false,M1443.svg
-M1445,M1445 - Pastillas de Freno Cerámica Traseras para MG,pastilla,TRASERO,105.8,48.4,16.1,,,,,false,true,false,M1445.svg
-M1449,M1449 - Pastillas de Freno Cerámica Traseras Para Audi Volkswagen,pastilla,TRASERO,104.1,52.1,17.4,,,,,true,true,false,M1449.svg
-M1462,M1462 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,163.1,90.7 & 81,16.8,,,,,false,true,false,M1462.svg
-M1463,M1463 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,140.6,59.6,18,,,,,true,true,true,M1463.svg
-M1468,M1468 - Pastillas de Freno Ceramica Delantera Mazda Demio (2007 - 2014) / Mazda 2 (2007 - 2015),pastilla,DELANTERO,125.5,48.1,14.5,,,,,true,true,true,M1468.svg
-M1473,M1473 - Pastillas de Freno Ceramica Delanteras para MG D2031,pastilla,DELANTERO,155.1 & 156.4,62.4 & 56.1,16.7,,,,,true,true,true,M1473.svg
-M1476,M1476 - Pastillas de Freno Cerámica Delanteras Kia,pastilla,DELANTERO,122,55,18,,,,,true,true,true,M1476.svg
-M1479,M1479 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,155.1,56.6,17,,,,,false,true,false,M1479.svg
-M1480,M1480 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,104.2,41.6,16.1,,,,,false,true,false,M1480.svg
-M1483,M1483 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,140.6,59.7,18,,,,,false,true,false,M1483.svg
-M1484/M1409,M1484/M1409 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,106.4,46.4,17,,,,,false,true,false,M1484.svg
-M1485,M1485 - Pastillas de Freno Cerámica Delanteras para Volkswagen,pastilla,DELANTERO,175.2,69.5,20,,,,,true,true,false,M1485.svg
-M1486,M1486 - Pastillas de Freno Ceramica Delantera Chevrolet Colorado 28 (2019 - 2022),pastilla,DELANTERO,151.9,61.3,16,,,,,false,true,false,M1486.svg
-M1489,M1489 - Pastillas de Freno Cerámica Traseras Para Honda /Mitsubishi Eclipse Cross (2017 - 2022),pastilla,TRASERO,122.6,48.4 & 53.2,15,,,,,false,true,false,M1489.svg
-M1509,M1509 - Pastillas de Freno Cerámica Delanteras Para Honda CR V (2017-2022),pastilla,DELANTERO,148.8,62,17,,,,,false,true,false,M1509.svg
-M1515,M1515 - Pastillas de Freno Cerámica Traseras Para Honda CR V (2017 - 2022),pastilla,TRASERO,118.9,49.1,17,,,,,false,true,false,M1515.svg
-M1526,M1526 - Pastillas de Freno Cerámica Delanteras para Toyota,pastilla,DELANTERO,142.5,56,16.4,,,,,false,true,true,M1526.svg
-M1527,M1527 - Pastillas de Freno Cerámica Traseras para Toyota,pastilla,TRASERO,121.3,42.7,14.5,,,,,false,true,false,M1527.svg
-M1530,M1530 Pastillas de freno low metal delanteras para chevrolet,pastilla,DELANTERO,129.9,60.9,17,,,,,false,false,true,M1530.svg
-M1531,M1531 Pastillas de freno traseras para Chevrolet Groove (2021 - actual),pastilla,TRASERO,103.5,42.5,13.9,,,,,false,true,false,M1531.svg
-M1535,M1535 Pastillas de Freno Ceramica Delantera Chevrolet Onix (2020),pastilla,DELANTERO,132.1,54 & 52,17,,,,,true,true,true,M1535.svg
-M1553,M1553 - Pastillas de Freno Ceramica Traseras Peugeot,pastilla,TRASERO,92.2,46.1,16.5,,,,,false,true,false,M1553.svg
-M1566,M1566 - Pastillas de Freno Cerámica Delantera Para Great Wall 2021,pastilla,DELANTERO,158.5,61.1,17,,,,,false,true,false,M1566.svg
-M1567,M1567 - Pastillas de Freno Cerámica Trasera Para Great Wall 2021,pastilla,TRASERO,118.8,48.1,14.8,,,,,false,true,false,M1567.svg
-M1575,M1575 Pastillas de freno delanteras para Chevrolet Groove (2021 - actual),pastilla,DELANTERO,,,,,,,,false,true,false,M1575.svg
-M1586,M1586 Pastillas de Freno Cerámica Delantera Peugeot Citroen Opel DS4,pastilla,DELANTERO,148.4,67,18,,,,,false,true,false,M1586.svg
-M1587,M1587 Pastillas de freno delanteras para Nissan Sentra 2.0 (2019 - actual),pastilla,DELANTERO,141.6,55.8,16,,,,,false,true,false,M1587.svg
-M1588,M1588 Pastillas de freno traseras para Nissan Sentra (2019 - on) ,pastilla,TRASERO,105.9,51,14.6,,,,,false,true,false,M1588.svg
-M162,M162 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,160 & 177.6,62 & 63,17.3,,,,,false,true,false,M162.svg
-M1632,M1632 Pastillas De Freno Cerámica Delantera Toyota Corolla Sedan 2022- ON,pastilla,DELANTERO,134.4,59,18.7,,,,,false,true,false,M1632.svg
-M1633,M1633 Pastillas De Freno Cerámica Traseras Toyota Corolla 2022 - OM,pastilla,TRASERO,100,50,16,,,,,false,true,false,M1633.svg
-M165,M165 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,116,45,15,,,,,true,true,false,M165.svg
-M166,M166 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Jac,pastilla,DELANTERO,127.4,49,14.8,,,,,true,true,false,M166.svg
-M177,M177 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,131.3,54.6,15,,,,,false,true,false,M177.svg
-M178,M178 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,136.6,57.8,17.3,,,,,false,true,true,M178.svg
-M182/M462/M1342,M182/M462/M1342 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,88.8,36.8,13,,,,,false,true,false,M182.svg
-M187,M187 - Pastillas de Freno Cerámica Traseras Para Hyundai  Jac  Kia  Nissan,pastilla,TRASERO,85.6,46.4,14,,,,,false,true,false,M187.svg
-M193,M193 - Pastillas de Freno Cerámica Delanteras Para Chevrolet  Honda,pastilla,DELANTERO,137.8,58.6,16.5,,,,,false,true,false,M193.svg
-M195,M195 - Pastillas de Freno Cerámica Traseras Para Honda  Great Wall 8970352660,pastilla,TRASERO,109.5,42.6,15.8,,,,,false,true,false,M195.svg
-M205,M205 - Pastillas de Freno Cerámica Delanteras Kia Frontier antiguo (1997 - 2006),pastilla,DELANTERO,133.1,52.1,15,,,,,false,true,true,M205.svg
-M214/M128,M214/M128 - Pastillas de Freno Cerámica Delanteras Para Kia  Ford  Mazda,pastilla,DELANTERO,91.6,64.2,15,,,,,false,true,false,M214.svg
-M243,M243 - Pastillas de Freno Cerámica Delanteras Mercedes Benz E200 / E220 / E230 (1995 - 2005) CLK (1998-2004),pastilla,DELANTERO,151.3,60 & 66.2,19.8,,,,,false,true,false,M243.svg
-M247,M247 - Pastilla de Freno Cerámica Delanteras Toyota Terios,pastilla,DELANTERO,114,50,15,,,,,true,true,true,M247.svg
-M256,M256 - Pastillas de Freno Cerámica Delanteras Mitsubishi  Montero Sport Outlander,pastilla,DELANTERO,149.8,58.6,15.7,,,,,true,true,false,M256.svg
-M270,M270 - Pastillas de Freno Cerámica Delanteras para Nissan D510-7389,pastilla,DELANTERO,108.5,48,16.5,,,,,true,true,false,M270.svg
-M275,M275 - Pastillas de Freno Cerámica Nissan,pastilla,DELANTERO,160.6,49.6,17,,,,,true,true,false,M275.svg
-M276,M276 Pastillas de Freno Cerámica Delanteras Nissan Pathfinder (1999-2002),pastilla,DELANTERO,159,56,16.5,,,,,false,true,false,M276.svg
-M284,M284/M1108 - Pastillas de Freno Cerámica Delanteras Nissan  Juke All years,pastilla,DELANTERO,137.2,53.5 & 54.4,17,,,,,false,true,false,M284.svg
-M291,M291 - Pastillas de Freno Cerámica Traseras Para Hyundai  Kia,pastilla,TRASERO,61.6,61.2,15.7,,,,,false,true,false,M291.svg
-M341,M341 Pastillas de Freno Ceramica Delantera Subaru,pastilla,DELANTERO,137.7,53.8,17.6,,,,,true,true,false,M341.svg
-M342,M342 Pastillas de Freno Ceramica Delantera Subaru,pastilla,DELANTERO,138,59.5,17.6,,,,,true,true,false,M342.svg
-M343,M343 - Pastillas de Freno Cerámica Delanteras Para Suzuki,pastilla,DELANTERO,110.5,41.5,15.5,,,,,false,true,false,M343.svg
-M344,M344 - Pastillas de Freno Cerámica Delanteras para Suzuki oem 55800-60600,pastilla,DELANTERO,109.3,44,14,,,,,false,true,false,M344.svg
-M35,M35 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,127.3,49.3,16.5,,,,,false,true,false,M35.svg
-M350,M350 - Pastillas de Freno Cerámica Delanteras para Suzuki,pastilla,DELANTERO,111.4,48.5,15,,,,,false,true,false,M350.svg
-M357,M357 - Pastillas de Freno Cerámica Delanteras Toyota Tercel,pastilla,DELANTERO,119.7,47.5,15,,,,,true,true,false,M357.svg
-M362,M362 - Pastillas de Freno Cerámica Delanteras Toyota 4  Runner - Prado 2ptas,pastilla,DELANTERO,119.2,68,15,,,,,false,true,true,M362.svg
-M367,M367 - Pastillas de Freno Cerámica Delanterass Toyota Starlet (1976 - 2022),pastilla,DELANTERO,131.9 & 97.5,44 & 49,13.5,,,,,false,true,false,M367.svg
-M402,M402 - Pastillas de Freno Cerámica Delanteras/Traseras Para Chevrolet / Hummer,pastilla,DELANTERO,177,61,19.5,,,,,false,true,false,M402.svg
-M404,M404 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,216,66,19,,,,,false,true,false,M404.svg
-M418,M418 - Pastillas de Freno Cerámica Delanteras Toyota  Yaris Vitz (2000-2005),pastilla,DELANTERO,112,46.3,16.5,,,,,true,true,true,M418.svg
-M426,M426 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,154.2,56.2,16.2,,,,,true,true,true,M426.svg
-M435,M435 - Pastillas de Freno Cerámica Suzuki Celerio S-presso,pastilla,DELANTERO,108.4,45.5,15,,,,,true,true,true,M435.svg
-M437,M437 Pastillas de Freno Ceramica Trasera Subaru,pastilla,TRASERO,108.2,41.7,14.5,,,,,true,true,false,M437.svg
-M439,M439 - Pastillas de Freno Cerámica Delanteras Toyota  Hilux (2006-2008),pastilla,DELANTERO,119.3,68.1,17,,,,,true,true,false,M439.svg
-M440,M440 - Pastilla de Freno Cerámica Traseras Toyota 4Runner,pastilla,TRASERO,115.9,43.9,15,,,,,true,true,true,M440.svg
-M449,M449 - Pastillas de Freno Ceramica Delanteras Audi,pastilla,DELANTERO,144.9,67,18.8,,,,,false,true,false,M449.svg
-M463,M463 - Pastillas de Freno Ceramica Delanteras Peugeot,pastilla,DELANTERO,129.8,58.9,18.4,,,,,false,true,false,M463.svg
-M467,M467 - Pastillas de Freno Cerámica Delanterass para Peugeot,pastilla,DELANTERO,131,47.2,17.3,,,,,true,true,false,M467.svg
-M470,M470 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Starex 25 ( 1997 ),pastilla,DELANTERO,147,53.5,15.5,,,,,false,true,false,M470.svg
-M471/M1201,M471 M1201 - Pastillas de Freno Cerámica Delanteras Chevrolet Aveo y Spark GT Ceramica,pastilla,DELANTERO,133.2,48.9,17.8,,,,,true,true,false,M471.svg
-M474/M186,M474/M186 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia  Jac  Nissan,pastilla,DELANTERO,137,54,17,,,,,true,true,false,M474.svg
-M476,M476 - Pastillas de Freno Cerámica Delanteras Hyundai,pastilla,DELANTERO,149.1,58.1,17,,,,,true,true,true,M476.svg
-M479,M479 - Pastillas de Freno Cerámica Delanteras Mitsubishi,pastilla,DELANTERO,151.3,48.8,17.5,,,,,false,true,false,M479.svg
-M481/M981,M481/M981 - Pastillas de Freno Cerámica Delanteras para Fiat Volkswagen GDB958,pastilla,DELANTERO,151.4,49,18,,,,,true,true,false,M481.svg
-M485,M485 - Pastillas de Freno Cerámica Delanteras para Peugeot,pastilla,DELANTERO,131,47.3,18,,,,,true,true,false,M485.svg
-M489,M489 - Pastillas de Freno Cerámica Delanteras Peugeot D1570,pastilla,DELANTERO,137,52,19,,,,,true,true,false,M489.svg
-M491,M491 - Pastillas de Freno Cerámica Delanteras para Geely Citroen Peugeot ZNA,pastilla,DELANTERO,136.9,56,19,,,,,true,true,false,M491.svg
-M498/M490,M498/M490 - Pastillas de Freno Cerámica Delanteras para Peugeot Volkswagen GDB1463,pastilla,DELANTERO / TRASERO,137,51,19,,,,,true,true,true,M498.svg
-M504,M504 - Pastillas de Freno Ceramica Delanteras Mercedes Benz - Wolkswagen,pastilla,DELANTERO,163.3,67.1,20.9,,,,,false,true,false,M504.svg
-M513,M513 - Pastillas de Freno Ceramica Delanteras Dodge Chrysler,pastilla,DELANTERO,146.5,59.6,18.2,,,,,false,true,false,M513.svg
-M519,M519 - Pastillas de Freno Ceramica Delanteras Dodge Chrysler,pastilla,DELANTERO,188.5,56.5,16.5,,,,,false,true,false,M519.svg
-M523,M523 - Pastillas de Freno Ceramica Traseras Dodge Chrysler,pastilla,TRASERO,166.4,49.5,16.8,,,,,false,true,false,M523.svg
-M534,M534 - Pastillas de Freno Cerámica Delanteras Para Kia  Mazda,pastilla,DELANTERO,131.7,51.6,15.7,,,,,false,true,false,M534.svg
-M537,M537 Pastillas de Freno Ceramica Trasera Mazda 6 (2006-2013),pastilla,TRASERO,107.8,39.4,13.1,,,,,true,true,false,M537.svg
-M542/M299,M542/M299 - Pastillas de Freno Cerámica Traseras para Citroen Volkswagen  Peugeot Renault Skoda Audi Brillance,pastilla,TRASERO,87,53,17,,,,,false,true,true,M542.svg
-M543/M65,M543/M65 - Pastillas de Freno Cerámica 7711130071,pastilla,DELANTERO,100.1,64.8,18.2,,,,,false,true,false,M543.svg
-M577,M577 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,148,61.5,18,,,,,false,true,false,M577.svg
-M578,M578 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,107.8,41,15,,,,,false,true,false,M578.svg
-M580,M580 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,176.8,62.6,16.8,,,,,false,true,false,M580.svg
-M581,M581 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,137.7,47,18.2,,,,,false,true,false,M581.svg
-M583,M583 - Pastillas de Freno Cerámica Delanteras para Fiat,pastilla,DELANTERO,151.3,52.5,18,,,,,true,true,false,M583.svg
-M592,M592 - Pastillas de Freno Cerámica Delanteras Nissan  New Murano Terrano,pastilla,DELANTERO,164.2,56.7,16.2,,,,,true,true,true,M592.svg
-M598/M1032,M598/M1032 - Pastillas de Freno Cerámica Traseras Nissan Qashqai X-Trail Juke Pathfinder,pastilla,TRASERO,105.5,38,14,,,,,true,true,true,M598.svg
-M609,M609 Pastillas de Freno Semi Metalica Delantera Mahindra Scorpio,pastilla,DELANTERO,144,62.4,18,,,,,true,false,false,M609.svg
-M626,M626 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,141.9,56.7,16.9,,,,,false,true,false,M626.svg
-M629,M629 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,139.2,56.5,17,,,,,false,true,false,M629.svg
-M630/M183,M630/M183 - Pastillas de Freno Cerámica Traseras Para Honda  Great Wall  Suzuki,pastilla,TRASERO,89,47.5,14.6,,,,,true,true,false,M630.svg
-M631,M631 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,89,47.5,14.6,,,,,false,true,false,M631.svg
-M633/M477,M633/M477 - Pastillas de Freno Cerámica Traseras Para Hyundai  Kia,pastilla,TRASERO,98.8,41,15,,,,,true,true,false,M633.svg
-M634,M634 - Pastillas de Freno Cerámica Delanteras Para Huyndai  Kia  Jac,pastilla,DELANTERO,137.1,63.4,16.8,,,,,true,true,false,M634.svg
-M648,M648 - Pastillas de Freno Cerámica Delanteras Kia  Cerato K3 (2010-2014),pastilla,DELANTERO,130,58,16.3,,,,,true,true,false,M648.svg
-M652,M652 - Pastillas de Freno Cerámica Traseras para Mitsubishi Peugeot,pastilla,TRASERO,111.3 & 91,44.9,15.5,,,,,true,true,false,M652.svg
-M669,M669 - Pastillas de Freno Cerámica Subaru Forester / Impreza /Outback / XV,pastilla,DELANTERO,137.3,56.8,16.4,,,,,true,true,false,M669.svg
-M670,M670 - Pastillas de Freno Cerámica Traseras Para Subaru,pastilla,TRASERO,108.6,39.2,13.8,,,,,false,true,false,M670.svg
-M672/M271,M672/M271 - Pastillas de Freno Cerámica Delanteras Suzuki Baleno (2002-2004) / Nissan sentra (1996 - 2002),pastilla,DELANTERO,108.5,48.5,15.8,,,,,false,true,false,M672.svg
-M673,M673 - Pastillas de Freno Cerámica Delanteras Para Suzuki,pastilla,DELANTERO,106.4,49.9,15,,,,,true,true,false,M673.svg
-M674,M674 - Pastillas de Freno Cerámica Delanteras Suzuki,pastilla,DELANTERO,116.6,56.1,15.6,,,,,false,true,false,M674.svg
-M675,M675 - Pastillas de Frenos Ceramica Delantera Toyota  Corolla (1998 - 2001),pastilla,DELANTERO,116.9,55,16.5,,,,,true,true,false,M675.svg
-M677,M677 Pastillas de Freno Ceramica Delantera Great Wall M4 / Florid (2013-2020),pastilla,DELANTERO,116.4,51.3,15.5,,,,,true,true,false,M677.svg
-M682,M682 - Pastillas de Freno Cerámica Traseras Toyota - Chery,pastilla,TRASERO,92.7,37.6,15.8,,,,,false,true,false,M682.svg
-M684,M684 - Pastillas de Freno Cerámica Delanteras Toyota  Corolla (2003-2007),pastilla,DELANTERO,131.5,57.4,18,,,,,true,true,true,M684.svg
-M686,M686 - Pastillas de Freno Cerámica Delanteras Chery  Tiggo 3 - Toyota Rav4,pastilla,DELANTERO,123,60.3,17.5,,,,,false,true,false,M686.svg
-M687,M687 - Pastillas de Freno Cerámica Traseras Chery  Tiggo 03 - Toyota Rav4 oem 04466-42050,pastilla,TRASERO,78.5,54.1,14,,,,,false,true,false,M687.svg
-M690,M690 - Pastilla de Freno Cerámica Delanteras Toyota Hilux,pastilla,DELANTERO,134.5,77.1,17.8,,,,,true,true,true,M690.svg
-M697,M697 - Pastillas de Freno Cerámica Delanteras para Audi  Brillance  Volkswagen MG 1J0698151A,pastilla,DELANTERO,146,54.7,19.7,,,,,true,true,false,M697.svg
-M698,M698 - Pastillas de Freno Cerámica 1J0698151F/1K0698151D,pastilla,DELANTERO,146,54.7,19.5,,,,,true,true,false,M698.svg
-M703,M703 - Pastillas de Freno Cerámica Traseras Volvo,pastilla,TRASERO,123.8 & 122.6,53.8,17,,,,,false,true,false,M703.svg
-M717,M717 - Pastillas de Freno Cerámica Delanteras Mitsubishi  Lancer New Outlander,pastilla,DELANTERO,144.8,55,15.4,,,,,true,true,false,M717.svg
-M724,M724 - Pastillas de Freno Ceramica Delanteras Daihatsu - Mitsubishi,pastilla,DELANTERO,122.1 & 92.2,44.2,14.4,,,,,false,true,false,M724.svg
-M745,M745 - Pastillas de Freno Cerámica Traseras Toyota  Corolla (2003-2007),pastilla,TRASERO,95.7,38,15.8,,,,,true,true,false,M745.svg
-M746,M746 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,143.1,51.3,16.9,,,,,false,true,true,M746.svg
-M753/M872,M753/M872 - Pastillas de Freno Cerámica Delanteras Para Ford  Honda,pastilla,DELANTERO,150.1 & 151.3,61 & 58.2,18.8,,,,,false,true,false,M753.svg
-M754,M754 - Pastillas de Freno Ceramica Delanteras Citroen,pastilla,DELANTERO,129,61.1 & 53.1,18.5,,,,,false,true,false,M754.svg
-M758,M758 - Pastillas de Freno Cerámica Delanteras Para Kia,pastilla,DELANTERO,155.1,60,17.3,,,,,false,true,false,M758.svg
-M759/M656,M759/M656 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,156,76 & 71,20,,,,,true,true,false,M759.svg
-M765,M765 - Pastillas de Freno Ceramica Traseras Peugeot - Citroen,pastilla,TRASERO,86.2,57,17.8,,,,,false,true,false,M765.svg
-M767,M767 - Pastillas de Freno Cerámica Delanteras Ford  Focus - Mazda Mazda 3  - Volvo V50,pastilla,DELANTERO,155.3 & 156.5,62.4 & 67,18.2,,,,,true,true,true,M767.svg
-M77,M77 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,127.2,47.9,16.5,,,,,false,true,true,M77.svg
-M776,M776 - Pastillas de Freno Cerámica Delanteras Hyundai  i10 - Kia Morning,pastilla,DELANTERO,116.1,47.3,16.5,,,,,true,true,true,M776.svg
-M777,M777 - Pastillas de Freno Cerámica Delanteras Para Chevrolet Silverado,pastilla,DELANTERO,184.2,63.8 & 60.1,18,,,,,false,true,false,M777.svg
-M778,M778 Pastillas de Freno Ceramica Delantera Subaru,pastilla,DELANTERO,137.3,56.8,16.4,,,,,true,true,false,M778.svg
-M779,M779 - Pastillas de Freno Cerámica Delanteras para Nissan / Samsung,pastilla,DELANTERO,135,47,15.8,,,,,true,true,false,M779.svg
-M780,M780 - Pastillas de Freno Cerámica Delanteras para Hyundai D1520-8729,pastilla,DELANTERO,147,53.5,15.5,,,,,true,true,false,M780.svg
-M781,M781 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,167.3,54.3,16.1,,,,,true,true,false,M781.svg
-M782,M782 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,104.6,38.9,14.6,,,,,false,true,false,M782.svg
-M785,M785 - Pastillas de Freno Cerámica Delanteras Fiat,pastilla,DELANTERO,151.4,52.5,17.8,,,,,false,true,false,M785.svg
-M786/M1216,M786/M1216  -  Pastillas de Freno Cerámica Delanteras Para Ford  Mazda,pastilla,DELANTERO,170.4 & 172.3,67.5,18.3,,,,,false,true,false,M786.svg
-M798,M798 - Pastillas de Freno Cerámica Traseras Para Subaru,pastilla,TRASERO,110.6,37.3,14.4,,,,,true,true,true,M798.svg
-M799,M799 - Pastillas de Freno Cerámica Delanteras para BYD Citroen Geely JAC Peugeot Toyota,pastilla,DELANTERO,122.9,46.7,17.3,,,,,true,true,false,M799.svg
-M800,M800 - Pastillas de Freno Cerámica Delanteras para FAW Suzuki,pastilla,DELANTERO,127,47.1,14.5,,,,,false,true,false,M800.svg
-M801,M801 - Pastillas de Freno Cerámica Suzuki Grand Nomade (2005 - 2022) / Grand Viatara,pastilla,DELANTERO,138.2,55,17.1,,,,,false,true,true,M801.svg
-M802,M802 - Pastillas de Freno Cerámica Delanteras Nissan  Pathfinder Navara,pastilla,DELANTERO,163.7,54,16,,,,,true,true,true,M802.svg
-M804,M804 - Pastillas de Freno Cerámica Delanteras Nissan  Xtrail (2002-2010),pastilla,DELANTERO,159,56,16.5,,,,,false,true,false,M804.svg
-M805,M805 - Pastillas de Freno Cerámica Delanteras Toyota,pastilla,DELANTERO,122.7,49.8,17.5,,,,,true,true,true,M805.svg
-M811,M811 Pastillas de Freno Ceramica Delantera Subaru Legacy / Forester / Outback / Tribeca,pastilla,DELANTERO,157,63.4,18,,,,,true,true,false,M811.svg
-M813,M813 - Pastillas de Freno Cerámica Delanteras Para Suzuki,pastilla,DELANTERO,108.6,45.4,15,,,,,true,true,true,M813.svg
-M816,M816 - Pastillas de Freno Cerámica Delanteras Hyundai  Tucson Accent - Kia Sportage,pastilla,DELANTERO,129.6,56,18,,,,,true,true,true,M816.svg
-M817,M817 - Pastillas de Freno Cerámica Delanteras para Citroen Peugeot,pastilla,DELANTERO,155.2 & 156.4,66.1 & 71.4,20.3,,,,,true,true,false,M817.svg
-M819,M819 - Pastillas de Freno Cerámica Delanteras Mitsubishi  L200 all years,pastilla,DELANTERO,155.5,50.5,16,,,,,true,true,true,M819.svg
-M821,M821 - Pastillas de Freno Cerámica Delanteras Nissan Tiida / Versa 2009 - 2012 / Note 1.6,pastilla,DELANTERO,144.3,49.1,14.2,,,,,true,true,true,M821.svg
-M822,M822 - Pastillas de Freno Ceramica Delanteras Lexus,pastilla,DELANTERO,154.6,59.3,17.8,,,,,false,true,false,M822.svg
-M824/M1265,M824/M1265 - Pastillas de Freno Cerámica Delanteras Para Honda  Great Wall,pastilla,DELANTERO,155,59,18,,,,,false,true,false,M824.svg
-M826,M826 - Pastilla de Freno Cerámica Delanteras Toyota Rav4,pastilla,DELANTERO,146.5,57,17.6,,,,,true,true,true,M826.svg
-M827,M827 - Pastilla de Freno Cerámica Traseras Toyota Rav4 / New Corolla Cross 2021 - ON OEM 04466-0a010,pastilla,TRASERO,96.5,48.1,15.4,,,,,true,true,true,M827.svg
-M828,M828 - Pastilla de Freno Cerámica Delanteras Toyota Corolla,pastilla,DELANTERO,139,56,18,,,,,true,true,true,M828.svg
-M829,M829 - Pastillas de Freno Cerámica Delanteras Para Suzuki,pastilla,DELANTERO,136.5,52.6,17.2,,,,,false,true,false,M829.svg
-M841,M841 - Pastillas de Freno Cerámica Traseras Ford,pastilla,TRASERO,140.5,49.2,14.6,,,,,false,true,false,M841.svg
-M844,M844 - Pastillas de Freno Cerámica  Traseras Para Ford,pastilla,TRASERO,158.7,49.8,18.8,,,,,false,true,false,M844.svg
-M863,M863 - Pastillas de Freno Ceramica Delanteras Mercedes Benz,pastilla,DELANTERO,135,66.6,20,,,,,false,true,false,M863.svg
-M866,M866 - Pastillas de Freno Cerámica Traseras para Geely Citroen Peugeot,pastilla,TRASERO,94.5,46.8,18,,,,,true,true,false,M866.svg
-M868,M868 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,125,51.1,14.1,,,,,false,true,false,M868.svg
-M874,M874 - Pastillas de Freno Ceramica Trasera Toyota,pastilla,TRASERO,101.9,46,16.7,,,,,true,true,false,M874.svg
-M876,M876 - Pastillas de Freno Cerámica Trasera Daewoo - SsangYong,pastilla,TRASERO,98.8,43.5,15.5,,,,,false,true,false,M876.svg
-M878,M878 - Pastillas de Freno Cerámica Delanteras Hyundai  H1 (2010-2016),pastilla,DELANTERO,164.7,63.4,17.6,,,,,true,true,true,M878.svg
-M903,M903 - Pastillas de Freno Cerámica Delanteras para Alfa Romeo Citroen Fiat Peugeot,pastilla,DELANTERO,122.9,53.2,17.8,,,,,true,true,false,M903.svg
-M904,M904 - Pastillas de Freno Cerámica Delanteras Fiat - Citroen - Peugeot,pastilla,DELANTERO,169.1,61.6,19,,,,,false,true,false,M904.svg
-M906,M906 - Pastillas de Freno Cerámica Delanteras Mazda,pastilla,DELANTERO,138,62,16,,,,,false,true,false,M906.svg
-M912,M912 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,178.3,58,17.8,,,,,false,true,false,M912.svg
-M913,M913 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,88.6,47.6,14.9,,,,,false,true,false,M913.svg
-M914/M1122,M914 / M1122 - Pastillas de Freno Cerámica Delanteras Hyundai  Santa Fe (2010-2016),pastilla,DELANTERO,156.7,61.2,17.6,,,,,true,true,true,M914.svg
-M916,M916 - Pastillas de Freno Cerámica Traseras Mazda 3 año (2004-2013) / Mazda 5 (2005-2016),pastilla,TRASERO,123.2,51.9,16.4,,,,,true,true,false,M916.svg
-M917,M917 - Pastillas de Freno Cerámica Delanteras Mazda CX7 (2006 - 2014) / Mitsubishi L200 4x4 (2020 - ON),pastilla,DELANTERO,139.1,58,17.4,,,,,true,true,true,M917.svg
-M918,M918 - Pastillas de Freno Cerámica Traseras Para Ford  Mazda,pastilla,TRASERO,110.4,45.9,17.9,,,,,true,true,true,M918.svg
-M926,M926 - Pastillas de Freno Cerámica Traseras para BMW,pastilla,TRASERO,123.3,44.9,16.3,,,,,true,true,false,M926.svg
-M929M736,M929 M736 - Pastillas de Freno Cerámica Traseras Para Chevrolet  Suzuki,pastilla,TRASERO,110.9,45.7,15.4,,,,,true,true,false,M929.svg
-M932,M932 - Pastillas de Freno Cerámica Traseras Dodge Chrysler,pastilla,TRASERO,116.6,45.4,16.6,,,,,false,true,false,M932.svg
-M934,M934 - Pastillas de Freno Cerámica Delanteras Para Chevrolet  Suzuki,pastilla,DELANTERO,149.4,62,16.9,,,,,true,true,false,M934.svg
-M1029,M1029 - Pastillas de Freno Cerámica Delanteras Nissan  Cima Navara,pastilla,DELANTERO,157.3,58.5,16,,,,,false,true,false,M1029.svg
-M937,M937 - Pastillas de Freno Cerámica Traseras Para Hyundai  Kia,pastilla,TRASERO,110.5,47.8,15.5,,,,,false,true,false,M937.svg
-M938/M650,M938 / M650 - Pastillas de Freno Cerámica Traseras Para Hyundai,pastilla,TRASERO,118.6,47.1,15.6,,,,,true,true,true,M938.svg
-M939,M939 - Pastillas de Freno Cerámica Delanteras Hyundai  Accent   - Kia Rio 2 - Kia Sportage,pastilla,DELANTERO,137.9,60.9,17.5,,,,,true,true,true,M939.svg
-M940,M940 - Pastillas de Freno Ceramica Delanteras Mazda,pastilla,DELANTERO,123.1,58,15,,,,,false,true,false,M940.svg
-M941/M958,M941 / M958 - Pastillas de Freno Ceramica Delanteras Dodge Chrysler,pastilla,DELANTERO,146.8,63.4,18.8,,,,,false,true,false,M941.svg
-M950,M950 - Pastillas de Freno Cerámica Delanteras para Peugeot 301,pastilla,DELANTERO,151,61.6,17.8,,,,,true,true,false,M950.svg
-M951,M951 - Pastillas de Freno Cerámica Delanteras para Volkswagen Sirocco Audi,pastilla,DELANTERO,155.2 & 156.4,66.1 & 71.4,20.3,,,,,true,true,false,M951.svg
-M952,M952 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,104,39,15,,,,,false,true,false,M952.svg
-M953,M953 - Pastilla de Freno Cerámica Delanteras Toyota Corolla,pastilla,DELANTERO,136.7,61.4 & 57.9,19,,,,,false,true,false,M953.svg
-M954,M954 - Pastillas de Freno Ceramica Traseras Toyota,pastilla,TRASERO,102.2,45.6,16.3,,,,,false,true,false,M954.svg
-M956,M956 / M879 Pastillas de Freno Ceramica Delantera Mazda 6 (2006-2013),pastilla,DELANTERO,136.9,58.9,18.4,,,,,true,true,false,M956.svg
-M957,M957 -  Pastillas de Freno Cerámica  Delanteras Para Chevrolet,pastilla,DELANTERO,184.2,63.5 & 59.7,18.3,,,,,false,true,false,M957.svg
-M960,M960 - Pastillas de Freno Cerámica  Traseras Para Subaru,pastilla,TRASERO,110.6,39.5,16,,,,,false,true,false,M960.svg
-M969,M969 Pastillas de Freno Ceramica Delantera Suzuki Alto,pastilla,DELANTERO,108.5,42,15,,,,,true,true,true,M969.svg
-M976,M976 - Pastillas de Freno Cerámica Delanteras Toyota Tundra M976 / SEQUOIA / Landcruiser ( 2007-2014),pastilla,DELANTERO,143.7,83.2,17.9,,,,,false,true,false,M976.svg
-M977,M977 - Pastillas de Freno Ceramica Traseras Lexus,pastilla,TRASERO,88.2,58.2,15.5,,,,,false,true,false,M977.svg
-M978,M978 - Pastillas de Freno Cerámica Traseras Toyota Tundra / SEQUOIA / Landcruiser (2007-2014),pastilla,TRASERO,116.3,44.9,17.3,,,,,false,true,false,M978.svg
-M984,M984 - Pastillas de Freno Cerámica Delanteras Audi Volkswagen,pastilla,DELANTERO,155.3 & 156.5,72.9,20,,,,,true,true,false,M984.svg
-M989,M989 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,,,,,,,,false,true,false,M989.svg
-M991/M625/M627,M991/M625/M627 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,148.9,58.8,17,,,,,false,true,false,M991.svg
-M994/M1350,M994/M1350 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,93.5,46.6,14.8,,,,,false,true,false,M994.svg
-M996,M996 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,113.3,48.4,15.4,,,,,false,true,false,M996.svg
-M998/M1118,M998/M1118 - Pastillas de Freno Cerámica Traseras Kia  Carens - Hyundai Tucson,pastilla,TRASERO,93.2,41.2,15.9,,,,,true,true,true,M998.svg
-M486/M57/M63,Pastillas de Freno Cerámica Delantaras para Citroen  Nissan Peugeot Renault Lifan,pastilla,DELANTERO / TRASERO,105.2,54.8,11,,,,,true,false,false,M486.svg
-T11-3501080AC,Pastillas de Freno Cerámica Delanteras Chery   Tiggo 7 all years,pastilla,DELANTERO,129.8,69.9,17,,,,,true,true,false,T11-3501080AC.svg
-96473229,Balatas / Patines de Freno Chevrolet Aveo Sedan 200*35 (2009-2016),balata,TRASERO,36,,,200,,,,true,false,false,96473229.svg
-8979478020,Balatas / Patines de Freno Chevrolet D-Max 300*50 (2015-2022),balata,TRASERO,,,,,,,,true,false,false,8979478020.svg
-8980180350,Balatas / Patines de Freno Chevrolet D-Max Antigua 254*49.5 (2004-2014),balata,TRASERO,,,,,,,,true,false,false,8980180350.svg
-24545659,Balatas / Patines de Freno Chevrolet N300 y N400 240*40 (2012 - 2022),balata,TRASERO,,,,,,,,true,false,false,24545659.svg
-96496764,Balatas / Patines de Freno Chevrolet Optra 167.6*25.9 (2004-2014),balata,TRASERO,,,,,,,,true,false,false,96496764.svg
-9041435,Balatas / Patines de Freno Chevrolet Sail 200*35 (2010-2016),balata,TRASERO,,,,,,,,true,false,false,9041435.svg
-5830522A01,Balatas / Patines de Freno Hyundai  Accent 180*30 (1994-1999),balata,TRASERO,,,,,,,,true,false,false,5830522A01.svg
-583051GA00,Balatas / Patines de Freno Hyundai  Accent 202.8*30 (2006-2010),balata,TRASERO,,,,,,,,true,false,false,583051GA00.svg
-58350F2A00,Balatas / Patines de Freno Hyundai  Elantra 203.2*32 (2018),balata,TRASERO,,,,,,,,true,false,false,58350F2A00.svg
-583052HA00,Balatas / Patines de Freno Hyundai  Elantra 203.2*37 (2006-2011),balata,TRASERO,,,,,,,,true,false,false,583052HA00.svg
-583504HA00,Balatas / Patines de Freno Hyundai  H1 212*39.6 (2007-2015),balata,TRASERO,,,,,,,,true,false,false,583504HA00.svg
-583054FA01,Balatas / Patines de Freno Hyundai  Porter 220*55 (2006-ON),balata,TRASERO,,,,,,,,true,false,false,583054FA01.svg
-583052WA00,Balatas / Patines de Freno Hyundai  Santa Fe 190*27 (2012-2015),balata,TRASERO,,,,,,,,true,false,false,583052WA00.svg
-583052BA00,Balatas / Patines de Freno Hyundai  Santa Fe 190*31.8 (2006-2010),balata,TRASERO,,,,,,,,true,false,false,583052BA00.svg
-583052SA00,Balatas / Patines de Freno Hyundai  Tucson 168*26.4 (2009-2013),balata,TRASERO,,,,,,,,true,false,false,583052SA00.svg
-58305B4A70,Balatas / Patines de Freno Hyundai  i10 203.2*32 (2013-2017),balata,TRASERO,,,,,,,,true,false,false,58305B4A70.svg
-583504EA00,Balatas / Patines de Freno Kia Frontier  220*55,balata,TRASERO,,,,,,,,true,false,false,583504EA00.svg
-58350G6A00,Balatas / Patines de Freno Kia Morning 202.4*31.4 (2017 - 2022),balata,TRASERO,,,,,,,,true,false,false,58350G6A00.svg
-58350H9A00,Balatas / Patines de Freno Kia Rio 203*32 (2017 - 2022),balata,TRASERO,,,,,,,,true,false,false,58350H9A00.svg
-583053XA00,Balatas / Patines de Freno Kia Rio 203.2*32 (2011-2016),balata,TRASERO,,,,,,,,true,false,false,583053XA00.svg
-583052SA30,Balatas / Patines de Freno Kia Sportage 188*40 (2010-2013),balata,TRASERO,,,,,,,,true,false,false,583052SA30.svg
-58305D3A00,Balatas / Patines de Freno Kia Sportage 190*26 (2018-2022) / Tucson 190*26 (2017 - 2018),balata,TRASERO,,,,,,,,true,false,false,58305D3A00.svg
-4600A106,Balatas / Patines de Freno Mitsubishi L200 2009-2018 300*50 / Montero G2 300*50 (2010-2016),balata,TRASERO,,,,,,,,true,false,false,4600A106.svg
-4600A350,Balatas / Patines de Freno Mitsubishi Mirage (2012 - ON)  180.4*30,balata,TRASERO,,,,,,,,true,false,false,4600A350.svg
-4800A082,Balatas / Patines de Freno Mitsubishi Montero sport 190*45 (2017 - 2022),balata,TRASERO,,,,,,,,true,false,false,4800A082.svg
-D4060EB70A,Balatas / Patines de Freno Nissan Navara 295*55 (2009-2015),balata,TRASERO,,,,,,,,true,false,false,D4060EB70A.svg
-D40604KH3A,Balatas / Patines de Freno Nissan Np300 Navara 268.6*55 (2016-2022),balata,TRASERO,,,,,,,,true,false,false,D40604KH3A.svg
-44060CY025,Balatas / Patines de Freno Nissan Qashqai 169*28 (2010-2014),balata,TRASERO,,,,,,,,true,false,false,44060CY025.svg
-D40600W71A,Balatas / Patines de Freno Nissan Terrano 4x2 294*50 (2001-2014),balata,TRASERO,,,,,,,,true,false,false,D40600W71A.svg
-D40602S425,Balatas / Patines de Freno Nissan Terrano Dob Cabina 4x4 260*50 (2008),balata,TRASERO,,,,,,,,true,false,false,D40602S425.svg
-D40601HL0B,Balatas / Patines de Freno Nissan Versa 203.2*38.4 (2012-2014),balata,TRASERO,,,,,,,,true,false,false,D40601HL0B.svg
-44060ED026,Balatas / Patines de Freno Nissan tiida 203.2*30 (2009-2014),balata,TRASERO,,,,,,,,true,false,false,44060ED026.svg
-53200-60841,Balatas / Patines de Freno Suzuki Baleno 200*30 (1998-2004),balata,TRASERO,,,,,,,,true,false,false,53200-60841.svg
-54693-77K00,Balatas / Patines de Freno Suzuki Grand Nomade 200*37 (2006-2014),balata,TRASERO,,,,,,,,true,false,false,54693-77K00.svg
-53200-63J02,Balatas / Patines de Freno Suzuki Swift 1.3 JAPAN 200*30 (2008-2011) / Swift 1.5 - 1.6 200*30 (2010) / Swift 1.5 - 1.6 200*30 (2010),balata,TRASERO,,,,,,,,true,false,false,53200-63J02.svg
-53200-68L01,Balatas / Patines de Freno Suzuki Swift 1.4 200*26 (2014),balata,TRASERO,,,,,,,,true,false,false,53200-68L01.svg
-044950K120,Balatas / Patines de Freno Toyota Hilux DX 295*52 (2016-2022) / Hilux Vigo 295*52 (2012-2015) / Hilux Vigo 295*52 (2012-2015) / Hilux KUM 295*52 (2009-2011),balata,TRASERO,,,,,,,,true,false,false,044950K120.svg
-044950K050,Balatas / Patines de Freno Toyota Hilux Revo 295*52 (2016-2022),balata,TRASERO,,,,,,,,true,false,false,044950K050.svg
-449552100,Balatas / Patines de Freno Toyota New Yaris 200*30 (2006-2012),balata,TRASERO,,,,,,,,true,false,false,449552100.svg
-449510110,Balatas / Patines de Freno Toyota Tercel 180*25 (1994-1999),balata,TRASERO,,,,,,,,true,false,false,449510110.svg
-449552010,Balatas / Patines de Freno Toyota Yaris Echo 180*25 (2000-2005),balata,TRASERO,,,,,,,,true,false,false,449552010.svg
-2H0698525,Balatas / Patines de Freno Volkswagen Amarok 295*57 (2010 - 2022),balata,TRASERO,,,,,,,,true,false,false,2H0698525.svg
-583501YA00,Balatas / Patines de Freno kia Morning 180*25 (2012-2016),balata,TRASERO,,,,,,,,true,false,false,583501YA00.svg
-51712P2000,Disco De Freno Delantero Hyundai new Santa Fe (2024 - actual),disco,DELANTERO,,,25,305,,,,false,false,false,
-58411P2000,Disco De Freno Trasero Hyundai new Santa Fe (2024 - actual),disco,TRASERO,,,11,305,,5 / 7,,false,false,false,
-23971417,Disco de Freno Delantero Chevrolet Captiva 1.5 (2021 - actual),disco,DELANTERO,,,,,,,,false,false,false,
-58411L1100,Disco de trasero Hyundai Tucson (2016 - actual) / Sportage (2015 - actual),disco,TRASERO,,32,10,300,76,5 / 7,,false,false,false,
-MD026,MD026 Disco de Freno Delantero Citroen C3 Aircross. C3 Picass. C4 Elysse. Ds3,disco,DELANTERO,,34,22,266,66,4 / 6,,false,false,false,
-MD027,MD027 Disco de Freno Delantero Peugeot Partner / Citroen Berlingo,disco,DELANTERO,,34.2,26,283,66,4 / 6,,false,false,false,
-MD040,MD040 Disco de Freno Delantero Chevrolet Optra (2004-2014),disco,DELANTERO,,48,24,256,60,4 / 5,,false,false,false,
-MD092,MD092 Disco de Freno Delantero Hyundai  Accent (1994-1999),disco,DELANTERO,,40.5,19,242,86,4,,false,false,false,
-MD1022,MD1022 Disco de Freno Delantero Kia Morning (2017 - 2022),disco,DELANTERO,,43,20,256,62,4,,false,false,false,
-MD1072,MD1072 Disco de Freno Delantero Mazda 3 (2017-2019),disco,DELANTERO,,51.5,25,295,68,5 / 6,,false,false,false,
-MD1092,MD1092 Disco de Freno Delantero Mitsubishi Montero sport (2017 - 2022),disco,DELANTERO,,46,28,321,94,6 / 8,,false,false,false,
-MD1095,MD1095 Disco de Freno Trasero Mitsubishi Montero sport (2017 - 2022),disco,TRASERO,,84,18,315,94,6 / 9,,false,false,false,
-MD128,MD128 Disco de Freno Delantero Mazda 3 / Mazda 5 / Mazda Premacy (2008 - 2012).,disco,DELANTERO,,49,25,278,72,5,,false,false,false,
-MD220,MD220 Disco de Freno Delantero Subaru Legacy / XV / Impreza / Forester (2013 - 2022),disco,DELANTERO,,56.7,24,294,58,5 / 7,,false,false,false,
-MD228,MD228 Disco de Freno Delantero Suzuki Baleno (1996-2004),disco,DELANTERO,,49.5,20,235,60,4 / 7,,false,false,false,
-MD238,MD238 Disco de Freno Delantero Toyota Tercel (1994-1999),disco,DELANTERO,,42.8,18,238,55,4 / 6,,false,false,false,
-MD240,MD240 Disco de Freno Delantero Toyota Yaris Echo (2000-2005),disco,DELANTERO,,43.2,18,235,55,4 / 6,,false,false,false,
-MD250,MD250 Disco de Freno Delantero Volkswagen Polo (1994-2003),disco,DELANTERO,,33.9,18,238.8,65,4 / 5,,false,false,false,
-MD318,MD318 Disco de Freno Delantero Hyundai  Porter (2006-ON),disco,DELANTERO,,5,26,274,87,5,,false,false,false,
-MD320,MD320 Disco de Freno Delantero Hyundai  Tucson (2009-2013) / Sonata (2014-ON),disco,DELANTERO,,47.3,26,280,69,5 / 7,,false,false,false,
-MD325,MD325 Disco de Freno Delantero Kia Morning (2006-2016),disco,DELANTERO,,48.9,18,241,62.2,4 / 6,,false,false,false,
-MD332,MD332 Disco de Freno Delantero Toyota Hilux KUM (2009-2011),disco,DELANTERO,,67.3,25,297,108,7 / 8,,false,false,false,
-MD337,MD337 Disco de Freno Delantero Chevrolet D-Max (2004 - 2014),disco,DELANTERO,,40,27,280,88,6,,false,false,false,
-MD347,MD347 Disco de Freno Delantero Hyundai  Accent (2006-2010),disco,DELANTERO,,46.8,22,256,62.2,4,,false,false,false,
-MD359,MD359 Disco de Freno Delantero Suzuki Swift 1.3 JAPAN (2005-2011),disco,DELANTERO,,40,20,252,60,4 / 8,,false,false,false,
-MD398,MD398 Disco de Freno Delantero Nissan Terrano Dob Cabina 4x4 (2008),disco,DELANTERO,,37.2,26,260,81,6,,false,false,false,
-MD406,MD406 Disco de Freno Delantero Nissan Pathfiner 3.3 3.5 / Terrano D22 2.5 3.0 3.2 4x4 (1997 - 2015),disco,DELANTERO,,38,28,300,100,6,,false,false,false,
-MD410,MD410 Disco de Freno Trasero Kia Sportage (2010-2013),disco,TRASERO,,61.1,10.1,284,76,5 / 8,,false,false,false,
-MD414,MD414 Disco de Freno Trasero Mazda 3 (2008 - 2013),disco,TRASERO,,40.8,11,265,72,5,,false,false,false,
-MD414,MD414 Disco de Freno Trasero Mazda 3 (2008-2013),disco,TRASERO,,40.8,11,265,72,5,,false,false,false,
-MD448,MD448 Disco de Freno Delantero Mitsubishi L200 (2009-2018),disco,DELANTERO,,46.4,28,294,94,6 / 8,,false,false,false,
-MD448,MD448 Disco de Freno Delantero Mitsubishi Montero G2 (2010-2016),disco,DELANTERO,,46.4,28,294,94,6 / 8,,false,false,false,
-MD451,MD451 Disco de Freno Delantero Nissan Qashqai (2010-2014),disco,DELANTERO,,43.9,26,296,68,5,,false,false,false,
-MD455,MD455 Disco de Freno Delantero Toyota New Yaris (2006 - 2022),disco,DELANTERO,,46.3,22,255,55,4 / 6,,false,false,false,
-MD458,MD458 M346 Disco de Freno Delantero Toyota 4Runner (2004-2009),disco,DELANTERO,,67.2,28,319,108,6 / 8,,false,false,false,
-MD458,MD458 M346 Disco de Freno Delantero Toyota Hilux Revo (2016-2022),disco,DELANTERO,,67.2,28,319,108,6 / 8,,false,false,false,
-MD552,MD552 Disco de Freno Delantero Nissan Tiida (2009-2014),disco,DELANTERO,,44,22,260,68,4,,false,false,false,
-MD553,MD553 Disco de Freno Delantero Suzuki Grand Nomade Vitara 2.0 (2011),disco,DELANTERO,,49,25,295,62,5 / 7,,false,false,false,
-MD569,MD569 Disco de Freno Delantero Hyundai H1 (2007-2015),disco,DELANTERO,,52.8,30,300,96.3,6 / 8,,false,false,false,
-MD578,MD578 Disco de Freno Delantero Hyundai  Santa Fe (2006-2010),disco,DELANTERO,,50,28,298,69.1,5 / 7,,false,false,false,
-MD580,MD580 Disco de Freno Delantero Volkswagen Amarok (2010 - 2022),disco,DELANTERO,,56.9,28,303,76,5 / 6,,false,false,false,
-MD589,MD589 Disco de Freno Delantero Hyundai  Santa Fe (2012-2015),disco,DELANTERO,,49,28,320,69,5 / 7,,false,false,false,
-MD590,MD590 Disco de Freno Trasero Toyota 4Runner (2004-2009),disco,TRASERO,,67.8,18,312,106,6 / 14,,false,false,false,
-MD601,MD601 Disco de Freno Delantero Chevrolet Sail 1.4 (2010 - 2015),disco,DELANTERO,,41,20,236,59,4 / 8,,false,false,false,
-MD605,MD605 Disco de Freno Delantero Nissan Xtrail (2015-2022),disco,DELANTERO,,44,28,320,68,5,,false,false,false,
-MD628,MD628 Disco de Freno Trasero Peugeot Partner / Citroen Berlingo,disco,TRASERO,,74,12,268,65 / 30,4,,false,false,false,
-MD633,MD633 Disco de Freno Delantero Hyundai  Accent RB (2011-2019),disco,DELANTERO,,43.8,22,256,62.2,4 / 6,,false,false,false,
-MD633,MD633 Disco de Freno Delantero Kia Rio (2011-2016),disco,DELANTERO,,43.8,22,256,62.2,4 / 6,,false,false,false,
-MD633,MD633 Disco de Freno Delantero Kia Rio (2017 - 2022),disco,DELANTERO,,43.8,22,256,62.2,4 / 6,,false,false,false,
-MD639,MD639 Disco de Freno Delantero para Ford Ranger y Mazda BT50,disco,DELANTERO,,61,32,302,98,6 / 9,,false,false,false,
-MD645,MD645 Disco de Freno Delantero Hyundai  Elantra (2018),disco,DELANTERO,,44.5,23,280,69,5 / 7,,false,false,false,
-MD646,MD646 Disco de Freno Delantero Toyota Corolla (2011-2013) / URBAN CRUISER (2010-2017),disco,DELANTERO,,46.5,22,275,55,5 / 8,,false,false,false,
-MD653,MD653 Disco de Freno Delantero Chevrolet N300 (2014 - 2022),disco,DELANTERO,,,,,,,,false,false,false,
-MD686,MD686 Disco de Freno Delantero Chevrolet Aveo Sedan (2009-2016),disco,DELANTERO,,35,24,256,59,6,,false,false,false,
-MD706,MD706 Disco de Freno Delantero Kia Sportage (2018-2022) / Hyundai  Tucson (2017 - 2018),disco,DELANTERO,,46.8,25,305,69,5 / 7,,false,false,false,
-MD713,MD713 Disco de Freno Trasero Nissan Xtrail (2015-2022),disco,TRASERO,,62,16,292,68,5 / 6,,false,false,false,
-MD714,MD714 Disco de Freno Trasero Nissan Qashqai (2010-2014),disco,TRASERO,,62.3,9,292,68,5 / 6,,false,false,false,
-MD715,MD715 Disco de Freno Delantero Nissan Navara (2009-2015),disco,DELANTERO,,53.1,28,296,68,6,,false,false,false,
-MD715,MD715 Disco de Freno Delantero Nissan Np300 Navara (2016-2022),disco,DELANTERO,,53.1,28,296,68,6,,false,false,false,
-MD725,MD725 Disco de Freno Trasero Toyota Corolla (2011-2013),disco,TRASERO,,30.7,9,259,55,5 / 7,,false,false,false,
-MD727,MD727 Disco de Freno Trasero Hyundai Santa Fe (2012-2015),disco,TRASERO,,71.4,11,302,69,5 / 7,,false,false,false,
-MD735,MD735 Disco de Freno Delantero Toyota Hilux DX / Vigo (2012-2015) / Hilux Revo / Prado / 4 Runner (2016-2022),disco,DELANTERO,,67,28,319,108,6 / 8,,false,false,false,
-MD748,MD748 Disco de Freno Delantero Chevrolet DMAX (2015 - 2022),disco,DELANTERO,,40,27,300,88,6,,false,false,false,
-MD753,MD753 Disco de Freno Delantero para Ford F150,disco,DELANTERO,,,,,,,,false,false,false,
-MD754,MD754 Disco de Freno Trasero para Ford F150,disco,TRASERO,,79.9,25,348,90.1,6,,false,false,false,
-MD756,MD756 Disco de Freno Delantero Toyota RAV4 (2006-2012),disco,DELANTERO,,46,25,275,62,5 / 7,,false,false,false,
-MD762,MD762 Disco de Freno Delantero Toyota RAV4 (2013-2018),disco,DELANTERO,,49.3,28,296,62,5 / 7,,false,false,false,
-MD777,MD777 Disco de Freno Trasero Suzuki Grand Nomade (2006-2013),disco,TRASERO,,57,16,308,62,5 / 8,,false,false,false,
-MD778,MD778 Disco de Freno Delantero Kia Frontier (2012-2022),disco,DELANTERO,,42,26,278,92,5,,false,false,false,
-MD789,MD789 Disco de Freno Delantero Toyota 4Runner (2010-2014),disco,DELANTERO,,68.4,32,338,108,6 / 8,,false,false,false,
-MD798,MD798 Disco de Freno Trasero Toyota 4Runner (2010-2014),disco,TRASERO,,67.9,18,312,108,6 / 14,,false,false,false,
-MD811,MD811 Disco de Freno Delantero Chevrolet Sail 1.5 (2016 - 2022) ,disco,DELANTERO,,,,,,,,false,false,false,
-MD856,MD856 Disco de Freno Trasero Toyota RAV4 (2013 - 2018),disco,TRASERO,,55,12,281,62,5 / 8,,false,false,false,
-MD877 / MD752,MD877 / MD752 Disco de Freno Delantero Nissan Versa (2012 - 2018) / March (2012 - ON),disco,DELANTERO,,44,22,260,61,4 / 6,,false,false,false,
-MD895,MD895 Disco de Freno Delantero Ford Transit 2.2 (2014 - 2019),disco,DELANTERO,,55.2,33,308,93,5,,false,false,false,
-MD901,MD901 Disco de Freno Delantero Mazda CX5 (2012-2022),disco,DELANTERO,,52,28,297,68,5 / 6,,false,false,false,
-MD902,MD902 Disco de Freno Trasero Mazda CX5 (2012-2022),disco,TRASERO,,40,10,303,68,5 / 6,,false,false,false,
-MD929,MD929 Disco de Freno Delantero Hyundai  Grand I10 (2013-2017),disco,DELANTERO,,48.7,18,252,62.2,4 / 6,,false,false,false,
-MD938,MD938 Disco de Freno Delantero Nissan Kicks (2017-2022),disco,DELANTERO,,43.9,22,258,61,4,,false,false,false,
-MD938,MD938 Disco de Freno Delantero Nissan Versa (2020 - actual) / Kicks (2017 - actual),disco,DELANTERO,,43.9,22,258,61,4,,false,false,false,
-MD949,MD949 Disco de Freno Delantero Mitsubishi Mirage  ,disco,DELANTERO,,,,,,,,false,false,false,
-MD952,MD952 Disco de Freno Trasero Suzuki Swift 1.5  ,disco,TRASERO,,43.4,9,278,62,5 / 8,,false,false,false,
-MD955,MD955 Disco de Freno Delantero Jeep Grand Cherokee 3.6  ,disco,DELANTERO,,54.7,32,350,72,5,,false,false,false,
-MD956,MD956 Disco de Freno Trasero Jeep Grand Cherokee 3.6 (2012-2022),disco,TRASERO,,63.5,22,330,72,5,,false,false,false,
-MD959,MD959 Disco de Freno Trasero Kia Sportage (2018-ON) / Tucson (2017 - 2018),disco,TRASERO,,55,10,302,76,5 / 8,,false,false,false,
-MD960,MD960 Disco de Freno Delantero Hyundai Tucson (2016 - actual) / Sportage (2015 - actual),disco,DELANTERO,,48.2,25,305,69,5 / 7,,false,false,false,
-MD960,MD960 Disco de Freno Delantero Kia Sportage (2010-2022),disco,DELANTERO,,47.3,28,300,69,5 / 7,,false,false,false,
-MD990,MD990 Disco de Freno Delantero Hyundai  Elantra (2006-2011),disco,DELANTERO,,47,26,275,69,5 / 7,,false,false,false,
-MD993,MD993 Disco de Freno Delantero Nissan Qashqai (2015-2017),disco,DELANTERO,,44,26,296,68,5 / 7,,false,false,false,
-MD994,MD994 Disco de Freno Trasero Nissan Qashqai (2015-2017),disco,TRASERO,,47,13,290,68,5 / 7,,false,false,false,
-MT000,MT000 Tambor de Freno Trasero Suzuki  Swift 1.3 (2009-2011),tambor,TRASERO,,81.5,,238,57.9,4 / 6,40.5,false,false,false,
-MT014,MT014 Tambor de Freno Trasero Nissan Terrano Dob Cabina 4x4 (2008),tambor,TRASERO,,73,,300,100.6,6 / 8,63.5,false,false,false,
-MT064,MT064 Tambor de Freno Trasero Suzuki Baleno (1996-2004),tambor,TRASERO,,56,,244.6,58,4 / 7,40,false,false,false,
-MT068,MT068 Tambor de Freno Trasero Toyota Tercel (1994-1999),tambor,TRASERO,,80.6,,207,39.8,4,34.5,false,false,false,
-MT098,MT098 Tambor de Freno Trasero Toyota Yaris Echo (2000-2005),tambor,TRASERO,,48.5,,180,55.1,4 / 6,38,false,false,false,
-MT102,MT102 Tambor de Freno Trasero Nissan Terrano 4x2 (2001-2014),tambor,TRASERO,,88.5,,336.5,100.5,6 / 9,69,false,false,false,
-MT105,MT105 Tambor de Freno trasero para Chevrolet Colorado y DMAX,tambor,TRASERO,,80.5,,337,101,6 / 8,66,false,false,false,
-MT114,MT114 Tambor de Freno Trasero Mitsubishi L200 (2009-2018),tambor,TRASERO,,91.4,,343,94,6 / 8,73.2,false,false,false,
-MT114,MT114 Tambor de Freno Trasero Mitsubishi Montero G2 (2010-2016),tambor,TRASERO,,91.4,,343,94,6 / 8,73.2,false,false,false,
-MT115,MT115 Tambor de Freno Trasero Toyota Hilux DX (2016-ON) / Hilux Vigo (2012-2015) / Hilux Vigo (2012-2015),tambor,TRASERO,,76.1,,344.5,108,6 / 14,67,false,false,false,
-MT115,MT115 Tambor de Freno Trasero Toyota Hilux Revo (2016-2022),tambor,TRASERO,,76.1,,344.5,108,6 / 14,67,false,false,false,
-MT126,MT126 Tambor de Freno Trasero Nissan tiida (2009-2014),tambor,TRASERO,,66,,239,68,4 / 6,42.2,false,false,false,
-MT128,MT128 Tambor de Freno Trasero Hyundai  i10 (2013-2017) / Hyundai  Accent (2006-2010),tambor,TRASERO,,57.6,,243,62.5,4 / 6,40.6,false,false,false,
-MT142,MT142 Tambor de Freno Trasero Kia Morning (2012-2016),tambor,TRASERO,,53.4,,219.5,62.5,4 / 6,35.5,false,false,false,
-MT143,MT143 Tambor de Freno Trasero Chevrolet Aveo (2009-2016),tambor,TRASERO,,57,,230,57,4 / 6,40,false,false,false,
-MT146,MT146 Tambor de Freno Trasero Nissan Navara (2009-2015),tambor,TRASERO,,89,,336,68,6 / 8,72,false,false,false,
-MT148,MT148 Tambor de Freno Trasero Kia Rio (2011-2016),tambor,TRASERO,,53.7,,252.3,62.5,4 / 5,36.7,false,false,false,
-MT148,MT148 Tambor de Freno Trasero Kia Rio (2017 - 2022),tambor,TRASERO,,53.7,,252.3,62.5,4 / 5,36.7,false,false,false,
-MT150,MT150 Tambor de Freno Trasero Toyota New Yaris (2006-2012) ,tambor,TRASERO,,53,,252,55,4 / 6,44,false,false,false,
-MT152,MT152  Tambor de Freno Trasero Chevrolet Sail (2010-2016) SIN ABS,tambor,TRASERO,,,,,,,,false,false,false,
-MT162,MT162 Tambor de Freno Trasero Chevrolet DMAX (2004-2014) Versión 4X2,tambor,TRASERO,,70.5,,302,101,6 / 7,60.5,false,false,false,
-MT165,MT165 Tambor de Freno Trasero Chevrolet N300 (2012-2022),tambor,TRASERO,,,,,,,,false,false,false,
-MT167,MT167 Tambor de Freno Trasero Ford Ranger y Mazda Bt50,tambor,TRASERO,,80.5,,347,93,6 / 8,67.8,false,false,false,
-MT172,MT172 Tambor de Freno Trasero Nissan Versa (2012-2014),tambor,TRASERO,,,,,,,,false,false,false,
-MT173,MT173 Tambor de Freno Trasero Hyundai  Elantra (2006-2011),tambor,TRASERO,,55.7,,244.5,76,5 / 7,42,false,false,false,
-MT175,MT175 Tambor de Freno Trasero Volkswagen Amarok (2010 - 2022),tambor,TRASERO,,96,,335,76,5 / 8,72,false,false,false,
-MT189,MT189 Tambor de Freno Trasero Hyundai  Elantra (2011 - 2017),tambor,TRASERO,,53.8,,252.5,76,5 / 7,36,false,false,false,
-MT195,MT195 Tambor de Freno Trasero Nissan Kicks (2017-2022),tambor,TRASERO,,,,,,,,false,false,false,
+M1049,M1049/M1109 - Pastillas de Freno Cerámica Delanteras Nissan Qashqai Xtrail,pastilla,DELANTERO,141.9,58.6,16.8,,,,,TRUE,TRUE,TRUE,M1049.svg
+M1013,M1013/M859 - Pastillas de Freno Semi-metálica Trasera Volkswagen 5N0698451,pastilla,TRASERO,105.3,55.9,17.1,,,,,TRUE,TRUE,FALSE,M1013.svg
+M1022,M1022 - Pastillas de Freno Ceramica Delantera Audi - Volkswagen,pastilla,DELANTERO,118.9,69.5,19.6,,,,,FALSE,TRUE,FALSE,M1022.svg
+M1034,M1034 - Pastillas de Freno Ceramica Delantera Peugeot - Citroen,pastilla,DELANTERO,162.35,66.8,18.5,,,,,FALSE,TRUE,FALSE,M1034.svg
+M1037,M1037 Pastillas de Freno Cerámica Delantera Grat Wall Wingle / Changan Hunter / 3501150XK00XB,pastilla,DELANTERO,167.3,54.3,16.1,,,,,TRUE,TRUE,TRUE,M1037.svg
+M1038,M1038 - Pastillas de Freno Ceramica Delantera Chery,pastilla,DELANTERO,118 & 110,48.6,15,,,,,FALSE,TRUE,FALSE,M1038.svg
+M1039,M1039/M1055/M757 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,131.6,59.9,16.9,,,,,TRUE,TRUE,TRUE,M1039.svg
+M1040,M1040-Pastillas de Frenos Cerámicas Delanteras Para Mitsubishi Charriot (1998-2003),pastilla,DELANTERO,156.8,53.5,15.5,,,,,FALSE,TRUE,FALSE,M1040.svg
+M1044,M1044/M1146 - Pastilla de Freno Cerámica Traseras Toyota Corolla,pastilla,TRASERO,99,42,14,,,,,TRUE,TRUE,TRUE,M1044.svg
+M1050,M1050 / M1268 -  Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,136.5,56.3,16.5,,,,,FALSE,TRUE,FALSE,M1050.svg
+M1052,M1052 - Pastillas de Freno Cerámica  Delanteras Ford  Mazda  Suzuki,pastilla,DELANTERO,125.6,51.7,17,,,,,TRUE,TRUE,TRUE,M1052.svg
+M1053,M1053 - Pastillas de Freno Cerámica Delanteras para Citroen Peugeot,pastilla,DELANTERO,155.2,64.7 & 57.7,18.5,,,,,TRUE,TRUE,TRUE,M1053.svg
+M1056,M1056 - Pastillas de Freno Ceramica Delantera Dodge Chrysler,pastilla,DELANTERO,214.2,71.8,20.7,,,,,FALSE,TRUE,FALSE,M1056.svg
+M1064,M1064 - Pastillas de Freno Cerámica Delanteras para Citroen Peugeot MG,pastilla,DELANTERO,155.1,66.6,19,,,,,FALSE,TRUE,FALSE,M1064.svg
+M1070,M1070 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,148,60.3,18.8,,,,,TRUE,TRUE,FALSE,M1070.svg
+M1071,M1071 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,116.6,42.8,16.2,,,,,TRUE,TRUE,FALSE,M1071.svg
+M1072,M1072 - Pastillas de Freno Cerámica Traseras Para Kia,pastilla,TRASERO,100.5,44,15,,,,,TRUE,TRUE,FALSE,M1072.svg
+M1073,M1073 - Pastilla de Freno Cerámica Delanteras Toyota Hilux,pastilla,DELANTERO,143.5,67.6,17,,,,,TRUE,TRUE,TRUE,M1073.svg
+M1078,M1078 - Pastillas de Freno Cerámica Delanteras Chevrolet N300 / N400 / Audi  80 90 100 200 - Chery Tiggo 2,pastilla,DELANTERO,119.3,69.6,16,,,,,TRUE,TRUE,TRUE,M1078.svg
+M1086/M946,M1086 /M946 - Pastillas de Freno Ceramica Traseras Dodge Chrysler,pastilla,TRASERO,109.7,69.1,15.5,,,,,FALSE,TRUE,FALSE,M1086.svg
+M1087,M1087 - Pastillas de Freno Ceramica Delantera Ford,pastilla,DELANTERO,162.4,54.5,17.4,,,,,FALSE,TRUE,FALSE,M1087.svg
+M1090,M1090 - Pastillas de Freno Cerámica Traseras Nissan - Suzuki,pastilla,TRASERO,105.5,38.2,14,,,,,TRUE,TRUE,TRUE,M1090.svg
+M1091,M1091 - Pastillas de Freno Cerámica Delanteras Ford  F-150 (2010-2020),pastilla,DELANTERO,194.3,69 & 68,18,,,,,FALSE,TRUE,TRUE,M1091.svg
+M1104,M1104 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,142.1,66.7,19.1,,,,,FALSE,TRUE,FALSE,M1104.svg
+M1106,M1106 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,137.8,46.2,16.6,,,,,FALSE,TRUE,FALSE,M1106.svg
+M1111/M1400,M1111/M1400 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,157.7,58.7,18,,,,,FALSE,TRUE,FALSE,M1111.svg
+M1112,M1112 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,113,49.4,15.2,,,,,FALSE,TRUE,FALSE,M1112.svg
+M1114,M1114 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,132.8,59.9,17.2,,,,,TRUE,TRUE,FALSE,M1114.svg
+M1115,M1115 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,129.8,56.5,17.7,,,,,FALSE,TRUE,FALSE,M1115.svg
+M1116/M1117/M1125/M1172/M1173,M1116/M1117/M1125/M1172/M1173 - Pastillas de Freno Cerámica Traseras Para Nissan  Kia,pastilla,TRASERO,99.9,40.9,15.7,,,,,TRUE,TRUE,TRUE,M1116.svg
+M1119/M1121,M1119/M1121 - Pastillas de Freno Cerámica Traseras Hyundai  Santa Fe - Kia Sorento,pastilla,TRASERO,116.8,48.3,15.5,,,,,TRUE,TRUE,TRUE,M1119.svg
+M1120,M1120 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,140.7,59.9,17.3,,,,,FALSE,TRUE,FALSE,M1120.svg
+M1130,M1130 - Pastillas de Freno Cerámica Delanteras Volkswagen 5N0698151,pastilla,DELANTERO,155.1,71.9 & 66.6,20.1,,,,,TRUE,TRUE,FALSE,M1130.svg
+M1148/M963,M1148/M963 - Pastillas de Freno Cerámica Delanteras para Volkswagen,pastilla,DELANTERO,131.6,77.3,16.5,,,,,TRUE,TRUE,FALSE,M1148.svg
+M1152,M1152 - Pastillas de Freno Cerámica Delanteras Para Chevrolet / Maxus T60,pastilla,DELANTERO,152,60.5,16,,,,,FALSE,TRUE,TRUE,M1152.svg
+M1153,M1153 - Pastillas de Freno Cerámica Delanteras Para Kia,pastilla,DELANTERO,157,61,17,,,,,FALSE,TRUE,FALSE,M1153.svg
+M1154,M1154 - Pastillas de Freno Cerámica Traseras para Citroen Peugeot,pastilla,TRASERO,103.8,56,17.3,,,,,TRUE,TRUE,FALSE,M1154.svg
+M1155,M1155 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,124,46,17.5,,,,,TRUE,TRUE,TRUE,M1155.svg
+M1156,M1156 - Pastillas de Freno Cerámica Delanteras Chery   Arriz - Chery  Tiggo 4 / Tiggo 5,pastilla,DELANTERO,131.6,54.8,16.8,,,,,TRUE,TRUE,TRUE,M1156.svg
+M1158,M1158 - Pastillas de Freno Cerámica Delanteras Kia  Rio 5 - Hyundai Accent IV,pastilla,DELANTERO,132.8,58.1,17.2,,,,,TRUE,TRUE,TRUE,M1158.svg
+M1162,M1162 - Pastillas de Freno Cerámica Delanteras Para Kia,pastilla,DELANTERO,111,47.5,16.6,,,,,TRUE,TRUE,FALSE,M1162.svg
+M1164,M1164 - Pastillas de Freno Ceramica Delantera Dodge Chrysler - Fiat - Alfa Romero,pastilla,DELANTERO,156.4 & 155.2,71.5 & 68.9,20,,,,,FALSE,TRUE,FALSE,M1164.svg
+M1166,M1166 - Pastillas de Freno Ceramica Trasera Dodge Chrysler,pastilla,TRASERO,141.6 & 140.3,59.6 & 51.8,17,,,,,FALSE,TRUE,FALSE,M1166.svg
+M1167,M1167 - Pastillas de Freno Cerámica Delanteras Dodge Chrysler,pastilla,DELANTERO,194.3 & 193.1,64.1,19,,,,,FALSE,TRUE,FALSE,M1167.svg
+M1168,M1168 - Pastillas de Freno Cerámica Delanteras Para Toyota,pastilla,DELANTERO,150.7,65.4 & 62.5,19,,,,,FALSE,TRUE,FALSE,M1168.svg
+M1169,M1169 - Pastillas de Freno Cerámica Traseras para Mercedes-Benz Renault,pastilla,TRASERO,95.4,44,15.9,,,,,TRUE,TRUE,FALSE,M1169.svg
+M1171/M1158,M1171 / M1158 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,132.8,60,17.7,,,,,TRUE,TRUE,TRUE,M1171.svg
+M1174,M1174 - Pastillas de Freno Cerámica Traseras Para Toyota,pastilla,TRASERO,108.8,49.9,16.5,,,,,FALSE,TRUE,FALSE,M1174.svg
+M1175,M1175 - Pastillas de Freno Cerámica Delanteras Nissan  Versa March,pastilla,DELANTERO,138.5,49,13.9,,,,,TRUE,TRUE,TRUE,M1175.svg
+M1176,M1176 - Pastillas de Freno Cerámica Traseras para Citroen Peugeot,pastilla,TRASERO,86.9,53,17,,,,,TRUE,TRUE,FALSE,M1176.svg
+M1177,M1177 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,123,54.1,17.3,,,,,FALSE,TRUE,FALSE,M1177.svg
+M1178/M1150,M1178/M1150 - Pastillas de Freno Cerámica Delanteras Para Ford / Volkswagen Amarok,pastilla,DELANTERO,164.8,66.8,18.8,,,,,TRUE,TRUE,TRUE,M1178.svg
+M1180,M1180 - Pastillas de Freno Cerámica Delanteras para Renault Samsung,pastilla,DELANTERO,155,65 & 59,18,,,,,TRUE,TRUE,FALSE,M1180.svg
+M1181,M1181 - Pastillas de Freno Cerámica Delanteras para MG,pastilla,DELANTERO,156.3 & 155,69.9 & 67.1,19.1,,,,,TRUE,TRUE,FALSE,M1181.svg
+M1182,M1182 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,142.2,53.4,18,,,,,TRUE,TRUE,FALSE,M1182.svg
+M1183,M1183 - Pastillas de Freno Cerámica Delanteras para MG,pastilla,DELANTERO,150,54.2 & 49.8,15.3,,,,,FALSE,TRUE,TRUE,M1183.svg
+M1186,M1186 - Pastillas de Freno Cerámica Delanteras Volkswagen Gol / Voyage / Saveiro (2015 - ON) MG GT (2017 - ON),pastilla,DELANTERO,146,54,16.1,,,,,TRUE,TRUE,TRUE,M1186.svg
+M1189,M1189 - Pastillas de Freno Cerámica Traseras Fiat,pastilla,TRASERO,95.6,43.9,13.7,,,,,FALSE,TRUE,FALSE,M1189.svg
+M1190,M1190 - Pastillas de Freno Cerámica Delanteras para Renault MEGANE / 410A12582R,pastilla,DELANTERO,155,68 & 63,17.1,,,,,TRUE,TRUE,FALSE,M1190.svg
+M775/M1191,M775 / M1191 - Pastillas de Freno Cerámica Traseras Renault,pastilla,TRASERO,123.1,52,16.5,,,,,FALSE,TRUE,FALSE,M775.svg
+M1204,M1204 - Pastillas de Freno Cerámica Delanteras Para Hyundai,pastilla,DELANTERO,126.2,81.8,17,,,,,FALSE,TRUE,FALSE,M1204.svg
+M1207,M1207 - Pastillas de Freno Cerámica Traseras Fiat Chevrolet Opel,pastilla,TRASERO,101.8,47.1,17.1,,,,,FALSE,TRUE,FALSE,M1207.svg
+M1208,M1208 - Pastillas de Freno Cerámica Subaru XV Crosstrek,pastilla,DELANTERO,137.3,56.8,16.4,,,,,TRUE,TRUE,FALSE,M1208.svg
+M1212,M1212 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,195.3,54.4,17.5,,,,,FALSE,TRUE,FALSE,M1212.svg
+M1213,M1213 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,116.6,50,16.6,,,,,TRUE,TRUE,FALSE,M1213.svg
+M1215,M1215 - Pastillas de Freno Cerámica Delanteras para Peugeot,pastilla,DELANTERO,155.1,60.3,17.3,,,,,TRUE,TRUE,FALSE,M1215.svg
+M1217,M1217 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,121,37.2,14.8,,,,,FALSE,TRUE,FALSE,M1217.svg
+M1218,M1218 - Pastillas de Freno Cerámica Delanteras para Citroen Peugeot,pastilla,DELANTERO,136.8,59.3,18.5,,,,,TRUE,TRUE,FALSE,M1218.svg
+M1223,M1223 - Pastillas de Freno Cerámica Delanteras para Nissan Renault  Duster / 410608481R,pastilla,DELANTERO,116.4,52.5,17.3,,,,,TRUE,TRUE,FALSE,M1223.svg
+M1228,M1228 - Pastillas de Freno Cerámica Delanteras Para Ford  Mazda,pastilla,DELANTERO,194.2,68,16.4,,,,,TRUE,TRUE,TRUE,M1228.svg
+M1229,M1229 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,132,112,15,,,,,FALSE,TRUE,FALSE,M1229.svg
+M1234,M1234 - Pastillas de Freno Cerámica Delanteras para Citroen Peugeot,pastilla,DELANTERO,180.2,75,17,,,,,TRUE,TRUE,FALSE,M1234.svg
+M1235,M1235 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,180.1,61.5,18,,,,,FALSE,TRUE,TRUE,M1235.svg
+M1236,M1236 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,116.6,55.1,16.5,,,,,FALSE,TRUE,FALSE,M1236.svg
+M1239,M1239 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,148.8,54.1,16.6,,,,,FALSE,TRUE,TRUE,M1239.svg
+M124,M124 - Pastillas de Freno Cerámica Delanteras para Ford  Kia,pastilla,DELANTERO,151.5,47.6,18,,,,,TRUE,TRUE,FALSE,M124.svg
+M1240,M1240- Pastillas de Freno Ceramica Delanteras Mazda,pastilla,DELANTERO,140.4,59.5,15.5,,,,,FALSE,TRUE,FALSE,M1240.svg
+M1242,M1242 - Pastillas de Freno Cerámica Traseras Chery   Arriz Tiggo 7,pastilla,TRASERO,100,39,15.6,,,,,FALSE,TRUE,FALSE,M1242.svg
+M1248,M1248- Pastillas de Freno Cerámica Delanteras Nissan,pastilla,DELANTERO,168.7,58.2,16,,,,,FALSE,TRUE,FALSE,M1248.svg
+M1249,M1249 - Pastillas de Freno Cerámica Delanteras Mazda  CX-5 (2012-2019),pastilla,DELANTERO,142,60.9,15.8,,,,,TRUE,TRUE,TRUE,M1249.svg
+M1250,M1250 - Pastillas de Freno Cerámica Traseras Mazda  CX-5 CX-3,pastilla,TRASERO,104.7,43.1,14.4,,,,,FALSE,TRUE,TRUE,M1250.svg
+M1253,M1253 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,123.2,51.9,16.4,,,,,FALSE,TRUE,FALSE,M1253.svg
+M1258,M1258- Pastillas de Freno Cerámica Delanteras BYD - Geely,pastilla,DELANTERO,150.6,52.7,17.5,,,,,FALSE,TRUE,FALSE,M1258.svg
+M1259,M1259- Pastillas de Freno Ceramica Trasera Mahindra,pastilla,TRASERO,95.2,42,16.5,,,,,FALSE,TRUE,FALSE,M1259.svg
+M1260,M1260- Pastillas de Freno Ceramica Delantera Mahindra,pastilla,DELANTERO,158,60.6,17.6,,,,,FALSE,TRUE,FALSE,M1260.svg
+M1262,M1262 - Pastillas de Freno Cerámica Delanteras Toyota,pastilla,DELANTERO,122.2,48.9,17.5,,,,,TRUE,TRUE,TRUE,M1262.svg
+M1263,M1263- Pastillas de Freno Cerámica Delantera Toyota,pastilla,DELANTERO,134.4,63.4 & 57.1,18.7,,,,,FALSE,TRUE,FALSE,M1263.svg
+M1270,M1270 - Pastillas de Freno Cerámica Traseras para Chagan Mazda Mitsubishi Peugeot,pastilla,TRASERO,101.6,44.4,14.3,,,,,TRUE,TRUE,TRUE,M1270.svg
+M1274,M1274- Pastillas de Freno Cerámica Trasera BMW,pastilla,TRASERO,123.2,45.2 & 44.1,17.2,,,,,FALSE,TRUE,FALSE,M1274.svg
+M1277,M1277- Pastillas de Freno Cerámica Delanteras Opel,pastilla,DELANTERO,123,53.3,17.3,,,,,FALSE,TRUE,FALSE,M1277.svg
+M1280,M1280 - Pastillas de Freno Ceramica Traseras Nissan,pastilla,TRASERO,99.8,59.3,13.8,,,,,FALSE,TRUE,FALSE,M1280.svg
+M1284,M1284 - Pastillas de Freno Cerámica Delanteras para Renault Symbol II / 410602396r,pastilla,DELANTERO,140.2,41.8 & 40,18,,,,,FALSE,TRUE,FALSE,M1284.svg
+M1287,M1287 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,155.2 & 155.7,66.6 & 75.7,18.8,,,,,FALSE,TRUE,FALSE,M1287.svg
+M1290,M1290 - Pastillas de Freno Ceramica Delanteras Dodge Chrysler - Mercedes Benz,pastilla,DELANTERO,194.3 & 193.1,64,19,,,,,FALSE,TRUE,FALSE,M1290.svg
+M1294,M1294 - Pastillas de Freno Cerámica Delanteras Para Nissan,pastilla,DELANTERO,165.4,59.8,15.8,,,,,TRUE,TRUE,FALSE,M1294.svg
+M1305,M1305 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,148,61.1,18.8,,,,,FALSE,TRUE,FALSE,M1305.svg
+M1306,M1306 - Pastillas de Freno Cerámica Delanteras para Volkswagen  Audi,pastilla,DELANTERO,160,64.5,20.4,,,,,TRUE,TRUE,FALSE,M1306.svg
+M1307,M1307 - Pastillas de Freno Cerámica Traseras para Audi Volkswagen,pastilla,TRASERO,123,61 & 56.2,16,,,,,TRUE,TRUE,FALSE,M1307.svg
+M1309,M1309 - Pastillas de Freno Cerámica Delanteras para Renault,pastilla,DELANTERO,132.8,58.7,17.5,,,,,TRUE,TRUE,FALSE,M1309.svg
+M131,M131 - Pastillas de Freno Cerámica Delanteras Para Ford  Kia,pastilla,DELANTERO,78.8,63.4,14.2,,,,,FALSE,TRUE,FALSE,M131.svg
+M1310,M1310 Grand i10 (2011 - 2022),pastilla,DELANTERO,132.7,50.4,16.7,,,,,TRUE,TRUE,TRUE,M1310.svg
+M1313,M1313 - Pastillas de Freno Cerámica Delanteras para Peugeot,pastilla,DELANTERO,147.9,63.3 & 58.2,18.5,,,,,TRUE,TRUE,FALSE,M1313.svg
+M1314,M1314 - Pastillas de Freno Cerámica Traseras para Peugeot,pastilla,TRASERO,123,46.2 & 42,15,,,,,TRUE,TRUE,FALSE,M1314.svg
+M1315,M1315 - Pastillas de Freno Cerámica Traseras para Citroen Great Wall Haval Peugeot,pastilla,TRASERO,99.1,53.4 & 50,17.5,,,,,TRUE,TRUE,TRUE,M1315.svg
+M1322,M1322 - Pastillas de Freno Cerámica Traseras Mercedes Benz,pastilla,TRASERO,118.8,46.2,18.4,,,,,FALSE,TRUE,FALSE,M1322.svg
+M1323,M1323 - Pastillas de Freno Cerámica Delanteras Chevrolet,pastilla,DELANTERO,189.7,92.9,16.2,,,,,FALSE,TRUE,FALSE,M1323.svg
+M1324,M1324 - Pastillas de Freno Cerámica Delanteras Mazda,pastilla,DELANTERO,131.1,60,15.5,,,,,FALSE,TRUE,FALSE,M1324.svg
+M1329,M1329 - Pastillas de Freno Cerámica Traseras Para Suzuki,pastilla,TRASERO,98.5,40,14.3,,,,,TRUE,TRUE,TRUE,M1329.svg
+M1334,M1334 - Pastillas de Freno Cerámica Delanteras Renault  Kadjar Nissan Qashqai,pastilla,DELANTERO,141.6,59.2,16.5,,,,,TRUE,TRUE,TRUE,M1334.svg
+M1335,M1335 - Pastillas de Freno Cerámica Traseras Nissan  Qashqai J11 - Renault Kadjar,pastilla,TRASERO,103.6,47.3 & 44.9,15.1,,,,,TRUE,TRUE,TRUE,M1335.svg
+M1340,M1340 - Pastillas de Freno Cerámica Delanteras Nissan  NP300 - Renault Alaskan,pastilla,DELANTERO,165.7,54,16.8,,,,,TRUE,TRUE,TRUE,M1340.svg
+M1345/M1339/M168,M1345/M1339/M168 - Pastillas de Freno Cerámica Delanteras Para Honda  Subaru,pastilla,DELANTERO,137.8,52.5,17.5,,,,,FALSE,TRUE,FALSE,M1345.svg
+M1349,M1349 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,148.8,60.7,16.4,,,,,FALSE,TRUE,FALSE,M1349.svg
+M1351,M1351 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,172,66.1,17,,,,,TRUE,TRUE,TRUE,M1351.svg
+M1353,M1353 - Pastillas de Freno Cerámica Traseras para Peugeot Citroen,pastilla,TRASERO,105.8,51.9 & 55.4,17.7,,,,,TRUE,TRUE,FALSE,M1353.svg
+M1354,M1354 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,140,55.1,16.3,,,,,TRUE,TRUE,TRUE,M1354.svg
+M1357,M1357 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,136.9,55.6 & 58,18.5,,,,,TRUE,TRUE,TRUE,M1357.svg
+M1359,M1359 - Pastillas de Freno Cerámica Delanteras Para Kia,pastilla,DELANTERO,161,60.5,16.7,,,,,FALSE,TRUE,FALSE,M1359.svg
+M1361,M1361 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,140.6,61.1,16.8,,,,,TRUE,TRUE,TRUE,M1361.svg
+M1362,M1362 - Pastillas de Freno Ceramica Delanteras Opel,pastilla,DELANTERO,155.3,52.5,17.1,,,,,FALSE,TRUE,FALSE,M1362.svg
+M1363,M1363 - Pastillas de Freno Cerámica Traseras Mazda  CX-5 (2017-2019),pastilla,TRASERO,112.4,42.6,14.3,,,,,FALSE,TRUE,TRUE,M1363.svg
+M1364,M1364 - Pastillas de Freno Cerámica Traseras Renault - Mazda,pastilla,TRASERO,104.2,47.2,15.4,,,,,FALSE,TRUE,FALSE,M1364.svg
+M1366,M1366 - Pastillas de Freno Cerámica Traseras BMW,pastilla,TRASERO,71.8,88,17,,,,,FALSE,TRUE,FALSE,M1366.svg
+M1370,M1370 - Pastillas de Freno Cerámica Delanteras SSangYong,pastilla,DELANTERO,133,58.4,17.4,,,,,FALSE,TRUE,FALSE,M1370.svg
+M1376,M1376 - Pastillas de Freno Cerámica Delanteras Nissan  Xtrail (2015-2020),pastilla,DELANTERO,152,61.5,15.8,,,,,FALSE,TRUE,TRUE,M1376.svg
+M1379,M1379 - Pastillas de Freno Cerámica Delanteras Mazda  New Mazda 3 Sedan x,pastilla,DELANTERO,142.1,55.6,15.8,,,,,TRUE,TRUE,TRUE,M1379.svg
+M1381,M1381 Pastillas de Freno Ceramica Delantera Renault Clio (2012-2019),pastilla,DELANTERO,155,49,16.9,,,,,FALSE,TRUE,FALSE,M1381.svg
+M1382,M1382 - Pastillas de Freno Cerámica Traseras Mazda / OEM B4Y02648ZB,pastilla,TRASERO,101.5,44.5,13.8,,,,,FALSE,TRUE,FALSE,M1382.svg
+M1383,M1383 - Pastillas de Freno Cerámica Delanteras Renault,pastilla,DELANTERO,140.2,41.3 & 43.8,18,,,,,FALSE,TRUE,FALSE,M1383.svg
+M1393,M1393 - Pastillas de Freno Cerámica  Delanteras Ford  Great Wall,pastilla,DELANTERO,193.2,64.6,19.1,,,,,FALSE,TRUE,FALSE,M1393.svg
+M1394/M1288,M1394/M1288 - Pastillas de Freno Cerámica Traseras Para Ford  Great Wall,pastilla,TRASERO,123.2,53.2 & 48.4,15.9,,,,,TRUE,TRUE,FALSE,M1394.svg
+M1398/M993,M1398/M993 - Pastillas de Freno Cerámica  Delanteras Para Honda,pastilla,DELANTERO,170,58,16.9,,,,,FALSE,TRUE,FALSE,M1398.svg
+M1399,M1399 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,113.3,48.4,15.4,,,,,FALSE,TRUE,FALSE,M1399.svg
+M1401,M1401 - Pastillas de Freno Cerámica Delanteras para Skoda Volkswagen,pastilla,DELANTERO,131,52.5,18,,,,,TRUE,TRUE,FALSE,M1401.svg
+M1402,M1402 - Pastillas de Freno Cerámica Delanteras Opel,pastilla,DELANTERO,155.2,68 & 61.8,17.8,,,,,FALSE,TRUE,FALSE,M1402.svg
+M1406,M1406 - Pastillas de Freno Cerámica Traseras para Citroen Fiat Peugeot,pastilla,TRASERO,137.1,48.8,18.7,,,,,TRUE,TRUE,FALSE,M1406.svg
+M1407,M1407 Pastillas de Freno Ceramica Delantera Nissan New Versa (2021-2022),pastilla,DELANTERO,125.8,51.4,15.9,,,,,TRUE,TRUE,TRUE,M1407.svg
+M1411,M1411 - Pastillas de Freno Cerámica Traseras Mazda  New Mazda 3 Sedan x / bay02643za,pastilla,TRASERO,104.2,43.4,15,,,,,FALSE,TRUE,TRUE,M1411.svg
+M1418,M1418 - Pastillas de Freno Cerámica Delanteras Peugeot,pastilla,DELANTERO,180.2,69.5,17,,,,,FALSE,TRUE,FALSE,M1418.svg
+M1419,M1419 - Pastillas de Freno Cerámica Traseras Peugeot,pastilla,TRASERO,113.9,53.5,16.5,,,,,FALSE,TRUE,FALSE,M1419.svg
+M1420,M1420 - Pastillas de Freno Cerámica Traseras Dodge Chrysler - Fiat,pastilla,DELANTERO,141,63.3,20.1,,,,,FALSE,TRUE,FALSE,M1420.svg
+M1421,M1421 - Pastillas de Freno Cerámica Traseras Dodge Chrysler - Fiat,pastilla,TRASERO,116,50,17,,,,,FALSE,TRUE,FALSE,M1421.svg
+M1424,M1424 - Pastillas de Freno Cerámica Delanteras Dodge Chrysler,pastilla,DELANTERO,194.3 & 193.1,64,19,,,,,FALSE,TRUE,FALSE,M1424.svg
+M1425,M1425 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,186,59,17,,,,,FALSE,TRUE,FALSE,M1425.svg
+M1426,M1426 - Pastillas de Freno Cerámica Traseras Para Ford,pastilla,TRASERO,126.7,48,16.2,,,,,FALSE,TRUE,FALSE,M1426.svg
+M1430,M1430 - Pastillas de Freno Cerámica Traseras Para Subaru,pastilla,TRASERO,123.2,52 & 48,14.5,,,,,TRUE,TRUE,TRUE,M1430.svg
+M1431,M1431 Pastillas de Freno Ceramica Delantera Subaru,pastilla,DELANTERO,145.3,58.4,17,,,,,TRUE,TRUE,TRUE,M1431.svg
+M1432,M1432 Pastillas de Freno Ceramica Delantera Jac S2 / S3 / J3,pastilla,DELANTERO,124.3,52.8,16,,,,,TRUE,TRUE,TRUE,M1432.svg
+M1436,M1436 - Pastillas de Freno Cerámica Delanteras para Citroen Peugeot,pastilla,DELANTERO,133,60.2 & 52.5,18.8,,,,,TRUE,TRUE,FALSE,M1436.svg
+M1437,M1437 - Pastillas de Freno Cerámica Delanteras para Volkswagen,pastilla,DELANTERO,192.9,75.1,18,,,,,TRUE,TRUE,FALSE,M1437.svg
+M1443,M1443 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,117,45,17,,,,,FALSE,TRUE,FALSE,M1443.svg
+M1445,M1445 - Pastillas de Freno Cerámica Traseras para MG,pastilla,TRASERO,105.8,48.4,16.1,,,,,FALSE,TRUE,FALSE,M1445.svg
+M1449,M1449 - Pastillas de Freno Cerámica Traseras Para Audi Volkswagen,pastilla,TRASERO,104.1,52.1,17.4,,,,,TRUE,TRUE,FALSE,M1449.svg
+M1462,M1462 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,163.1,90.7 & 81,16.8,,,,,FALSE,TRUE,FALSE,M1462.svg
+M1463,M1463 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,140.6,59.6,18,,,,,TRUE,TRUE,TRUE,M1463.svg
+M1468,M1468 - Pastillas de Freno Ceramica Delantera Mazda Demio (2007 - 2014) / Mazda 2 (2007 - 2015),pastilla,DELANTERO,125.5,48.1,14.5,,,,,TRUE,TRUE,TRUE,M1468.svg
+M1473,M1473 - Pastillas de Freno Ceramica Delanteras para MG D2031,pastilla,DELANTERO,155.1 & 156.4,62.4 & 56.1,16.7,,,,,TRUE,TRUE,TRUE,M1473.svg
+M1476,M1476 - Pastillas de Freno Cerámica Delanteras Kia,pastilla,DELANTERO,122,55,18,,,,,TRUE,TRUE,TRUE,M1476.svg
+M1479,M1479 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,155.1,56.6,17,,,,,FALSE,TRUE,FALSE,M1479.svg
+M1480,M1480 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,104.2,41.6,16.1,,,,,FALSE,TRUE,FALSE,M1480.svg
+M1483,M1483 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,140.6,59.7,18,,,,,FALSE,TRUE,FALSE,M1483.svg
+M1484/M1409,M1484/M1409 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,106.4,46.4,17,,,,,FALSE,TRUE,FALSE,M1484.svg
+M1485,M1485 - Pastillas de Freno Cerámica Delanteras para Volkswagen,pastilla,DELANTERO,175.2,69.5,20,,,,,TRUE,TRUE,FALSE,M1485.svg
+M1486,M1486 - Pastillas de Freno Ceramica Delantera Chevrolet Colorado 28 (2019 - 2022),pastilla,DELANTERO,151.9,61.3,16,,,,,FALSE,TRUE,FALSE,M1486.svg
+M1489,M1489 - Pastillas de Freno Cerámica Traseras Para Honda /Mitsubishi Eclipse Cross (2017 - 2022),pastilla,TRASERO,122.6,48.4 & 53.2,15,,,,,FALSE,TRUE,FALSE,M1489.svg
+M1509,M1509 - Pastillas de Freno Cerámica Delanteras Para Honda CR V (2017-2022),pastilla,DELANTERO,148.8,62,17,,,,,FALSE,TRUE,FALSE,M1509.svg
+M1515,M1515 - Pastillas de Freno Cerámica Traseras Para Honda CR V (2017 - 2022),pastilla,TRASERO,118.9,49.1,17,,,,,FALSE,TRUE,FALSE,M1515.svg
+M1526,M1526 - Pastillas de Freno Cerámica Delanteras para Toyota,pastilla,DELANTERO,142.5,56,16.4,,,,,FALSE,TRUE,TRUE,M1526.svg
+M1527,M1527 - Pastillas de Freno Cerámica Traseras para Toyota,pastilla,TRASERO,121.3,42.7,14.5,,,,,FALSE,TRUE,FALSE,M1527.svg
+M1530,M1530 Pastillas de freno low metal delanteras para chevrolet,pastilla,DELANTERO,129.9,60.9,17,,,,,FALSE,FALSE,TRUE,M1530.svg
+M1531,M1531 Pastillas de freno traseras para Chevrolet Groove (2021 - actual),pastilla,TRASERO,103.5,42.5,13.9,,,,,FALSE,TRUE,FALSE,M1531.svg
+M1535,M1535 Pastillas de Freno Ceramica Delantera Chevrolet Onix (2020),pastilla,DELANTERO,132.1,54 & 52,17,,,,,TRUE,TRUE,TRUE,M1535.svg
+M1553,M1553 - Pastillas de Freno Ceramica Traseras Peugeot,pastilla,TRASERO,92.2,46.1,16.5,,,,,FALSE,TRUE,FALSE,M1553.svg
+M1566,M1566 - Pastillas de Freno Cerámica Delantera Para Great Wall 2021,pastilla,DELANTERO,158.5,61.1,17,,,,,FALSE,TRUE,FALSE,M1566.svg
+M1567,M1567 - Pastillas de Freno Cerámica Trasera Para Great Wall 2021,pastilla,TRASERO,118.8,48.1,14.8,,,,,FALSE,TRUE,FALSE,M1567.svg
+M1575,M1575 Pastillas de freno delanteras para Chevrolet Groove (2021 - actual),pastilla,DELANTERO,,,,,,,,FALSE,TRUE,FALSE,M1575.svg
+M1586,M1586 Pastillas de Freno Cerámica Delantera Peugeot Citroen Opel DS4,pastilla,DELANTERO,148.4,67,18,,,,,FALSE,TRUE,FALSE,M1586.svg
+M1587,M1587 Pastillas de freno delanteras para Nissan Sentra 2.0 (2019 - actual),pastilla,DELANTERO,141.6,55.8,16,,,,,FALSE,TRUE,FALSE,M1587.svg
+M1588,M1588 Pastillas de freno traseras para Nissan Sentra (2019 - on) ,pastilla,TRASERO,105.9,51,14.6,,,,,FALSE,TRUE,FALSE,M1588.svg
+M162,M162 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,160 & 177.6,62 & 63,17.3,,,,,FALSE,TRUE,FALSE,M162.svg
+M1632,M1632 Pastillas De Freno Cerámica Delantera Toyota Corolla Sedan 2022- ON,pastilla,DELANTERO,134.4,59,18.7,,,,,FALSE,TRUE,FALSE,M1632.svg
+M1633,M1633 Pastillas De Freno Cerámica Traseras Toyota Corolla 2022 - OM,pastilla,TRASERO,100,50,16,,,,,FALSE,TRUE,FALSE,M1633.svg
+M165,M165 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,116,45,15,,,,,TRUE,TRUE,FALSE,M165.svg
+M166,M166 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Jac,pastilla,DELANTERO,127.4,49,14.8,,,,,TRUE,TRUE,FALSE,M166.svg
+M177,M177 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,131.3,54.6,15,,,,,FALSE,TRUE,FALSE,M177.svg
+M178,M178 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,136.6,57.8,17.3,,,,,FALSE,TRUE,TRUE,M178.svg
+M182/M462/M1342,M182/M462/M1342 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,88.8,36.8,13,,,,,FALSE,TRUE,FALSE,M182.svg
+M187,M187 - Pastillas de Freno Cerámica Traseras Para Hyundai  Jac  Kia  Nissan,pastilla,TRASERO,85.6,46.4,14,,,,,FALSE,TRUE,FALSE,M187.svg
+M193,M193 - Pastillas de Freno Cerámica Delanteras Para Chevrolet  Honda,pastilla,DELANTERO,137.8,58.6,16.5,,,,,FALSE,TRUE,FALSE,M193.svg
+M195,M195 - Pastillas de Freno Cerámica Traseras Para Honda  Great Wall 8970352660,pastilla,TRASERO,109.5,42.6,15.8,,,,,FALSE,TRUE,FALSE,M195.svg
+M205,M205 - Pastillas de Freno Cerámica Delanteras Kia Frontier antiguo (1997 - 2006),pastilla,DELANTERO,133.1,52.1,15,,,,,FALSE,TRUE,TRUE,M205.svg
+M214/M128,M214/M128 - Pastillas de Freno Cerámica Delanteras Para Kia  Ford  Mazda,pastilla,DELANTERO,91.6,64.2,15,,,,,FALSE,TRUE,FALSE,M214.svg
+M243,M243 - Pastillas de Freno Cerámica Delanteras Mercedes Benz E200 / E220 / E230 (1995 - 2005) CLK (1998-2004),pastilla,DELANTERO,151.3,60 & 66.2,19.8,,,,,FALSE,TRUE,FALSE,M243.svg
+M247,M247 - Pastilla de Freno Cerámica Delanteras Toyota Terios,pastilla,DELANTERO,114,50,15,,,,,TRUE,TRUE,TRUE,M247.svg
+M256,M256 - Pastillas de Freno Cerámica Delanteras Mitsubishi  Montero Sport Outlander,pastilla,DELANTERO,149.8,58.6,15.7,,,,,TRUE,TRUE,FALSE,M256.svg
+M270,M270 - Pastillas de Freno Cerámica Delanteras para Nissan D510-7389,pastilla,DELANTERO,108.5,48,16.5,,,,,TRUE,TRUE,FALSE,M270.svg
+M275,M275 - Pastillas de Freno Cerámica Nissan,pastilla,DELANTERO,160.6,49.6,17,,,,,TRUE,TRUE,FALSE,M275.svg
+M276,M276 Pastillas de Freno Cerámica Delanteras Nissan Pathfinder (1999-2002),pastilla,DELANTERO,159,56,16.5,,,,,FALSE,TRUE,FALSE,M276.svg
+M284,M284/M1108 - Pastillas de Freno Cerámica Delanteras Nissan  Juke All years,pastilla,DELANTERO,137.2,53.5 & 54.4,17,,,,,FALSE,TRUE,FALSE,M284.svg
+M291,M291 - Pastillas de Freno Cerámica Traseras Para Hyundai  Kia,pastilla,TRASERO,61.6,61.2,15.7,,,,,FALSE,TRUE,FALSE,M291.svg
+M341,M341 Pastillas de Freno Ceramica Delantera Subaru,pastilla,DELANTERO,137.7,53.8,17.6,,,,,TRUE,TRUE,FALSE,M341.svg
+M342,M342 Pastillas de Freno Ceramica Delantera Subaru,pastilla,DELANTERO,138,59.5,17.6,,,,,TRUE,TRUE,FALSE,M342.svg
+M343,M343 - Pastillas de Freno Cerámica Delanteras Para Suzuki,pastilla,DELANTERO,110.5,41.5,15.5,,,,,FALSE,TRUE,FALSE,M343.svg
+M344,M344 - Pastillas de Freno Cerámica Delanteras para Suzuki oem 55800-60600,pastilla,DELANTERO,109.3,44,14,,,,,FALSE,TRUE,FALSE,M344.svg
+M35,M35 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,127.3,49.3,16.5,,,,,FALSE,TRUE,FALSE,M35.svg
+M350,M350 - Pastillas de Freno Cerámica Delanteras para Suzuki,pastilla,DELANTERO,111.4,48.5,15,,,,,FALSE,TRUE,FALSE,M350.svg
+M357,M357 - Pastillas de Freno Cerámica Delanteras Toyota Tercel,pastilla,DELANTERO,119.7,47.5,15,,,,,TRUE,TRUE,FALSE,M357.svg
+M362,M362 - Pastillas de Freno Cerámica Delanteras Toyota 4  Runner - Prado 2ptas,pastilla,DELANTERO,119.2,68,15,,,,,FALSE,TRUE,TRUE,M362.svg
+M367,M367 - Pastillas de Freno Cerámica Delanterass Toyota Starlet (1976 - 2022),pastilla,DELANTERO,131.9 & 97.5,44 & 49,13.5,,,,,FALSE,TRUE,FALSE,M367.svg
+M402,M402 - Pastillas de Freno Cerámica Delanteras/Traseras Para Chevrolet / Hummer,pastilla,DELANTERO,177,61,19.5,,,,,FALSE,TRUE,FALSE,M402.svg
+M404,M404 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,216,66,19,,,,,FALSE,TRUE,FALSE,M404.svg
+M418,M418 - Pastillas de Freno Cerámica Delanteras Toyota  Yaris Vitz (2000-2005),pastilla,DELANTERO,112,46.3,16.5,,,,,TRUE,TRUE,TRUE,M418.svg
+M426,M426 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia,pastilla,DELANTERO,154.2,56.2,16.2,,,,,TRUE,TRUE,TRUE,M426.svg
+M435,M435 - Pastillas de Freno Cerámica Suzuki Celerio S-presso,pastilla,DELANTERO,108.4,45.5,15,,,,,TRUE,TRUE,TRUE,M435.svg
+M437,M437 Pastillas de Freno Ceramica Trasera Subaru,pastilla,TRASERO,108.2,41.7,14.5,,,,,TRUE,TRUE,FALSE,M437.svg
+M439,M439 - Pastillas de Freno Cerámica Delanteras Toyota  Hilux (2006-2008),pastilla,DELANTERO,119.3,68.1,17,,,,,TRUE,TRUE,FALSE,M439.svg
+M440,M440 - Pastilla de Freno Cerámica Traseras Toyota 4Runner,pastilla,TRASERO,115.9,43.9,15,,,,,TRUE,TRUE,TRUE,M440.svg
+M449,M449 - Pastillas de Freno Ceramica Delanteras Audi,pastilla,DELANTERO,144.9,67,18.8,,,,,FALSE,TRUE,FALSE,M449.svg
+M463,M463 - Pastillas de Freno Ceramica Delanteras Peugeot,pastilla,DELANTERO,129.8,58.9,18.4,,,,,FALSE,TRUE,FALSE,M463.svg
+M467,M467 - Pastillas de Freno Cerámica Delanterass para Peugeot,pastilla,DELANTERO,131,47.2,17.3,,,,,TRUE,TRUE,FALSE,M467.svg
+M470,M470 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Starex 25 ( 1997 ),pastilla,DELANTERO,147,53.5,15.5,,,,,FALSE,TRUE,FALSE,M470.svg
+M471/M1201,M471 M1201 - Pastillas de Freno Cerámica Delanteras Chevrolet Aveo y Spark GT Ceramica,pastilla,DELANTERO,133.2,48.9,17.8,,,,,TRUE,TRUE,FALSE,M471.svg
+M474/M186,M474/M186 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Kia  Jac  Nissan,pastilla,DELANTERO,137,54,17,,,,,TRUE,TRUE,FALSE,M474.svg
+M476,M476 - Pastillas de Freno Cerámica Delanteras Hyundai,pastilla,DELANTERO,149.1,58.1,17,,,,,TRUE,TRUE,TRUE,M476.svg
+M479,M479 - Pastillas de Freno Cerámica Delanteras Mitsubishi,pastilla,DELANTERO,151.3,48.8,17.5,,,,,FALSE,TRUE,FALSE,M479.svg
+M481/M981,M481/M981 - Pastillas de Freno Cerámica Delanteras para Fiat Volkswagen GDB958,pastilla,DELANTERO,151.4,49,18,,,,,TRUE,TRUE,FALSE,M481.svg
+M485,M485 - Pastillas de Freno Cerámica Delanteras para Peugeot,pastilla,DELANTERO,131,47.3,18,,,,,TRUE,TRUE,FALSE,M485.svg
+M489,M489 - Pastillas de Freno Cerámica Delanteras Peugeot D1570,pastilla,DELANTERO,137,52,19,,,,,TRUE,TRUE,FALSE,M489.svg
+M491,M491 - Pastillas de Freno Cerámica Delanteras para Geely Citroen Peugeot ZNA,pastilla,DELANTERO,136.9,56,19,,,,,TRUE,TRUE,FALSE,M491.svg
+M498/M490,M498/M490 - Pastillas de Freno Cerámica Delanteras para Peugeot Volkswagen GDB1463,pastilla,DELANTERO / TRASERO,137,51,19,,,,,TRUE,TRUE,TRUE,M498.svg
+M504,M504 - Pastillas de Freno Ceramica Delanteras Mercedes Benz - Wolkswagen,pastilla,DELANTERO,163.3,67.1,20.9,,,,,FALSE,TRUE,FALSE,M504.svg
+M513,M513 - Pastillas de Freno Ceramica Delanteras Dodge Chrysler,pastilla,DELANTERO,146.5,59.6,18.2,,,,,FALSE,TRUE,FALSE,M513.svg
+M519,M519 - Pastillas de Freno Ceramica Delanteras Dodge Chrysler,pastilla,DELANTERO,188.5,56.5,16.5,,,,,FALSE,TRUE,FALSE,M519.svg
+M523,M523 - Pastillas de Freno Ceramica Traseras Dodge Chrysler,pastilla,TRASERO,166.4,49.5,16.8,,,,,FALSE,TRUE,FALSE,M523.svg
+M534,M534 - Pastillas de Freno Cerámica Delanteras Para Kia  Mazda,pastilla,DELANTERO,131.7,51.6,15.7,,,,,FALSE,TRUE,FALSE,M534.svg
+M537,M537 Pastillas de Freno Ceramica Trasera Mazda 6 (2006-2013),pastilla,TRASERO,107.8,39.4,13.1,,,,,TRUE,TRUE,FALSE,M537.svg
+M542/M299,M542/M299 - Pastillas de Freno Cerámica Traseras para Citroen Volkswagen  Peugeot Renault Skoda Audi Brillance,pastilla,TRASERO,87,53,17,,,,,FALSE,TRUE,TRUE,M542.svg
+M543/M65,M543/M65 - Pastillas de Freno Cerámica 7711130071,pastilla,DELANTERO,100.1,64.8,18.2,,,,,FALSE,TRUE,FALSE,M543.svg
+M577,M577 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,148,61.5,18,,,,,FALSE,TRUE,FALSE,M577.svg
+M578,M578 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,107.8,41,15,,,,,FALSE,TRUE,FALSE,M578.svg
+M580,M580 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,176.8,62.6,16.8,,,,,FALSE,TRUE,FALSE,M580.svg
+M581,M581 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,137.7,47,18.2,,,,,FALSE,TRUE,FALSE,M581.svg
+M583,M583 - Pastillas de Freno Cerámica Delanteras para Fiat,pastilla,DELANTERO,151.3,52.5,18,,,,,TRUE,TRUE,FALSE,M583.svg
+M592,M592 - Pastillas de Freno Cerámica Delanteras Nissan  New Murano Terrano,pastilla,DELANTERO,164.2,56.7,16.2,,,,,TRUE,TRUE,TRUE,M592.svg
+M598/M1032,M598/M1032 - Pastillas de Freno Cerámica Traseras Nissan Qashqai X-Trail Juke Pathfinder,pastilla,TRASERO,105.5,38,14,,,,,TRUE,TRUE,TRUE,M598.svg
+M609,M609 Pastillas de Freno Semi Metalica Delantera Mahindra Scorpio,pastilla,DELANTERO,144,62.4,18,,,,,TRUE,FALSE,FALSE,M609.svg
+M626,M626 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,141.9,56.7,16.9,,,,,FALSE,TRUE,FALSE,M626.svg
+M629,M629 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,139.2,56.5,17,,,,,FALSE,TRUE,FALSE,M629.svg
+M630/M183,M630/M183 - Pastillas de Freno Cerámica Traseras Para Honda  Great Wall  Suzuki,pastilla,TRASERO,89,47.5,14.6,,,,,TRUE,TRUE,FALSE,M630.svg
+M631,M631 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,89,47.5,14.6,,,,,FALSE,TRUE,FALSE,M631.svg
+M633/M477,M633/M477 - Pastillas de Freno Cerámica Traseras Para Hyundai  Kia,pastilla,TRASERO,98.8,41,15,,,,,TRUE,TRUE,FALSE,M633.svg
+M634,M634 - Pastillas de Freno Cerámica Delanteras Para Huyndai  Kia  Jac,pastilla,DELANTERO,137.1,63.4,16.8,,,,,TRUE,TRUE,FALSE,M634.svg
+M648,M648 - Pastillas de Freno Cerámica Delanteras Kia  Cerato K3 (2010-2014),pastilla,DELANTERO,130,58,16.3,,,,,TRUE,TRUE,FALSE,M648.svg
+M652,M652 - Pastillas de Freno Cerámica Traseras para Mitsubishi Peugeot,pastilla,TRASERO,111.3 & 91,44.9,15.5,,,,,TRUE,TRUE,FALSE,M652.svg
+M669,M669 - Pastillas de Freno Cerámica Subaru Forester / Impreza /Outback / XV,pastilla,DELANTERO,137.3,56.8,16.4,,,,,TRUE,TRUE,FALSE,M669.svg
+M670,M670 - Pastillas de Freno Cerámica Traseras Para Subaru,pastilla,TRASERO,108.6,39.2,13.8,,,,,FALSE,TRUE,FALSE,M670.svg
+M672/M271,M672/M271 - Pastillas de Freno Cerámica Delanteras Suzuki Baleno (2002-2004) / Nissan sentra (1996 - 2002),pastilla,DELANTERO,108.5,48.5,15.8,,,,,FALSE,TRUE,FALSE,M672.svg
+M673,M673 - Pastillas de Freno Cerámica Delanteras Para Suzuki,pastilla,DELANTERO,106.4,49.9,15,,,,,TRUE,TRUE,FALSE,M673.svg
+M674,M674 - Pastillas de Freno Cerámica Delanteras Suzuki,pastilla,DELANTERO,116.6,56.1,15.6,,,,,FALSE,TRUE,FALSE,M674.svg
+M675,M675 - Pastillas de Frenos Ceramica Delantera Toyota  Corolla (1998 - 2001),pastilla,DELANTERO,116.9,55,16.5,,,,,TRUE,TRUE,FALSE,M675.svg
+M677,M677 Pastillas de Freno Ceramica Delantera Great Wall M4 / Florid (2013-2020),pastilla,DELANTERO,116.4,51.3,15.5,,,,,TRUE,TRUE,FALSE,M677.svg
+M682,M682 - Pastillas de Freno Cerámica Traseras Toyota - Chery,pastilla,TRASERO,92.7,37.6,15.8,,,,,FALSE,TRUE,FALSE,M682.svg
+M684,M684 - Pastillas de Freno Cerámica Delanteras Toyota  Corolla (2003-2007),pastilla,DELANTERO,131.5,57.4,18,,,,,TRUE,TRUE,TRUE,M684.svg
+M686,M686 - Pastillas de Freno Cerámica Delanteras Chery  Tiggo 3 - Toyota Rav4,pastilla,DELANTERO,123,60.3,17.5,,,,,FALSE,TRUE,FALSE,M686.svg
+M687,M687 - Pastillas de Freno Cerámica Traseras Chery  Tiggo 03 - Toyota Rav4 oem 04466-42050,pastilla,TRASERO,78.5,54.1,14,,,,,FALSE,TRUE,FALSE,M687.svg
+M690,M690 - Pastilla de Freno Cerámica Delanteras Toyota Hilux,pastilla,DELANTERO,134.5,77.1,17.8,,,,,TRUE,TRUE,TRUE,M690.svg
+M697,M697 - Pastillas de Freno Cerámica Delanteras para Audi  Brillance  Volkswagen MG 1J0698151A,pastilla,DELANTERO,146,54.7,19.7,,,,,TRUE,TRUE,FALSE,M697.svg
+M698,M698 - Pastillas de Freno Cerámica 1J0698151F/1K0698151D,pastilla,DELANTERO,146,54.7,19.5,,,,,TRUE,TRUE,FALSE,M698.svg
+M703,M703 - Pastillas de Freno Cerámica Traseras Volvo,pastilla,TRASERO,123.8 & 122.6,53.8,17,,,,,FALSE,TRUE,FALSE,M703.svg
+M717,M717 - Pastillas de Freno Cerámica Delanteras Mitsubishi  Lancer New Outlander,pastilla,DELANTERO,144.8,55,15.4,,,,,TRUE,TRUE,FALSE,M717.svg
+M724,M724 - Pastillas de Freno Ceramica Delanteras Daihatsu - Mitsubishi,pastilla,DELANTERO,122.1 & 92.2,44.2,14.4,,,,,FALSE,TRUE,FALSE,M724.svg
+M745,M745 - Pastillas de Freno Cerámica Traseras Toyota  Corolla (2003-2007),pastilla,TRASERO,95.7,38,15.8,,,,,TRUE,TRUE,FALSE,M745.svg
+M746,M746 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,143.1,51.3,16.9,,,,,FALSE,TRUE,TRUE,M746.svg
+M753/M872,M753/M872 - Pastillas de Freno Cerámica Delanteras Para Ford  Honda,pastilla,DELANTERO,150.1 & 151.3,61 & 58.2,18.8,,,,,FALSE,TRUE,FALSE,M753.svg
+M754,M754 - Pastillas de Freno Ceramica Delanteras Citroen,pastilla,DELANTERO,129,61.1 & 53.1,18.5,,,,,FALSE,TRUE,FALSE,M754.svg
+M758,M758 - Pastillas de Freno Cerámica Delanteras Para Kia,pastilla,DELANTERO,155.1,60,17.3,,,,,FALSE,TRUE,FALSE,M758.svg
+M759/M656,M759/M656 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,156,76 & 71,20,,,,,TRUE,TRUE,FALSE,M759.svg
+M765,M765 - Pastillas de Freno Ceramica Traseras Peugeot - Citroen,pastilla,TRASERO,86.2,57,17.8,,,,,FALSE,TRUE,FALSE,M765.svg
+M767,M767 - Pastillas de Freno Cerámica Delanteras Ford  Focus - Mazda Mazda 3  - Volvo V50,pastilla,DELANTERO,155.3 & 156.5,62.4 & 67,18.2,,,,,TRUE,TRUE,TRUE,M767.svg
+M77,M77 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,127.2,47.9,16.5,,,,,FALSE,TRUE,TRUE,M77.svg
+M776,M776 - Pastillas de Freno Cerámica Delanteras Hyundai  i10 - Kia Morning,pastilla,DELANTERO,116.1,47.3,16.5,,,,,TRUE,TRUE,TRUE,M776.svg
+M777,M777 - Pastillas de Freno Cerámica Delanteras Para Chevrolet Silverado,pastilla,DELANTERO,184.2,63.8 & 60.1,18,,,,,FALSE,TRUE,FALSE,M777.svg
+M778,M778 Pastillas de Freno Ceramica Delantera Subaru,pastilla,DELANTERO,137.3,56.8,16.4,,,,,TRUE,TRUE,FALSE,M778.svg
+M779,M779 - Pastillas de Freno Cerámica Delanteras para Nissan / Samsung,pastilla,DELANTERO,135,47,15.8,,,,,TRUE,TRUE,FALSE,M779.svg
+M780,M780 - Pastillas de Freno Cerámica Delanteras para Hyundai D1520-8729,pastilla,DELANTERO,147,53.5,15.5,,,,,TRUE,TRUE,FALSE,M780.svg
+M781,M781 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,167.3,54.3,16.1,,,,,TRUE,TRUE,FALSE,M781.svg
+M782,M782 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,104.6,38.9,14.6,,,,,FALSE,TRUE,FALSE,M782.svg
+M785,M785 - Pastillas de Freno Cerámica Delanteras Fiat,pastilla,DELANTERO,151.4,52.5,17.8,,,,,FALSE,TRUE,FALSE,M785.svg
+M786/M1216,M786/M1216  -  Pastillas de Freno Cerámica Delanteras Para Ford  Mazda,pastilla,DELANTERO,170.4 & 172.3,67.5,18.3,,,,,FALSE,TRUE,FALSE,M786.svg
+M798,M798 - Pastillas de Freno Cerámica Traseras Para Subaru,pastilla,TRASERO,110.6,37.3,14.4,,,,,TRUE,TRUE,TRUE,M798.svg
+M799,M799 - Pastillas de Freno Cerámica Delanteras para BYD Citroen Geely JAC Peugeot Toyota,pastilla,DELANTERO,122.9,46.7,17.3,,,,,TRUE,TRUE,FALSE,M799.svg
+M800,M800 - Pastillas de Freno Cerámica Delanteras para FAW Suzuki,pastilla,DELANTERO,127,47.1,14.5,,,,,FALSE,TRUE,FALSE,M800.svg
+M801,M801 - Pastillas de Freno Cerámica Suzuki Grand Nomade (2005 - 2022) / Grand Viatara,pastilla,DELANTERO,138.2,55,17.1,,,,,FALSE,TRUE,TRUE,M801.svg
+M802,M802 - Pastillas de Freno Cerámica Delanteras Nissan  Pathfinder Navara,pastilla,DELANTERO,163.7,54,16,,,,,TRUE,TRUE,TRUE,M802.svg
+M804,M804 - Pastillas de Freno Cerámica Delanteras Nissan  Xtrail (2002-2010),pastilla,DELANTERO,159,56,16.5,,,,,FALSE,TRUE,FALSE,M804.svg
+M805,M805 - Pastillas de Freno Cerámica Delanteras Toyota,pastilla,DELANTERO,122.7,49.8,17.5,,,,,TRUE,TRUE,TRUE,M805.svg
+M811,M811 Pastillas de Freno Ceramica Delantera Subaru Legacy / Forester / Outback / Tribeca,pastilla,DELANTERO,157,63.4,18,,,,,TRUE,TRUE,FALSE,M811.svg
+M813,M813 - Pastillas de Freno Cerámica Delanteras Para Suzuki,pastilla,DELANTERO,108.6,45.4,15,,,,,TRUE,TRUE,TRUE,M813.svg
+M816,M816 - Pastillas de Freno Cerámica Delanteras Hyundai  Tucson Accent - Kia Sportage,pastilla,DELANTERO,129.6,56,18,,,,,TRUE,TRUE,TRUE,M816.svg
+M817,M817 - Pastillas de Freno Cerámica Delanteras para Citroen Peugeot,pastilla,DELANTERO,155.2 & 156.4,66.1 & 71.4,20.3,,,,,TRUE,TRUE,FALSE,M817.svg
+M819,M819 - Pastillas de Freno Cerámica Delanteras Mitsubishi  L200 all years,pastilla,DELANTERO,155.5,50.5,16,,,,,TRUE,TRUE,TRUE,M819.svg
+M821,M821 - Pastillas de Freno Cerámica Delanteras Nissan Tiida / Versa 2009 - 2012 / Note 1.6,pastilla,DELANTERO,144.3,49.1,14.2,,,,,TRUE,TRUE,TRUE,M821.svg
+M822,M822 - Pastillas de Freno Ceramica Delanteras Lexus,pastilla,DELANTERO,154.6,59.3,17.8,,,,,FALSE,TRUE,FALSE,M822.svg
+M824/M1265,M824/M1265 - Pastillas de Freno Cerámica Delanteras Para Honda  Great Wall,pastilla,DELANTERO,155,59,18,,,,,FALSE,TRUE,FALSE,M824.svg
+M826,M826 - Pastilla de Freno Cerámica Delanteras Toyota Rav4,pastilla,DELANTERO,146.5,57,17.6,,,,,TRUE,TRUE,TRUE,M826.svg
+M827,M827 - Pastilla de Freno Cerámica Traseras Toyota Rav4 / New Corolla Cross 2021 - ON OEM 04466-0a010,pastilla,TRASERO,96.5,48.1,15.4,,,,,TRUE,TRUE,TRUE,M827.svg
+M828,M828 - Pastilla de Freno Cerámica Delanteras Toyota Corolla,pastilla,DELANTERO,139,56,18,,,,,TRUE,TRUE,TRUE,M828.svg
+M829,M829 - Pastillas de Freno Cerámica Delanteras Para Suzuki,pastilla,DELANTERO,136.5,52.6,17.2,,,,,FALSE,TRUE,FALSE,M829.svg
+M841,M841 - Pastillas de Freno Cerámica Traseras Ford,pastilla,TRASERO,140.5,49.2,14.6,,,,,FALSE,TRUE,FALSE,M841.svg
+M844,M844 - Pastillas de Freno Cerámica  Traseras Para Ford,pastilla,TRASERO,158.7,49.8,18.8,,,,,FALSE,TRUE,FALSE,M844.svg
+M863,M863 - Pastillas de Freno Ceramica Delanteras Mercedes Benz,pastilla,DELANTERO,135,66.6,20,,,,,FALSE,TRUE,FALSE,M863.svg
+M866,M866 - Pastillas de Freno Cerámica Traseras para Geely Citroen Peugeot,pastilla,TRASERO,94.5,46.8,18,,,,,TRUE,TRUE,FALSE,M866.svg
+M868,M868 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,125,51.1,14.1,,,,,FALSE,TRUE,FALSE,M868.svg
+M874,M874 - Pastillas de Freno Ceramica Trasera Toyota,pastilla,TRASERO,101.9,46,16.7,,,,,TRUE,TRUE,FALSE,M874.svg
+M876,M876 - Pastillas de Freno Cerámica Trasera Daewoo - SsangYong,pastilla,TRASERO,98.8,43.5,15.5,,,,,FALSE,TRUE,FALSE,M876.svg
+M878,M878 - Pastillas de Freno Cerámica Delanteras Hyundai  H1 (2010-2016),pastilla,DELANTERO,164.7,63.4,17.6,,,,,TRUE,TRUE,TRUE,M878.svg
+M903,M903 - Pastillas de Freno Cerámica Delanteras para Alfa Romeo Citroen Fiat Peugeot,pastilla,DELANTERO,122.9,53.2,17.8,,,,,TRUE,TRUE,FALSE,M903.svg
+M904,M904 - Pastillas de Freno Cerámica Delanteras Fiat - Citroen - Peugeot,pastilla,DELANTERO,169.1,61.6,19,,,,,FALSE,TRUE,FALSE,M904.svg
+M906,M906 - Pastillas de Freno Cerámica Delanteras Mazda,pastilla,DELANTERO,138,62,16,,,,,FALSE,TRUE,FALSE,M906.svg
+M912,M912 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,178.3,58,17.8,,,,,FALSE,TRUE,FALSE,M912.svg
+M913,M913 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,88.6,47.6,14.9,,,,,FALSE,TRUE,FALSE,M913.svg
+M914/M1122,M914 / M1122 - Pastillas de Freno Cerámica Delanteras Hyundai  Santa Fe (2010-2016),pastilla,DELANTERO,156.7,61.2,17.6,,,,,TRUE,TRUE,TRUE,M914.svg
+M916,M916 - Pastillas de Freno Cerámica Traseras Mazda 3 año (2004-2013) / Mazda 5 (2005-2016),pastilla,TRASERO,123.2,51.9,16.4,,,,,TRUE,TRUE,FALSE,M916.svg
+M917,M917 - Pastillas de Freno Cerámica Delanteras Mazda CX7 (2006 - 2014) / Mitsubishi L200 4x4 (2020 - ON),pastilla,DELANTERO,139.1,58,17.4,,,,,TRUE,TRUE,TRUE,M917.svg
+M918,M918 - Pastillas de Freno Cerámica Traseras Para Ford  Mazda,pastilla,TRASERO,110.4,45.9,17.9,,,,,TRUE,TRUE,TRUE,M918.svg
+M926,M926 - Pastillas de Freno Cerámica Traseras para BMW,pastilla,TRASERO,123.3,44.9,16.3,,,,,TRUE,TRUE,FALSE,M926.svg
+M929M736,M929 M736 - Pastillas de Freno Cerámica Traseras Para Chevrolet  Suzuki,pastilla,TRASERO,110.9,45.7,15.4,,,,,TRUE,TRUE,FALSE,M929.svg
+M932,M932 - Pastillas de Freno Cerámica Traseras Dodge Chrysler,pastilla,TRASERO,116.6,45.4,16.6,,,,,FALSE,TRUE,FALSE,M932.svg
+M934,M934 - Pastillas de Freno Cerámica Delanteras Para Chevrolet  Suzuki,pastilla,DELANTERO,149.4,62,16.9,,,,,TRUE,TRUE,FALSE,M934.svg
+M1029,M1029 - Pastillas de Freno Cerámica Delanteras Nissan  Cima Navara,pastilla,DELANTERO,157.3,58.5,16,,,,,FALSE,TRUE,FALSE,M1029.svg
+M937,M937 - Pastillas de Freno Cerámica Traseras Para Hyundai  Kia,pastilla,TRASERO,110.5,47.8,15.5,,,,,FALSE,TRUE,FALSE,M937.svg
+M938/M650,M938 / M650 - Pastillas de Freno Cerámica Traseras Para Hyundai,pastilla,TRASERO,118.6,47.1,15.6,,,,,TRUE,TRUE,TRUE,M938.svg
+M939,M939 - Pastillas de Freno Cerámica Delanteras Hyundai  Accent   - Kia Rio 2 - Kia Sportage,pastilla,DELANTERO,137.9,60.9,17.5,,,,,TRUE,TRUE,TRUE,M939.svg
+M940,M940 - Pastillas de Freno Ceramica Delanteras Mazda,pastilla,DELANTERO,123.1,58,15,,,,,FALSE,TRUE,FALSE,M940.svg
+M941/M958,M941 / M958 - Pastillas de Freno Ceramica Delanteras Dodge Chrysler,pastilla,DELANTERO,146.8,63.4,18.8,,,,,FALSE,TRUE,FALSE,M941.svg
+M950,M950 - Pastillas de Freno Cerámica Delanteras para Peugeot 301,pastilla,DELANTERO,151,61.6,17.8,,,,,TRUE,TRUE,FALSE,M950.svg
+M951,M951 - Pastillas de Freno Cerámica Delanteras para Volkswagen Sirocco Audi,pastilla,DELANTERO,155.2 & 156.4,66.1 & 71.4,20.3,,,,,TRUE,TRUE,FALSE,M951.svg
+M952,M952 - Pastillas de Freno Cerámica Traseras Para Chevrolet,pastilla,TRASERO,104,39,15,,,,,FALSE,TRUE,FALSE,M952.svg
+M953,M953 - Pastilla de Freno Cerámica Delanteras Toyota Corolla,pastilla,DELANTERO,136.7,61.4 & 57.9,19,,,,,FALSE,TRUE,FALSE,M953.svg
+M954,M954 - Pastillas de Freno Ceramica Traseras Toyota,pastilla,TRASERO,102.2,45.6,16.3,,,,,FALSE,TRUE,FALSE,M954.svg
+M956,M956 / M879 Pastillas de Freno Ceramica Delantera Mazda 6 (2006-2013),pastilla,DELANTERO,136.9,58.9,18.4,,,,,TRUE,TRUE,FALSE,M956.svg
+M957,M957 -  Pastillas de Freno Cerámica  Delanteras Para Chevrolet,pastilla,DELANTERO,184.2,63.5 & 59.7,18.3,,,,,FALSE,TRUE,FALSE,M957.svg
+M960,M960 - Pastillas de Freno Cerámica  Traseras Para Subaru,pastilla,TRASERO,110.6,39.5,16,,,,,FALSE,TRUE,FALSE,M960.svg
+M969,M969 Pastillas de Freno Ceramica Delantera Suzuki Alto,pastilla,DELANTERO,108.5,42,15,,,,,TRUE,TRUE,TRUE,M969.svg
+M976,M976 - Pastillas de Freno Cerámica Delanteras Toyota Tundra M976 / SEQUOIA / Landcruiser ( 2007-2014),pastilla,DELANTERO,143.7,83.2,17.9,,,,,FALSE,TRUE,FALSE,M976.svg
+M977,M977 - Pastillas de Freno Ceramica Traseras Lexus,pastilla,TRASERO,88.2,58.2,15.5,,,,,FALSE,TRUE,FALSE,M977.svg
+M978,M978 - Pastillas de Freno Cerámica Traseras Toyota Tundra / SEQUOIA / Landcruiser (2007-2014),pastilla,TRASERO,116.3,44.9,17.3,,,,,FALSE,TRUE,FALSE,M978.svg
+M984,M984 - Pastillas de Freno Cerámica Delanteras Audi Volkswagen,pastilla,DELANTERO,155.3 & 156.5,72.9,20,,,,,TRUE,TRUE,FALSE,M984.svg
+M989,M989 - Pastillas de Freno Cerámica Delanteras Para Ford,pastilla,DELANTERO,,,,,,,,FALSE,TRUE,FALSE,M989.svg
+M991/M625/M627,M991/M625/M627 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,148.9,58.8,17,,,,,FALSE,TRUE,FALSE,M991.svg
+M994/M1350,M994/M1350 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,93.5,46.6,14.8,,,,,FALSE,TRUE,FALSE,M994.svg
+M996,M996 - Pastillas de Freno Cerámica Traseras Para Honda,pastilla,TRASERO,113.3,48.4,15.4,,,,,FALSE,TRUE,FALSE,M996.svg
+M998/M1118,M998/M1118 - Pastillas de Freno Cerámica Traseras Kia  Carens - Hyundai Tucson,pastilla,TRASERO,93.2,41.2,15.9,,,,,TRUE,TRUE,TRUE,M998.svg
+M486/M57/M63,Pastillas de Freno Cerámica Delantaras para Citroen  Nissan Peugeot Renault Lifan,pastilla,DELANTERO / TRASERO,105.2,54.8,11,,,,,TRUE,FALSE,FALSE,M486.svg
+T11-3501080AC,Pastillas de Freno Cerámica Delanteras Chery   Tiggo 7 all years,pastilla,DELANTERO,129.8,69.9,17,,,,,TRUE,TRUE,FALSE,T11-3501080AC.svg
+96473229,Balatas / Patines de Freno Chevrolet Aveo Sedan 200*35 (2009-2016),balata,TRASERO,36,,,200,,,,TRUE,FALSE,FALSE,96473229.svg
+8979478020,Balatas / Patines de Freno Chevrolet D-Max 300*50 (2015-2022),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,8979478020.svg
+8980180350,Balatas / Patines de Freno Chevrolet D-Max Antigua 254*49.5 (2004-2014),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,8980180350.svg
+24545659,Balatas / Patines de Freno Chevrolet N300 y N400 240*40 (2012 - 2022),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,24545659.svg
+96496764,Balatas / Patines de Freno Chevrolet Optra 167.6*25.9 (2004-2014),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,96496764.svg
+9041435,Balatas / Patines de Freno Chevrolet Sail 200*35 (2010-2016),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,9041435.svg
+5830522A01,Balatas / Patines de Freno Hyundai  Accent 180*30 (1994-1999),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,5830522A01.svg
+583051GA00,Balatas / Patines de Freno Hyundai  Accent 202.8*30 (2006-2010),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,583051GA00.svg
+58350F2A00,Balatas / Patines de Freno Hyundai  Elantra 203.2*32 (2018),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,58350F2A00.svg
+583052HA00,Balatas / Patines de Freno Hyundai  Elantra 203.2*37 (2006-2011),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,583052HA00.svg
+583504HA00,Balatas / Patines de Freno Hyundai  H1 212*39.6 (2007-2015),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,583504HA00.svg
+583054FA01,Balatas / Patines de Freno Hyundai  Porter 220*55 (2006-ON),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,583054FA01.svg
+583052WA00,Balatas / Patines de Freno Hyundai  Santa Fe 190*27 (2012-2015),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,583052WA00.svg
+583052BA00,Balatas / Patines de Freno Hyundai  Santa Fe 190*31.8 (2006-2010),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,583052BA00.svg
+583052SA00,Balatas / Patines de Freno Hyundai  Tucson 168*26.4 (2009-2013),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,583052SA00.svg
+58305B4A70,Balatas / Patines de Freno Hyundai  i10 203.2*32 (2013-2017),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,58305B4A70.svg
+583504EA00,Balatas / Patines de Freno Kia Frontier  220*55,balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,583504EA00.svg
+58350G6A00,Balatas / Patines de Freno Kia Morning 202.4*31.4 (2017 - 2022),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,58350G6A00.svg
+58350H9A00,Balatas / Patines de Freno Kia Rio 203*32 (2017 - 2022),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,58350H9A00.svg
+583053XA00,Balatas / Patines de Freno Kia Rio 203.2*32 (2011-2016),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,583053XA00.svg
+583052SA30,Balatas / Patines de Freno Kia Sportage 188*40 (2010-2013),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,583052SA30.svg
+58305D3A00,Balatas / Patines de Freno Kia Sportage 190*26 (2018-2022) / Tucson 190*26 (2017 - 2018),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,58305D3A00.svg
+4600A106,Balatas / Patines de Freno Mitsubishi L200 2009-2018 300*50 / Montero G2 300*50 (2010-2016),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,4600A106.svg
+4600A350,Balatas / Patines de Freno Mitsubishi Mirage (2012 - ON)  180.4*30,balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,4600A350.svg
+4800A082,Balatas / Patines de Freno Mitsubishi Montero sport 190*45 (2017 - 2022),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,4800A082.svg
+D4060EB70A,Balatas / Patines de Freno Nissan Navara 295*55 (2009-2015),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,D4060EB70A.svg
+D40604KH3A,Balatas / Patines de Freno Nissan Np300 Navara 268.6*55 (2016-2022),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,D40604KH3A.svg
+44060CY025,Balatas / Patines de Freno Nissan Qashqai 169*28 (2010-2014),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,44060CY025.svg
+D40600W71A,Balatas / Patines de Freno Nissan Terrano 4x2 294*50 (2001-2014),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,D40600W71A.svg
+D40602S425,Balatas / Patines de Freno Nissan Terrano Dob Cabina 4x4 260*50 (2008),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,D40602S425.svg
+D40601HL0B,Balatas / Patines de Freno Nissan Versa 203.2*38.4 (2012-2014),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,D40601HL0B.svg
+44060ED026,Balatas / Patines de Freno Nissan tiida 203.2*30 (2009-2014),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,44060ED026.svg
+53200-60841,Balatas / Patines de Freno Suzuki Baleno 200*30 (1998-2004),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,53200-60841.svg
+54693-77K00,Balatas / Patines de Freno Suzuki Grand Nomade 200*37 (2006-2014),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,54693-77K00.svg
+53200-63J02,Balatas / Patines de Freno Suzuki Swift 1.3 JAPAN 200*30 (2008-2011) / Swift 1.5 - 1.6 200*30 (2010) / Swift 1.5 - 1.6 200*30 (2010),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,53200-63J02.svg
+53200-68L01,Balatas / Patines de Freno Suzuki Swift 1.4 200*26 (2014),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,53200-68L01.svg
+044950K120,Balatas / Patines de Freno Toyota Hilux DX 295*52 (2016-2022) / Hilux Vigo 295*52 (2012-2015) / Hilux Vigo 295*52 (2012-2015) / Hilux KUM 295*52 (2009-2011),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,044950K120.svg
+044950K050,Balatas / Patines de Freno Toyota Hilux Revo 295*52 (2016-2022),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,044950K050.svg
+449552100,Balatas / Patines de Freno Toyota New Yaris 200*30 (2006-2012),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,449552100.svg
+449510110,Balatas / Patines de Freno Toyota Tercel 180*25 (1994-1999),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,449510110.svg
+449552010,Balatas / Patines de Freno Toyota Yaris Echo 180*25 (2000-2005),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,449552010.svg
+2H0698525,Balatas / Patines de Freno Volkswagen Amarok 295*57 (2010 - 2022),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,2H0698525.svg
+583501YA00,Balatas / Patines de Freno kia Morning 180*25 (2012-2016),balata,TRASERO,,,,,,,,TRUE,FALSE,FALSE,583501YA00.svg
+51712P2000,Disco De Freno Delantero Hyundai new Santa Fe (2024 - actual),disco,DELANTERO,,,25,305,,,,FALSE,FALSE,FALSE,51712P2000.svg
+58411P2000,Disco De Freno Trasero Hyundai new Santa Fe (2024 - actual),disco,TRASERO,,,11,305,,5 / 7,,FALSE,FALSE,FALSE,58411P2000.svg
+23971417,Disco de Freno Delantero Chevrolet Captiva 1.5 (2021 - actual),disco,DELANTERO,,,,,,,,FALSE,FALSE,FALSE,23971417.svg
+58411L1100,Disco de trasero Hyundai Tucson (2016 - actual) / Sportage (2015 - actual),disco,TRASERO,,32,10,300,76,5 / 7,,FALSE,FALSE,FALSE,58411L1100.svg
+MD026,MD026 Disco de Freno Delantero Citroen C3 Aircross. C3 Picass. C4 Elysse. Ds3,disco,DELANTERO,,34,22,266,66,4 / 6,,FALSE,FALSE,FALSE,MD026.svg
+MD027,MD027 Disco de Freno Delantero Peugeot Partner / Citroen Berlingo,disco,DELANTERO,,34.2,26,283,66,4 / 6,,FALSE,FALSE,FALSE,MD027.svg
+MD040,MD040 Disco de Freno Delantero Chevrolet Optra (2004-2014),disco,DELANTERO,,48,24,256,60,4 / 5,,FALSE,FALSE,FALSE,MD040.svg
+MD092,MD092 Disco de Freno Delantero Hyundai  Accent (1994-1999),disco,DELANTERO,,40.5,19,242,86,4,,FALSE,FALSE,FALSE,MD092.svg
+MD1022,MD1022 Disco de Freno Delantero Kia Morning (2017 - 2022),disco,DELANTERO,,43,20,256,62,4,,FALSE,FALSE,FALSE,MD1022.svg
+MD1072,MD1072 Disco de Freno Delantero Mazda 3 (2017-2019),disco,DELANTERO,,51.5,25,295,68,5 / 6,,FALSE,FALSE,FALSE,MD1072.svg
+MD1092,MD1092 Disco de Freno Delantero Mitsubishi Montero sport (2017 - 2022),disco,DELANTERO,,46,28,321,94,6 / 8,,FALSE,FALSE,FALSE,MD1092.svg
+MD1095,MD1095 Disco de Freno Trasero Mitsubishi Montero sport (2017 - 2022),disco,TRASERO,,84,18,315,94,6 / 9,,FALSE,FALSE,FALSE,MD1095.svg
+MD128,MD128 Disco de Freno Delantero Mazda 3 / Mazda 5 / Mazda Premacy (2008 - 2012).,disco,DELANTERO,,49,25,278,72,5,,FALSE,FALSE,FALSE,MD128.svg
+MD220,MD220 Disco de Freno Delantero Subaru Legacy / XV / Impreza / Forester (2013 - 2022),disco,DELANTERO,,56.7,24,294,58,5 / 7,,FALSE,FALSE,FALSE,MD220.svg
+MD228,MD228 Disco de Freno Delantero Suzuki Baleno (1996-2004),disco,DELANTERO,,49.5,20,235,60,4 / 7,,FALSE,FALSE,FALSE,MD228.svg
+MD238,MD238 Disco de Freno Delantero Toyota Tercel (1994-1999),disco,DELANTERO,,42.8,18,238,55,4 / 6,,FALSE,FALSE,FALSE,MD238.svg
+MD240,MD240 Disco de Freno Delantero Toyota Yaris Echo (2000-2005),disco,DELANTERO,,43.2,18,235,55,4 / 6,,FALSE,FALSE,FALSE,MD240.svg
+MD250,MD250 Disco de Freno Delantero Volkswagen Polo (1994-2003),disco,DELANTERO,,33.9,18,238.8,65,4 / 5,,FALSE,FALSE,FALSE,MD250.svg
+MD318,MD318 Disco de Freno Delantero Hyundai  Porter (2006-ON),disco,DELANTERO,,5,26,274,87,5,,FALSE,FALSE,FALSE,MD318.svg
+MD320,MD320 Disco de Freno Delantero Hyundai  Tucson (2009-2013) / Sonata (2014-ON),disco,DELANTERO,,47.3,26,280,69,5 / 7,,FALSE,FALSE,FALSE,MD320.svg
+MD325,MD325 Disco de Freno Delantero Kia Morning (2006-2016),disco,DELANTERO,,48.9,18,241,62.2,4 / 6,,FALSE,FALSE,FALSE,MD325.svg
+MD332,MD332 Disco de Freno Delantero Toyota Hilux KUM (2009-2011),disco,DELANTERO,,67.3,25,297,108,7 / 8,,FALSE,FALSE,FALSE,MD332.svg
+MD337,MD337 Disco de Freno Delantero Chevrolet D-Max (2004 - 2014),disco,DELANTERO,,40,27,280,88,6,,FALSE,FALSE,FALSE,MD337.svg
+MD347,MD347 Disco de Freno Delantero Hyundai  Accent (2006-2010),disco,DELANTERO,,46.8,22,256,62.2,4,,FALSE,FALSE,FALSE,MD347.svg
+MD359,MD359 Disco de Freno Delantero Suzuki Swift 1.3 JAPAN (2005-2011),disco,DELANTERO,,40,20,252,60,4 / 8,,FALSE,FALSE,FALSE,MD359.svg
+MD398,MD398 Disco de Freno Delantero Nissan Terrano Dob Cabina 4x4 (2008),disco,DELANTERO,,37.2,26,260,81,6,,FALSE,FALSE,FALSE,MD398.svg
+MD406,MD406 Disco de Freno Delantero Nissan Pathfiner 3.3 3.5 / Terrano D22 2.5 3.0 3.2 4x4 (1997 - 2015),disco,DELANTERO,,38,28,300,100,6,,FALSE,FALSE,FALSE,MD406.svg
+MD410,MD410 Disco de Freno Trasero Kia Sportage (2010-2013),disco,TRASERO,,61.1,10.1,284,76,5 / 8,,FALSE,FALSE,FALSE,MD410.svg
+MD414,MD414 Disco de Freno Trasero Mazda 3 (2008 - 2013),disco,TRASERO,,40.8,11,265,72,5,,FALSE,FALSE,FALSE,MD414.svg
+MD414,MD414 Disco de Freno Trasero Mazda 3 (2008-2013),disco,TRASERO,,40.8,11,265,72,5,,FALSE,FALSE,FALSE,MD414.svg
+MD448,MD448 Disco de Freno Delantero Mitsubishi L200 (2009-2018),disco,DELANTERO,,46.4,28,294,94,6 / 8,,FALSE,FALSE,FALSE,MD448.svg
+MD448,MD448 Disco de Freno Delantero Mitsubishi Montero G2 (2010-2016),disco,DELANTERO,,46.4,28,294,94,6 / 8,,FALSE,FALSE,FALSE,MD448.svg
+MD451,MD451 Disco de Freno Delantero Nissan Qashqai (2010-2014),disco,DELANTERO,,43.9,26,296,68,5,,FALSE,FALSE,FALSE,MD451.svg
+MD455,MD455 Disco de Freno Delantero Toyota New Yaris (2006 - 2022),disco,DELANTERO,,46.3,22,255,55,4 / 6,,FALSE,FALSE,FALSE,MD455.svg
+MD458,MD458 M346 Disco de Freno Delantero Toyota 4Runner (2004-2009),disco,DELANTERO,,67.2,28,319,108,6 / 8,,FALSE,FALSE,FALSE,MD458.svg
+MD458,MD458 M346 Disco de Freno Delantero Toyota Hilux Revo (2016-2022),disco,DELANTERO,,67.2,28,319,108,6 / 8,,FALSE,FALSE,FALSE,MD458.svg
+MD552,MD552 Disco de Freno Delantero Nissan Tiida (2009-2014),disco,DELANTERO,,44,22,260,68,4,,FALSE,FALSE,FALSE,MD552.svg
+MD553,MD553 Disco de Freno Delantero Suzuki Grand Nomade Vitara 2.0 (2011),disco,DELANTERO,,49,25,295,62,5 / 7,,FALSE,FALSE,FALSE,MD553.svg
+MD569,MD569 Disco de Freno Delantero Hyundai H1 (2007-2015),disco,DELANTERO,,52.8,30,300,96.3,6 / 8,,FALSE,FALSE,FALSE,MD569.svg
+MD578,MD578 Disco de Freno Delantero Hyundai  Santa Fe (2006-2010),disco,DELANTERO,,50,28,298,69.1,5 / 7,,FALSE,FALSE,FALSE,MD578.svg
+MD580,MD580 Disco de Freno Delantero Volkswagen Amarok (2010 - 2022),disco,DELANTERO,,56.9,28,303,76,5 / 6,,FALSE,FALSE,FALSE,MD580.svg
+MD589,MD589 Disco de Freno Delantero Hyundai  Santa Fe (2012-2015),disco,DELANTERO,,49,28,320,69,5 / 7,,FALSE,FALSE,FALSE,MD589.svg
+MD590,MD590 Disco de Freno Trasero Toyota 4Runner (2004-2009),disco,TRASERO,,67.8,18,312,106,6 / 14,,FALSE,FALSE,FALSE,MD590.svg
+MD601,MD601 Disco de Freno Delantero Chevrolet Sail 1.4 (2010 - 2015),disco,DELANTERO,,41,20,236,59,4 / 8,,FALSE,FALSE,FALSE,MD601.svg
+MD605,MD605 Disco de Freno Delantero Nissan Xtrail (2015-2022),disco,DELANTERO,,44,28,320,68,5,,FALSE,FALSE,FALSE,MD605.svg
+MD628,MD628 Disco de Freno Trasero Peugeot Partner / Citroen Berlingo,disco,TRASERO,,74,12,268,65 / 30,4,,FALSE,FALSE,FALSE,MD628.svg
+MD633,MD633 Disco de Freno Delantero Hyundai  Accent RB (2011-2019),disco,DELANTERO,,43.8,22,256,62.2,4 / 6,,FALSE,FALSE,FALSE,MD633.svg
+MD633,MD633 Disco de Freno Delantero Kia Rio (2011-2016),disco,DELANTERO,,43.8,22,256,62.2,4 / 6,,FALSE,FALSE,FALSE,MD633.svg
+MD633,MD633 Disco de Freno Delantero Kia Rio (2017 - 2022),disco,DELANTERO,,43.8,22,256,62.2,4 / 6,,FALSE,FALSE,FALSE,MD633.svg
+MD639,MD639 Disco de Freno Delantero para Ford Ranger y Mazda BT50,disco,DELANTERO,,61,32,302,98,6 / 9,,FALSE,FALSE,FALSE,MD639.svg
+MD645,MD645 Disco de Freno Delantero Hyundai  Elantra (2018),disco,DELANTERO,,44.5,23,280,69,5 / 7,,FALSE,FALSE,FALSE,MD645.svg
+MD646,MD646 Disco de Freno Delantero Toyota Corolla (2011-2013) / URBAN CRUISER (2010-2017),disco,DELANTERO,,46.5,22,275,55,5 / 8,,FALSE,FALSE,FALSE,MD646.svg
+MD653,MD653 Disco de Freno Delantero Chevrolet N300 (2014 - 2022),disco,DELANTERO,,,,,,,,FALSE,FALSE,FALSE,MD653.svg
+MD686,MD686 Disco de Freno Delantero Chevrolet Aveo Sedan (2009-2016),disco,DELANTERO,,35,24,256,59,6,,FALSE,FALSE,FALSE,MD686.svg
+MD706,MD706 Disco de Freno Delantero Kia Sportage (2018-2022) / Hyundai  Tucson (2017 - 2018),disco,DELANTERO,,46.8,25,305,69,5 / 7,,FALSE,FALSE,FALSE,MD706.svg
+MD713,MD713 Disco de Freno Trasero Nissan Xtrail (2015-2022),disco,TRASERO,,62,16,292,68,5 / 6,,FALSE,FALSE,FALSE,MD713.svg
+MD714,MD714 Disco de Freno Trasero Nissan Qashqai (2010-2014),disco,TRASERO,,62.3,9,292,68,5 / 6,,FALSE,FALSE,FALSE,MD714.svg
+MD715,MD715 Disco de Freno Delantero Nissan Navara (2009-2015),disco,DELANTERO,,53.1,28,296,68,6,,FALSE,FALSE,FALSE,MD715.svg
+MD715,MD715 Disco de Freno Delantero Nissan Np300 Navara (2016-2022),disco,DELANTERO,,53.1,28,296,68,6,,FALSE,FALSE,FALSE,MD715.svg
+MD725,MD725 Disco de Freno Trasero Toyota Corolla (2011-2013),disco,TRASERO,,30.7,9,259,55,5 / 7,,FALSE,FALSE,FALSE,MD725.svg
+MD727,MD727 Disco de Freno Trasero Hyundai Santa Fe (2012-2015),disco,TRASERO,,71.4,11,302,69,5 / 7,,FALSE,FALSE,FALSE,MD727.svg
+MD735,MD735 Disco de Freno Delantero Toyota Hilux DX / Vigo (2012-2015) / Hilux Revo / Prado / 4 Runner (2016-2022),disco,DELANTERO,,67,28,319,108,6 / 8,,FALSE,FALSE,FALSE,MD735.svg
+MD748,MD748 Disco de Freno Delantero Chevrolet DMAX (2015 - 2022),disco,DELANTERO,,40,27,300,88,6,,FALSE,FALSE,FALSE,MD748.svg
+MD753,MD753 Disco de Freno Delantero para Ford F150,disco,DELANTERO,,,,,,,,FALSE,FALSE,FALSE,MD753.svg
+MD754,MD754 Disco de Freno Trasero para Ford F150,disco,TRASERO,,79.9,25,348,90.1,6,,FALSE,FALSE,FALSE,MD754.svg
+MD756,MD756 Disco de Freno Delantero Toyota RAV4 (2006-2012),disco,DELANTERO,,46,25,275,62,5 / 7,,FALSE,FALSE,FALSE,MD756.svg
+MD762,MD762 Disco de Freno Delantero Toyota RAV4 (2013-2018),disco,DELANTERO,,49.3,28,296,62,5 / 7,,FALSE,FALSE,FALSE,MD762.svg
+MD777,MD777 Disco de Freno Trasero Suzuki Grand Nomade (2006-2013),disco,TRASERO,,57,16,308,62,5 / 8,,FALSE,FALSE,FALSE,MD777.svg
+MD778,MD778 Disco de Freno Delantero Kia Frontier (2012-2022),disco,DELANTERO,,42,26,278,92,5,,FALSE,FALSE,FALSE,MD778.svg
+MD789,MD789 Disco de Freno Delantero Toyota 4Runner (2010-2014),disco,DELANTERO,,68.4,32,338,108,6 / 8,,FALSE,FALSE,FALSE,MD789.svg
+MD798,MD798 Disco de Freno Trasero Toyota 4Runner (2010-2014),disco,TRASERO,,67.9,18,312,108,6 / 14,,FALSE,FALSE,FALSE,MD798.svg
+MD811,MD811 Disco de Freno Delantero Chevrolet Sail 1.5 (2016 - 2022),disco,DELANTERO,,,,,,,,FALSE,FALSE,FALSE,MD811.svg
+MD856,MD856 Disco de Freno Trasero Toyota RAV4 (2013 - 2018),disco,TRASERO,,55,12,281,62,5 / 8,,FALSE,FALSE,FALSE,MD856.svg
+MD877 / MD752,MD877 / MD752 Disco de Freno Delantero Nissan Versa (2012 - 2018) / March (2012 - ON),disco,DELANTERO,,44,22,260,61,4 / 6,,FALSE,FALSE,FALSE,MD877.svg
+MD895,MD895 Disco de Freno Delantero Ford Transit 2.2 (2014 - 2019),disco,DELANTERO,,55.2,33,308,93,5,,FALSE,FALSE,FALSE,MD895.svg
+MD901,MD901 Disco de Freno Delantero Mazda CX5 (2012-2022),disco,DELANTERO,,52,28,297,68,5 / 6,,FALSE,FALSE,FALSE,MD901.svg
+MD902,MD902 Disco de Freno Trasero Mazda CX5 (2012-2022),disco,TRASERO,,40,10,303,68,5 / 6,,FALSE,FALSE,FALSE,MD902.svg
+MD929,MD929 Disco de Freno Delantero Hyundai  Grand I10 (2013-2017),disco,DELANTERO,,48.7,18,252,62.2,4 / 6,,FALSE,FALSE,FALSE,MD929.svg
+MD938,MD938 Disco de Freno Delantero Nissan Kicks (2017-2022),disco,DELANTERO,,43.9,22,258,61,4,,FALSE,FALSE,FALSE,MD938.svg
+MD938,MD938 Disco de Freno Delantero Nissan Versa (2020 - actual) / Kicks (2017 - actual),disco,DELANTERO,,43.9,22,258,61,4,,FALSE,FALSE,FALSE,MD938.svg
+MD949,MD949 Disco de Freno Delantero Mitsubishi Mirage,disco,DELANTERO,,,,,,,,FALSE,FALSE,FALSE,MD949.svg
+MD952,MD952 Disco de Freno Trasero Suzuki Swift 1.5,disco,TRASERO,,43.4,9,278,62,5 / 8,,FALSE,FALSE,FALSE,MD952.svg
+MD955,MD955 Disco de Freno Delantero Jeep Grand Cherokee 3.6,disco,DELANTERO,,54.7,32,350,72,5,,FALSE,FALSE,FALSE,MD955.svg
+MD956,MD956 Disco de Freno Trasero Jeep Grand Cherokee 3.6 (2012-2022),disco,TRASERO,,63.5,22,330,72,5,,FALSE,FALSE,FALSE,MD956.svg
+MD959,MD959 Disco de Freno Trasero Kia Sportage (2018-ON) / Tucson (2017 - 2018),disco,TRASERO,,55,10,302,76,5 / 8,,FALSE,FALSE,FALSE,MD959.svg
+MD960,MD960 Disco de Freno Delantero Hyundai Tucson (2016 - actual) / Sportage (2015 - actual),disco,DELANTERO,,48.2,25,305,69,5 / 7,,FALSE,FALSE,FALSE,MD960.svg
+MD960,MD960 Disco de Freno Delantero Kia Sportage (2010-2022),disco,DELANTERO,,47.3,28,300,69,5 / 7,,FALSE,FALSE,FALSE,MD960.svg
+MD990,MD990 Disco de Freno Delantero Hyundai  Elantra (2006-2011),disco,DELANTERO,,47,26,275,69,5 / 7,,FALSE,FALSE,FALSE,MD990.svg
+MD993,MD993 Disco de Freno Delantero Nissan Qashqai (2015-2017),disco,DELANTERO,,44,26,296,68,5 / 7,,FALSE,FALSE,FALSE,MD993.svg
+MD994,MD994 Disco de Freno Trasero Nissan Qashqai (2015-2017),disco,TRASERO,,47,13,290,68,5 / 7,,FALSE,FALSE,FALSE,MD994.svg
+MT000,MT000 Tambor de Freno Trasero Suzuki  Swift 1.3 (2009-2011),tambor,TRASERO,,81.5,,238,57.9,4 / 6,40.5,FALSE,FALSE,FALSE,MT000.svg
+MT014,MT014 Tambor de Freno Trasero Nissan Terrano Dob Cabina 4x4 (2008),tambor,TRASERO,,73,,300,100.6,6 / 8,63.5,FALSE,FALSE,FALSE,MT014.svg
+MT064,MT064 Tambor de Freno Trasero Suzuki Baleno (1996-2004),tambor,TRASERO,,56,,244.6,58,4 / 7,40,FALSE,FALSE,FALSE,MT064.svg
+MT068,MT068 Tambor de Freno Trasero Toyota Tercel (1994-1999),tambor,TRASERO,,80.6,,207,39.8,4,34.5,FALSE,FALSE,FALSE,MT068.svg
+MT098,MT098 Tambor de Freno Trasero Toyota Yaris Echo (2000-2005),tambor,TRASERO,,48.5,,180,55.1,4 / 6,38,FALSE,FALSE,FALSE,MT098.svg
+MT102,MT102 Tambor de Freno Trasero Nissan Terrano 4x2 (2001-2014),tambor,TRASERO,,88.5,,336.5,100.5,6 / 9,69,FALSE,FALSE,FALSE,MT102.svg
+MT105,MT105 Tambor de Freno trasero para Chevrolet Colorado y DMAX,tambor,TRASERO,,80.5,,337,101,6 / 8,66,FALSE,FALSE,FALSE,MT105.svg
+MT114,MT114 Tambor de Freno Trasero Mitsubishi L200 (2009-2018),tambor,TRASERO,,91.4,,343,94,6 / 8,73.2,FALSE,FALSE,FALSE,MT114.svg
+MT114,MT114 Tambor de Freno Trasero Mitsubishi Montero G2 (2010-2016),tambor,TRASERO,,91.4,,343,94,6 / 8,73.2,FALSE,FALSE,FALSE,MT114.svg
+MT115,MT115 Tambor de Freno Trasero Toyota Hilux DX (2016-ON) / Hilux Vigo (2012-2015) / Hilux Vigo (2012-2015),tambor,TRASERO,,76.1,,344.5,108,6 / 14,67,FALSE,FALSE,FALSE,MT115.svg
+MT115,MT115 Tambor de Freno Trasero Toyota Hilux Revo (2016-2022),tambor,TRASERO,,76.1,,344.5,108,6 / 14,67,FALSE,FALSE,FALSE,MT115.svg
+MT126,MT126 Tambor de Freno Trasero Nissan tiida (2009-2014),tambor,TRASERO,,66,,239,68,4 / 6,42.2,FALSE,FALSE,FALSE,MT126.svg
+MT128,MT128 Tambor de Freno Trasero Hyundai  i10 (2013-2017) / Hyundai  Accent (2006-2010),tambor,TRASERO,,57.6,,243,62.5,4 / 6,40.6,FALSE,FALSE,FALSE,MT128.svg
+MT142,MT142 Tambor de Freno Trasero Kia Morning (2012-2016),tambor,TRASERO,,53.4,,219.5,62.5,4 / 6,35.5,FALSE,FALSE,FALSE,MT142.svg
+MT143,MT143 Tambor de Freno Trasero Chevrolet Aveo (2009-2016),tambor,TRASERO,,57,,230,57,4 / 6,40,FALSE,FALSE,FALSE,MT143.svg
+MT146,MT146 Tambor de Freno Trasero Nissan Navara (2009-2015),tambor,TRASERO,,89,,336,68,6 / 8,72,FALSE,FALSE,FALSE,MT146.svg
+MT148,MT148 Tambor de Freno Trasero Kia Rio (2011-2016),tambor,TRASERO,,53.7,,252.3,62.5,4 / 5,36.7,FALSE,FALSE,FALSE,MT148.svg
+MT148,MT148 Tambor de Freno Trasero Kia Rio (2017 - 2022),tambor,TRASERO,,53.7,,252.3,62.5,4 / 5,36.7,FALSE,FALSE,FALSE,MT148.svg
+MT150,MT150 Tambor de Freno Trasero Toyota New Yaris (2006-2012),tambor,TRASERO,,53,,252,55,4 / 6,44,FALSE,FALSE,FALSE,MT150.svg
+MT152,MT152  Tambor de Freno Trasero Chevrolet Sail (2010-2016) SIN ABS,tambor,TRASERO,,,,,,,,FALSE,FALSE,FALSE,MT152.svg
+MT162,MT162 Tambor de Freno Trasero Chevrolet DMAX (2004-2014) Versión 4X2,tambor,TRASERO,,70.5,,302,101,6 / 7,60.5,FALSE,FALSE,FALSE,MT162.svg
+MT165,MT165 Tambor de Freno Trasero Chevrolet N300 (2012-2022),tambor,TRASERO,,,,,,,,FALSE,FALSE,FALSE,MT165.svg
+MT167,MT167 Tambor de Freno Trasero Ford Ranger y Mazda Bt50,tambor,TRASERO,,80.5,,347,93,6 / 8,67.8,FALSE,FALSE,FALSE,MT167.svg
+MT172,MT172 Tambor de Freno Trasero Nissan Versa (2012-2014),tambor,TRASERO,,,,,,,,FALSE,FALSE,FALSE,MT172.svg
+MT173,MT173 Tambor de Freno Trasero Hyundai  Elantra (2006-2011),tambor,TRASERO,,55.7,,244.5,76,5 / 7,42,FALSE,FALSE,FALSE,MT173.svg
+MT175,MT175 Tambor de Freno Trasero Volkswagen Amarok (2010 - 2022),tambor,TRASERO,,96,,335,76,5 / 8,72,FALSE,FALSE,FALSE,MT175.svg
+MT189,MT189 Tambor de Freno Trasero Hyundai  Elantra (2011 - 2017),tambor,TRASERO,,53.8,,252.5,76,5 / 7,36,FALSE,FALSE,FALSE,MT189.svg
+MT195,MT195 Tambor de Freno Trasero Nissan Kicks (2017-2022),tambor,TRASERO,,,,,,,,FALSE,FALSE,FALSE,MT195.svg

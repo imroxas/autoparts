@@ -129,6 +129,14 @@ document.addEventListener('DOMContentLoaded', () => {
     
     function displayPartData(part) {
         // Mostrar campos comunes
+
+    if (part.imagen) {
+        productImageElem.style.backgroundImage = `url(${part.imagen})`;
+        productImageElem.classList.remove('hidden'); // Mostrar
+    } else {
+        productImageElem.classList.add('hidden'); // Ocultar
+    }
+        
         specsContainer.classList.add('visible');
         productImageElem.style.backgroundImage = `url(${part.imagen})`;
         partNumberElem.textContent = part.id;
@@ -201,6 +209,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
    
     function clearResults() {
+        productImageElem.classList.add('hidden');
+        productImageElem.style.backgroundImage = ''; // Limpiar imagen
         specsContainer.classList.remove('visible');
         productImageElem.style.backgroundImage = '';
         partNumberElem.textContent = '-';

@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // Función para obtener materiales
     function obtenerMateriales(part) {
         const materiales = [];
-        if (part.semimetalica === 'true') materiales.push({ tipo: 'Semi-metálico' });
-        if (part.ceramica === 'true') materiales.push({ tipo: 'Cerámica' });
-        if (part.low_metal === 'true') materiales.push({ tipo: 'Low metal' });
+        if (part.semimetalica.toLowerCase() === 'true') materiales.push({ tipo: 'Semi-metálico' });
+        if (part.ceramica.toLowerCase() === 'true') materiales.push({ tipo: 'Cerámica' });
+        if (part.low_metal.toLowerCase() === 'true') materiales.push({ tipo: 'Low metal' });
         return materiales;
     }
     

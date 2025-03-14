@@ -16,7 +16,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Inter', sans-serif;
     background: white;
     min-height: 100vh;
     display: flex;
@@ -262,4 +262,11 @@ h2 {
     color: #dc3545; /* Rojo */
     background-color: #f8d7da; /* Fondo rojo claro */
     border: 1px solid #f5c6cb;
+}
+
+.inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }

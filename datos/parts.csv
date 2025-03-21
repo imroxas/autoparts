@@ -179,7 +179,7 @@ M1586,M1586 Pastillas de Freno Cerámica Delantera Peugeot Citroen Opel DS4,past
 M1587,M1587 Pastillas de freno delanteras para Nissan Sentra 2.0 (2019 - actual),pastilla,DELANTERO,141.6,55.8,16,,,,,FALSE,TRUE,FALSE,M1587.svg
 M1588,M1588 Pastillas de freno traseras para Nissan Sentra (2019 - on) ,pastilla,TRASERO,105.9,51,14.6,,,,,FALSE,TRUE,FALSE,M1588.svg
 M162,M162 - Pastillas de Freno Cerámica Delanteras Para Chevrolet,pastilla,DELANTERO,160 & 177.6,62 & 63,17.3,,,,,FALSE,TRUE,FALSE,M162.svg
-M1632,M1632 Pastillas De Freno Cerámica Delantera Toyota Corolla Sedan 2022- ON,pastilla,DELANTERO,134.4,59,18.7,,,,,FALSE,TRUE,FALSE,M1632.svg
+M1632,M1632 Pastillas De Freno Cerámica Delantera Toyota Corolla Sedan 2022- ON,pastilla,DELANTERO,134.4,59,18.7,,,,,TRUE,TRUE,FALSE,M1632.svg
 M1633,M1633 Pastillas De Freno Cerámica Traseras Toyota Corolla 2022 - OM,pastilla,TRASERO,100,50,16,,,,,FALSE,TRUE,FALSE,M1633.svg
 M165,M165 - Pastillas de Freno Cerámica Delanteras Para Honda,pastilla,DELANTERO,116,45,15,,,,,TRUE,TRUE,FALSE,M165.svg
 M166,M166 - Pastillas de Freno Cerámica Delanteras Para Hyundai  Jac,pastilla,DELANTERO,127.4,49,14.8,,,,,TRUE,TRUE,FALSE,M166.svg

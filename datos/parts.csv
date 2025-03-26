@@ -168,7 +168,7 @@ M1509,M1509 - Pastillas de Freno Cerámica Delanteras Para Honda CR V (2017-2022
 M1515,M1515 - Pastillas de Freno Cerámica Traseras Para Honda CR V (2017 - 2022),pastilla,TRASERO,118.9,49.1,17,,,,,FALSE,TRUE,FALSE,M1515.svg
 M1526,M1526 - Pastillas de Freno Cerámica Delanteras para Toyota,pastilla,DELANTERO,142.5,56,16.4,,,,,FALSE,TRUE,TRUE,M1526.svg
 M1527,M1527 - Pastillas de Freno Cerámica Traseras para Toyota,pastilla,TRASERO,121.3,42.7,14.5,,,,,FALSE,TRUE,FALSE,M1527.svg
-M1530,M1530 Pastillas de freno low metal delanteras para chevrolet,pastilla,DELANTERO,129.9,60.9,17,,,,,FALSE,FALSE,TRUE,M1530.svg
+M1530,M1530 Pastillas de freno low metal delanteras para chevrolet,pastilla,DELANTERO,129.9,60.9,17,,,,,TRUE,FALSE,TRUE,M1530.svg
 M1531,M1531 Pastillas de freno traseras para Chevrolet Groove (2021 - actual),pastilla,TRASERO,103.5,42.5,13.9,,,,,FALSE,TRUE,FALSE,M1531.svg
 M1535,M1535 Pastillas de Freno Ceramica Delantera Chevrolet Onix (2020),pastilla,DELANTERO,132.1,54 & 52,17,,,,,TRUE,TRUE,TRUE,M1535.svg
 M1553,M1553 - Pastillas de Freno Ceramica Traseras Peugeot,pastilla,TRASERO,92.2,46.1,16.5,,,,,FALSE,TRUE,FALSE,M1553.svg

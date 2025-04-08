@@ -1,4 +1,4 @@
-part_id,oem_number,brand,part_type
+id_parte,numero_oem,marca,part_type
 M1049,D1060JD00A,NISSAN,frontPads
 M1049,D1080JE00A,NISSAN,frontPads
 M1049,D10603UB0A,NISSAN,frontPads

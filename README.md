@@ -1,5 +1,5 @@
 # autoparts
-Simple autopart finder by OEM, and SKU
+Simple autopart finder by OEM and SKU.
 
 imroxas.github.io/autoparts/search.html
 
